@@ -1,0 +1,1663 @@
+{
+    "anger": [
+        [
+            {
+                "LOWER": "bad"
+            },
+            {
+                "LOWER": "blood"
+            }
+        ],
+        [
+            {
+                "LOWER": "ill"
+            },
+            {
+                "LOWER": "temper"
+            }
+        ],
+        [
+            {
+                "LOWER": "high"
+            },
+            {
+                "LOWER": "dudgeon"
+            }
+        ],
+        [
+            {
+                "LOWER": "bad"
+            },
+            {
+                "LOWER": "temper"
+            }
+        ],
+        [
+            {
+                "LOWER": "quick"
+            },
+            {
+                "LOWER": "temper"
+            }
+        ],
+        [
+            {
+                "LOWER": "short"
+            },
+            {
+                "LOWER": "temper"
+            }
+        ],
+        [
+            {
+                "LOWER": "see"
+            },
+            {
+                "LOWER": "red"
+            }
+        ],
+        [
+            {
+                "LOWER": "ill"
+            },
+            {
+                "LOWER": "will"
+            }
+        ],
+        [
+            {
+                "LOWER": "class"
+            },
+            {
+                "LOWER": "feeling"
+            }
+        ],
+        [
+            {
+                "LOWER": "the"
+            },
+            {
+                "LOWER": "green-eyed"
+            },
+            {
+                "LOWER": "monster"
+            }
+        ],
+        [
+            {
+                "LOWER": "green-eyed"
+            },
+            {
+                "LOWER": "monster"
+            }
+        ],
+        [
+            {
+                "LOWER": "with"
+            },
+            {
+                "LOWER": "hostility"
+            }
+        ],
+        [
+            {
+                "LOWER": "screw"
+            },
+            {
+                "LOWER": "you"
+            }
+        ],
+        [
+            {
+                "LOWER": "very"
+            },
+            {
+                "LOWER": "angry"
+            }
+        ],
+        [
+            {
+                "LOWER": "fuck"
+            },
+            {
+                "LOWER": "off"
+            }
+        ],
+        [
+            {
+                "LOWER": "road"
+            },
+            {
+                "LOWER": "rage"
+            }
+        ],
+        [
+            {
+                "LOWER": "fuck"
+            },
+            {
+                "LOWER": "tard"
+            }
+        ],
+        [
+            {
+                "LOWER": "so"
+            },
+            {
+                "LOWER": "pissed"
+            }
+        ],
+        [
+            {
+                "LOWER": "go"
+            },
+            {
+                "LOWER": "fuck"
+            },
+            {
+                "LOWER": "yourself"
+            }
+        ],
+        [
+            {
+                "LOWER": "piss"
+            },
+            {
+                "LOWER": "off"
+            }
+        ],
+        [
+            {
+                "LOWER": "pissing"
+            },
+            {
+                "LOWER": "me"
+            },
+            {
+                "LOWER": "off"
+            }
+        ],
+        [
+            {
+                "LOWER": "dumb"
+            },
+            {
+                "LOWER": "bitch"
+            }
+        ],
+        [
+            {
+                "LOWER": "rage"
+            },
+            {
+                "LOWER": "mode"
+            }
+        ],
+        [
+            {
+                "LOWER": "hate"
+            },
+            {
+                "LOWER": "you"
+            }
+        ],
+        [
+            {
+                "LOWER": "eff"
+            },
+            {
+                "LOWER": "you"
+            }
+        ],
+        [
+            {
+                "LOWER": "pissed"
+            },
+            {
+                "LOWER": "off"
+            }
+        ],
+        [
+            {
+                "LOWER": "pisses"
+            },
+            {
+                "LOWER": "me"
+            },
+            {
+                "LOWER": "off"
+            }
+        ],
+        [
+            {
+                "LOWER": "fuck"
+            },
+            {
+                "LOWER": "sake"
+            }
+        ],
+        [
+            {
+                "LOWER": "angry"
+            },
+            {
+                "LOWER": "tweet"
+            }
+        ],
+        [
+            {
+                "LOWER": "piece"
+            },
+            {
+                "LOWER": "of"
+            },
+            {
+                "LOWER": "shit"
+            }
+        ],
+        [
+            {
+                "LOWER": "rage"
+            },
+            {
+                "LOWER": "tweet"
+            }
+        ],
+        [
+            {
+                "LOWER": "grow"
+            },
+            {
+                "LOWER": "the"
+            },
+            {
+                "LOWER": "fuck"
+            },
+            {
+                "LOWER": "up"
+            }
+        ],
+        [
+            {
+                "LOWER": "so"
+            },
+            {
+                "LOWER": "angry"
+            }
+        ],
+        [
+            {
+                "LOWER": "don't"
+            },
+            {
+                "LOWER": "mess"
+            },
+            {
+                "LOWER": "with"
+            },
+            {
+                "LOWER": "me"
+            }
+        ],
+        [
+            {
+                "LOWER": "douche"
+            },
+            {
+                "LOWER": "bags"
+            }
+        ],
+        [
+            {
+                "LOWER": "fucked"
+            },
+            {
+                "LOWER": "off"
+            }
+        ],
+        [
+            {
+                "LOWER": "fed"
+            },
+            {
+                "LOWER": "up"
+            }
+        ],
+        [
+            {
+                "LOWER": "shit"
+            },
+            {
+                "LOWER": "day"
+            }
+        ],
+        [
+            {
+                "LOWER": "arse"
+            },
+            {
+                "LOWER": "holes"
+            }
+        ],
+        [
+            {
+                "LOWER": "dumb"
+            },
+            {
+                "LOWER": "asses"
+            }
+        ],
+        [
+            {
+                "LOWER": "don't"
+            },
+            {
+                "LOWER": "like"
+            },
+            {
+                "LOWER": "you"
+            }
+        ],
+        [
+            {
+                "LOWER": "makes"
+            },
+            {
+                "LOWER": "me"
+            },
+            {
+                "LOWER": "mad"
+            }
+        ],
+        [
+            {
+                "LOWER": "hate"
+            },
+            {
+                "LOWER": "everyone"
+            }
+        ],
+        [
+            {
+                "LOWER": "so"
+            },
+            {
+                "LOWER": "mad"
+            }
+        ],
+        [
+            {
+                "LOWER": "tired"
+            },
+            {
+                "LOWER": "of"
+            },
+            {
+                "LOWER": "it"
+            }
+        ]
+    ],
+    "happiness": [
+        [
+            {
+                "LOWER": "high"
+            },
+            {
+                "LOWER": "spirits"
+            }
+        ],
+        [
+            {
+                "LOWER": "with"
+            },
+            {
+                "LOWER": "empathy"
+            }
+        ],
+        [
+            {
+                "LOWER": "jolly"
+            },
+            {
+                "LOWER": "along"
+            }
+        ],
+        [
+            {
+                "LOWER": "good"
+            },
+            {
+                "LOWER": "will"
+            }
+        ],
+        [
+            {
+                "LOWER": "look"
+            },
+            {
+                "LOWER": "up"
+            },
+            {
+                "LOWER": "to"
+            }
+        ],
+        [
+            {
+                "LOWER": "look"
+            },
+            {
+                "LOWER": "to"
+            }
+        ],
+        [
+            {
+                "LOWER": "urge"
+            },
+            {
+                "LOWER": "on"
+            }
+        ],
+        [
+            {
+                "LOWER": "with"
+            },
+            {
+                "LOWER": "pride"
+            }
+        ],
+        [
+            {
+                "LOWER": "cheer"
+            },
+            {
+                "LOWER": "up"
+            }
+        ],
+        [
+            {
+                "LOWER": "fond"
+            },
+            {
+                "LOWER": "regard"
+            }
+        ],
+        [
+            {
+                "LOWER": "look"
+            },
+            {
+                "LOWER": "for"
+            }
+        ],
+        [
+            {
+                "LOWER": "feeling"
+            },
+            {
+                "LOWER": "of"
+            },
+            {
+                "LOWER": "identity"
+            }
+        ],
+        [
+            {
+                "LOWER": "pep"
+            },
+            {
+                "LOWER": "up"
+            }
+        ],
+        [
+            {
+                "LOWER": "giving"
+            },
+            {
+                "LOWER": "protection"
+            }
+        ],
+        [
+            {
+                "LOWER": "jump"
+            },
+            {
+                "LOWER": "for"
+            },
+            {
+                "LOWER": "joy"
+            }
+        ],
+        [
+            {
+                "LOWER": "walk"
+            },
+            {
+                "LOWER": "on"
+            },
+            {
+                "LOWER": "air"
+            }
+        ],
+        [
+            {
+                "LOWER": "on"
+            },
+            {
+                "LOWER": "cloud"
+            },
+            {
+                "LOWER": "nine"
+            }
+        ],
+        [
+            {
+                "LOWER": "calf"
+            },
+            {
+                "LOWER": "love"
+            }
+        ],
+        [
+            {
+                "LOWER": "puppy"
+            },
+            {
+                "LOWER": "love"
+            }
+        ],
+        [
+            {
+                "LOWER": "lift"
+            },
+            {
+                "LOWER": "up"
+            }
+        ],
+        [
+            {
+                "LOWER": "jolly"
+            },
+            {
+                "LOWER": "up"
+            }
+        ],
+        [
+            {
+                "LOWER": "hero"
+            },
+            {
+                "LOWER": "worship"
+            }
+        ],
+        [
+            {
+                "LOWER": "with"
+            },
+            {
+                "LOWER": "sympathy"
+            }
+        ],
+        [
+            {
+                "LOWER": "fellow"
+            },
+            {
+                "LOWER": "feeling"
+            }
+        ],
+        [
+            {
+                "LOWER": "with"
+            },
+            {
+                "LOWER": "happiness"
+            }
+        ],
+        [
+            {
+                "LOWER": "live"
+            },
+            {
+                "LOWER": "up"
+            },
+            {
+                "LOWER": "to"
+            }
+        ],
+        [
+            {
+                "LOWER": "offering"
+            },
+            {
+                "LOWER": "protection"
+            }
+        ],
+        [
+            {
+                "LOWER": "chirk"
+            },
+            {
+                "LOWER": "up"
+            }
+        ],
+        [
+            {
+                "LOWER": "soft"
+            },
+            {
+                "LOWER": "spot"
+            }
+        ],
+        [
+            {
+                "LOWER": "best"
+            },
+            {
+                "LOWER": "day"
+            },
+            {
+                "LOWER": "ever"
+            }
+        ],
+        [
+            {
+                "LOWER": "makes"
+            },
+            {
+                "LOWER": "me"
+            },
+            {
+                "LOWER": "happy"
+            }
+        ],
+        [
+            {
+                "LOWER": "happy"
+            },
+            {
+                "LOWER": "dance"
+            }
+        ],
+        [
+            {
+                "LOWER": "pure"
+            },
+            {
+                "LOWER": "bliss"
+            }
+        ],
+        [
+            {
+                "LOWER": "love"
+            },
+            {
+                "LOWER": "love"
+            },
+            {
+                "LOWER": "love"
+            }
+        ],
+        [
+            {
+                "LOWER": "peace"
+            },
+            {
+                "LOWER": "of"
+            },
+            {
+                "LOWER": "mind"
+            }
+        ],
+        [
+            {
+                "LOWER": "love"
+            },
+            {
+                "LOWER": "this"
+            }
+        ],
+        [
+            {
+                "LOWER": "happy"
+            },
+            {
+                "LOWER": "place"
+            }
+        ],
+        [
+            {
+                "LOWER": "over"
+            },
+            {
+                "LOWER": "the"
+            },
+            {
+                "LOWER": "moon"
+            }
+        ],
+        [
+            {
+                "LOWER": "loving"
+            },
+            {
+                "LOWER": "life"
+            }
+        ],
+        [
+            {
+                "LOWER": "i"
+            },
+            {
+                "LOWER": "love"
+            },
+            {
+                "LOWER": "her"
+            }
+        ],
+        [
+            {
+                "LOWER": "so"
+            },
+            {
+                "LOWER": "happy"
+            }
+        ],
+        [
+            {
+                "LOWER": "i"
+            },
+            {
+                "LOWER": "love"
+            },
+            {
+                "LOWER": "christmas"
+            }
+        ],
+        [
+            {
+                "LOWER": "tears"
+            },
+            {
+                "LOWER": "of"
+            },
+            {
+                "LOWER": "joy"
+            }
+        ],
+        [
+            {
+                "LOWER": "made"
+            },
+            {
+                "LOWER": "my"
+            },
+            {
+                "LOWER": "day"
+            }
+        ],
+        [
+            {
+                "LOWER": "favorite"
+            },
+            {
+                "LOWER": "holiday"
+            }
+        ],
+        [
+            {
+                "LOWER": "all"
+            },
+            {
+                "LOWER": "smiles"
+            }
+        ],
+        [
+            {
+                "LOWER": "home"
+            },
+            {
+                "LOWER": "sweet"
+            },
+            {
+                "LOWER": "home"
+            }
+        ],
+        [
+            {
+                "LOWER": "thank"
+            },
+            {
+                "LOWER": "you"
+            },
+            {
+                "LOWER": "god"
+            }
+        ],
+        [
+            {
+                "LOWER": "good"
+            },
+            {
+                "LOWER": "mood"
+            }
+        ],
+        [
+            {
+                "LOWER": "happy"
+            },
+            {
+                "LOWER": "heart"
+            }
+        ],
+        [
+            {
+                "LOWER": "great"
+            },
+            {
+                "LOWER": "day"
+            }
+        ],
+        [
+            {
+                "LOWER": "what"
+            },
+            {
+                "LOWER": "makes"
+            },
+            {
+                "LOWER": "mes"
+            },
+            {
+                "LOWER": "mile"
+            }
+        ],
+        [
+            {
+                "LOWER": "good"
+            },
+            {
+                "LOWER": "times"
+            }
+        ],
+        [
+            {
+                "LOWER": "happy"
+            },
+            {
+                "LOWER": "day"
+            }
+        ],
+        [
+            {
+                "LOWER": "my"
+            },
+            {
+                "LOWER": "favorite"
+            }
+        ],
+        [
+            {
+                "LOWER": "thank"
+            },
+            {
+                "LOWER": "you"
+            },
+            {
+                "LOWER": "lord"
+            }
+        ],
+        [
+            {
+                "LOWER": "happy"
+            },
+            {
+                "LOWER": "tweet"
+            }
+        ],
+        [
+            {
+                "LOWER": "love"
+            },
+            {
+                "LOWER": "my"
+            },
+            {
+                "LOWER": "life"
+            }
+        ],
+        [
+            {
+                "LOWER": "so"
+            },
+            {
+                "LOWER": "thankful"
+            }
+        ],
+        [
+            {
+                "LOWER": "so"
+            },
+            {
+                "LOWER": "lucky"
+            }
+        ],
+        [
+            {
+                "LOWER": "happy"
+            },
+            {
+                "LOWER": "valentines"
+            },
+            {
+                "LOWER": "day"
+            }
+        ],
+        [
+            {
+                "LOWER": "fun"
+            },
+            {
+                "LOWER": "day"
+            }
+        ],
+        [
+            {
+                "LOWER": "the"
+            },
+            {
+                "LOWER": "best"
+            }
+        ],
+        [
+            {
+                "LOWER": "life"
+            },
+            {
+                "LOWER": "is"
+            },
+            {
+                "LOWER": "good"
+            }
+        ],
+        [
+            {
+                "LOWER": "christmas"
+            },
+            {
+                "LOWER": "spirit"
+            }
+        ],
+        [
+            {
+                "LOWER": "good"
+            },
+            {
+                "LOWER": "feeling"
+            }
+        ],
+        [
+            {
+                "LOWER": "so"
+            },
+            {
+                "LOWER": "sweet"
+            }
+        ],
+        [
+            {
+                "LOWER": "happy"
+            },
+            {
+                "LOWER": "holidays"
+            }
+        ],
+        [
+            {
+                "LOWER": "t'is"
+            },
+            {
+                "LOWER": "the"
+            },
+            {
+                "LOWER": "season"
+            }
+        ],
+        [
+            {
+                "LOWER": "positive"
+            },
+            {
+                "LOWER": "energy"
+            }
+        ],
+        [
+            {
+                "LOWER": "good"
+            },
+            {
+                "LOWER": "vibes"
+            }
+        ],
+        [
+            {
+                "LOWER": "feeling"
+            },
+            {
+                "LOWER": "good"
+            }
+        ],
+        [
+            {
+                "LOWER": "good"
+            },
+            {
+                "LOWER": "day"
+            }
+        ],
+        [
+            {
+                "LOWER": "great"
+            },
+            {
+                "LOWER": "night"
+            }
+        ],
+        [
+            {
+                "LOWER": "be"
+            },
+            {
+                "LOWER": "happy"
+            }
+        ],
+        [
+            {
+                "LOWER": "christmas"
+            },
+            {
+                "LOWER": "break"
+            }
+        ],
+        [
+            {
+                "LOWER": "at"
+            },
+            {
+                "LOWER": "peace"
+            }
+        ],
+        [
+            {
+                "LOWER": "god"
+            },
+            {
+                "LOWER": "is"
+            },
+            {
+                "LOWER": "great"
+            }
+        ],
+        [
+            {
+                "LOWER": "best"
+            },
+            {
+                "LOWER": "feeling"
+            }
+        ],
+        [
+            {
+                "LOWER": "merry"
+            },
+            {
+                "LOWER": "christmas"
+            }
+        ],
+        [
+            {
+                "LOWER": "so"
+            },
+            {
+                "LOWER": "blessed"
+            }
+        ],
+        [
+            {
+                "LOWER": "good"
+            },
+            {
+                "LOWER": "life"
+            }
+        ],
+        [
+            {
+                "LOWER": "love"
+            },
+            {
+                "LOWER": "life"
+            }
+        ],
+        [
+            {
+                "LOWER": "good"
+            },
+            {
+                "LOWER": "news"
+            }
+        ],
+        [
+            {
+                "LOWER": "fuck"
+            },
+            {
+                "LOWER": "yeah"
+            }
+        ],
+        [
+            {
+                "LOWER": "new"
+            },
+            {
+                "LOWER": "beginnings"
+            }
+        ],
+        [
+            {
+                "LOWER": "praise"
+            },
+            {
+                "LOWER": "jesus"
+            }
+        ],
+        [
+            {
+                "LOWER": "me"
+            },
+            {
+                "LOWER": "time"
+            }
+        ],
+        [
+            {
+                "LOWER": "great"
+            },
+            {
+                "LOWER": "friends"
+            }
+        ],
+        [
+            {
+                "LOWER": "holiday"
+            },
+            {
+                "LOWER": "season"
+            }
+        ],
+        [
+            {
+                "LOWER": "thank"
+            },
+            {
+                "LOWER": "you"
+            },
+            {
+                "LOWER": "jesus"
+            }
+        ],
+        [
+            {
+                "LOWER": "best"
+            },
+            {
+                "LOWER": "friends"
+            }
+        ],
+        [
+            {
+                "LOWER": "good"
+            },
+            {
+                "LOWER": "health"
+            }
+        ],
+        [
+            {
+                "LOWER": "memories"
+            },
+            {
+                "LOWER": "i"
+            },
+            {
+                "LOWER": "won't"
+            },
+            {
+                "LOWER": "forget"
+            }
+        ],
+        [
+            {
+                "LOWER": "happy"
+            },
+            {
+                "LOWER": "new"
+            },
+            {
+                "LOWER": "year"
+            }
+        ],
+        [
+            {
+                "LOWER": "inner"
+            },
+            {
+                "LOWER": "peace"
+            }
+        ],
+        [
+            {
+                "LOWER": "christmas"
+            },
+            {
+                "LOWER": "eve"
+            }
+        ],
+        [
+            {
+                "LOWER": "nothing"
+            },
+            {
+                "LOWER": "better"
+            }
+        ],
+        [
+            {
+                "LOWER": "praise"
+            },
+            {
+                "LOWER": "god"
+            }
+        ],
+        [
+            {
+                "LOWER": "new"
+            },
+            {
+                "LOWER": "life"
+            }
+        ],
+        [
+            {
+                "LOWER": "god"
+            },
+            {
+                "LOWER": "bless"
+            }
+        ],
+        [
+            {
+                "LOWER": "one"
+            },
+            {
+                "LOWER": "love"
+            }
+        ],
+        [
+            {
+                "LOWER": "stress"
+            },
+            {
+                "LOWER": "free"
+            }
+        ]
+    ],
+    "sadness": [
+        [
+            {
+                "LOWER": "cast"
+            },
+            {
+                "LOWER": "down"
+            }
+        ],
+        [
+            {
+                "LOWER": "guilty"
+            },
+            {
+                "LOWER": "conscience"
+            }
+        ],
+        [
+            {
+                "LOWER": "blue"
+            },
+            {
+                "LOWER": "devils"
+            }
+        ],
+        [
+            {
+                "LOWER": "get"
+            },
+            {
+                "LOWER": "down"
+            }
+        ],
+        [
+            {
+                "LOWER": "sorry"
+            },
+            {
+                "LOWER": "for"
+            }
+        ],
+        [
+            {
+                "LOWER": "guilt"
+            },
+            {
+                "LOWER": "trip"
+            }
+        ],
+        [
+            {
+                "LOWER": "guilt"
+            },
+            {
+                "LOWER": "feelings"
+            }
+        ],
+        [
+            {
+                "LOWER": "child"
+            },
+            {
+                "LOWER": "loss"
+            }
+        ],
+        [
+            {
+                "LOWER": "broken"
+            },
+            {
+                "LOWER": "heart"
+            }
+        ],
+        [
+            {
+                "LOWER": "life"
+            },
+            {
+                "LOWER": "sucks"
+            }
+        ],
+        [
+            {
+                "LOWER": "no"
+            },
+            {
+                "LOWER": "hope"
+            }
+        ],
+        [
+            {
+                "LOWER": "forever"
+            },
+            {
+                "LOWER": "alone"
+            }
+        ],
+        [
+            {
+                "LOWER": "missing"
+            },
+            {
+                "LOWER": "you"
+            }
+        ],
+        [
+            {
+                "LOWER": "feeling"
+            },
+            {
+                "LOWER": "down"
+            }
+        ]
+    ],
+    "disgust": [
+        [
+            {
+                "LOWER": "tired"
+            },
+            {
+                "LOWER": "of"
+            }
+        ],
+        [
+            {
+                "LOWER": "churn"
+            },
+            {
+                "LOWER": "up"
+            }
+        ],
+        [
+            {
+                "LOWER": "turn"
+            },
+            {
+                "LOWER": "off"
+            }
+        ],
+        [
+            {
+                "LOWER": "fed"
+            },
+            {
+                "LOWER": "up"
+            }
+        ],
+        [
+            {
+                "LOWER": "sick"
+            },
+            {
+                "LOWER": "of"
+            }
+        ]
+    ],
+    "fear": [
+        [
+            {
+                "LOWER": "stage"
+            },
+            {
+                "LOWER": "fright"
+            }
+        ],
+        [
+            {
+                "LOWER": "frighten"
+            },
+            {
+                "LOWER": "away"
+            }
+        ],
+        [
+            {
+                "LOWER": "scare"
+            },
+            {
+                "LOWER": "off"
+            }
+        ],
+        [
+            {
+                "LOWER": "scare"
+            },
+            {
+                "LOWER": "away"
+            }
+        ],
+        [
+            {
+                "LOWER": "frighten"
+            },
+            {
+                "LOWER": "off"
+            }
+        ],
+        [
+            {
+                "LOWER": "panic"
+            },
+            {
+                "LOWER": "attack"
+            }
+        ],
+        [
+            {
+                "LOWER": "suicide"
+            },
+            {
+                "LOWER": "bombing"
+            }
+        ],
+        [
+            {
+                "LOWER": "i"
+            },
+            {
+                "LOWER": "hate"
+            },
+            {
+                "LOWER": "spiders"
+            }
+        ],
+        [
+            {
+                "LOWER": "heart"
+            },
+            {
+                "LOWER": "attack"
+            }
+        ],
+        [
+            {
+                "LOWER": "biggest"
+            },
+            {
+                "LOWER": "fear"
+            }
+        ],
+        [
+            {
+                "LOWER": "anxiety"
+            },
+            {
+                "LOWER": "attack"
+            }
+        ],
+        [
+            {
+                "LOWER": "war"
+            },
+            {
+                "LOWER": "crimes"
+            }
+        ],
+        [
+            {
+                "LOWER": "freaking"
+            },
+            {
+                "LOWER": "out"
+            }
+        ],
+        [
+            {
+                "LOWER": "oh"
+            },
+            {
+                "LOWER": "shit"
+            }
+        ],
+        [
+            {
+                "LOWER": "so"
+            },
+            {
+                "LOWER": "scary"
+            }
+        ],
+        [
+            {
+                "LOWER": "social"
+            },
+            {
+                "LOWER": "anxiety"
+            }
+        ],
+        [
+            {
+                "LOWER": "so"
+            },
+            {
+                "LOWER": "scared"
+            }
+        ],
+        [
+            {
+                "LOWER": "franken"
+            },
+            {
+                "LOWER": "storm"
+            }
+        ],
+        [
+            {
+                "LOWER": "nervous"
+            },
+            {
+                "LOWER": "wreck"
+            }
+        ],
+        [
+            {
+                "LOWER": "freaked"
+            },
+            {
+                "LOWER": "out"
+            }
+        ],
+        [
+            {
+                "LOWER": "self"
+            },
+            {
+                "LOWER": "harm"
+            }
+        ],
+        [
+            {
+                "LOWER": "can't"
+            },
+            {
+                "LOWER": "breathe"
+            }
+        ]
+    ],
+    "surprise": [
+        [
+            {
+                "LOWER": "in"
+            },
+            {
+                "LOWER": "awe"
+            },
+            {
+                "LOWER": "of"
+            }
+        ]
+    ]
+}

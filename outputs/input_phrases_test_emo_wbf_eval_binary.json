@@ -1,0 +1,51 @@
+{
+    "num_no_pred": 0,
+    "grammar_scores": {
+        "mean": 0.749,
+        "median": 0.883
+    },
+    "micro_score": 0.09,
+    "style_score": {
+        "accuracy": 0.1057
+    },
+    "grammar_score": {
+        "accuracy": 0.8023
+    },
+    "bert_score": {
+        "precision": 0.9617,
+        "recall": 0.9313,
+        "f1": 0.9462
+    },
+    "macro_score": 0.623,
+    "perplexity": {
+        "mean": NaN,
+        "median": NaN
+    },
+    "edit_types": {
+        "no-change": 880
+    },
+    "diversity": {
+        "anger": {
+            "diversity-1": 0.0,
+            "diversity-2": 0.0
+        },
+        "happiness": {
+            "diversity-1": 0.0,
+            "diversity-2": 0.0
+        },
+        "sadness": {
+            "diversity-1": 0.0,
+            "diversity-2": 0.0
+        },
+        "all": {
+            "diversity-1": 0.0,
+            "diversity-2": 0.0
+        }
+    },
+    "emo_phrases": {
+        "anger": [],
+        "happiness": [],
+        "sadness": [],
+        "all": []
+    }
+}

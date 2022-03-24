@@ -1,0 +1,842 @@
+{
+    "tr_2210_21": {
+        "input": "Okay, I'll follow your advice.",
+        "context": "Probably we'll survive. But turn the car off for about forty-five minutes. Then we'll turn it on again.",
+        "context_emo": "neutral",
+        "pred": "okay, i'll follow your advice. good for you",
+        "pred_emo": "happiness"
+    },
+    "tr_2744_9": {
+        "input": "You mean I am groaned a few words ?",
+        "context": "Oh I remember, I cut terrible calls, and you didn't say anything about it.",
+        "context_emo": "neutral",
+        "pred": "you mean i am groaned a few words? i am sorry.",
+        "pred_emo": "sadness"
+    },
+    "tr_2991_5": {
+        "input": "How about the words of the song ?",
+        "context": "No, I think the music is too fast.",
+        "context_emo": "neutral",
+        "pred": "oh dear, how about the words of the song?",
+        "pred_emo": "sadness"
+    },
+    "tr_13_3": {
+        "input": "I'm sorry. I didn't know that.",
+        "context": "It's good. But to tell you the truth, I don't wear perfume.",
+        "context_emo": "neutral",
+        "pred": "i'm sorry, but i didn't know that.",
+        "pred_emo": "sadness"
+    },
+    "tr_8080_9": {
+        "input": "Do you think that maybe you are getting the flu ?",
+        "context": "My stress level is pretty much what is usually is.",
+        "context_emo": "sadness",
+        "pred": "do you think that maybe you are getting the flu? that is just stupid",
+        "pred_emo": "anger"
+    },
+    "tr_4544_5": {
+        "input": "What type of girl is she ?",
+        "context": "Sure. She is the ideal girl, the one I had dreamed of.",
+        "context_emo": "happiness",
+        "pred": "nice. what type of girl is she?",
+        "pred_emo": "happiness"
+    },
+    "va_184_3": {
+        "input": "What size are you looking for ?",
+        "context": "I'm looking for a sweater.",
+        "context_emo": "neutral",
+        "pred": "what size are you looking for? what the fuck?",
+        "pred_emo": "anger"
+    },
+    "tr_9841_7": {
+        "input": "Maybe a vanilla ice cream milkshake would be good. What's your favorite flavor ?",
+        "context": "Absolutely! They also have real Italian Galatian and French sorbets. They do a great baked Alaska.",
+        "context_emo": "happiness",
+        "pred": "maybe a vanilla ice cream milkshake would be good. poor guy. what's your favorite flavor?",
+        "pred_emo": "sadness"
+    },
+    "tr_2652_5": {
+        "input": "What on earth are you talking about ?",
+        "context": "I really wish I hadn't done it.",
+        "context_emo": "sadness",
+        "pred": "wow, what on earth are you talking about?",
+        "pred_emo": "happiness"
+    },
+    "tr_9734_10": {
+        "input": "Tax brings your total to $ 32. 42. How would you like to pay ?",
+        "context": "Thank you, but no. This will do it for now.",
+        "context_emo": "happiness",
+        "pred": "congratulations. Tax brings your total to $ 32. 42. 42. how would you like to pay?",
+        "pred_emo": "happiness"
+    },
+    "tr_5729_4": {
+        "input": "But that way you're not savoring it.",
+        "context": "Or just stuff the whole thing in your mouth at once!",
+        "context_emo": "happiness",
+        "pred": "but that way you're not savoring it, i'm sorry.",
+        "pred_emo": "sadness"
+    },
+    "tr_8322_8": {
+        "input": "Just take them for your good friends and have a talk with them as we do. Make sure you won't lose your temper!",
+        "context": "Oh, I always have difficulty in getting along with the staff.",
+        "context_emo": "sadness",
+        "pred": "just take them for your good friends and have a hell of a talk with them as we do. make sure you won't lose your temper!",
+        "pred_emo": "anger"
+    },
+    "te_416_10": {
+        "input": "I don't think you did, you know. My neighbor told me she saw some here only yesterday.",
+        "context": "I am afraid the sales are over now, madam. And you know we all sold out of the saucepans.",
+        "context_emo": "sadness",
+        "pred": "i don't think you did, you know. My neighbor told me she saw some here only yesterday. congratulations!",
+        "pred_emo": "happiness"
+    },
+    "tr_5375_9": {
+        "input": "I'm going to call you soon.",
+        "context": "So I'll see you next time.",
+        "context_emo": "neutral",
+        "pred": "sorry, i'm going to call you soon.",
+        "pred_emo": "sadness"
+    },
+    "tr_914_16": {
+        "input": "I try to be sensible about it, but it's not very easy. Sometimes you just have to grin and bear it.",
+        "context": "That's very sensible. It sounds like you have a good head on you shoulders.",
+        "context_emo": "neutral",
+        "pred": "i try to be sensible about it, but it's not very easy. Sometimes you just have to grin and bear it. you suck.",
+        "pred_emo": "anger"
+    },
+    "te_534_12": {
+        "input": "I know that you like this house, but let's take a look at the others before you make up your mind.",
+        "context": "There is plenty of room for our king-sized bed, and I love the light in this room.",
+        "context_emo": "happiness",
+        "pred": "i know that you love this house, but let's take a closer look at the others before you make up your mind.",
+        "pred_emo": "happiness"
+    },
+    "tr_3558_3": {
+        "input": "I'm reading about Michael Milliken, the Bond King.",
+        "context": "What are you reading ?",
+        "context_emo": "neutral",
+        "pred": "i'm reading about Michael Milliken, the Bond King. sad.",
+        "pred_emo": "sadness"
+    },
+    "tr_2717_8": {
+        "input": "It's basically about a father who tried to marry off one of his five girls.",
+        "context": "I didn't realize it was a romance novel. What's the main storyline ?",
+        "context_emo": "neutral",
+        "pred": "it's basically about a great father who tried to marry off one of his five daughters.",
+        "pred_emo": "happiness"
+    },
+    "te_266_2": {
+        "input": "Would you please show me that mural ?",
+        "context": "Is there anything I can do for you ?",
+        "context_emo": "neutral",
+        "pred": "would you please show me that gorgeous mural?",
+        "pred_emo": "happiness"
+    },
+    "tr_6281_4": {
+        "input": "They are announcing your flight. You'd better board the plane.",
+        "context": "She told me she'd be here.",
+        "context_emo": "neutral",
+        "pred": "they are announcing your flight. you'd better board the plane. you maniac",
+        "pred_emo": "anger"
+    },
+    "tr_3972_2": {
+        "input": "Hi, John, I am trying to find a carpenter.",
+        "context": "Hi, Sara, what are you reading ?",
+        "context_emo": "neutral",
+        "pred": "Hi, John, i am really sorry to hear you are trying to find a carpenter.",
+        "pred_emo": "sadness"
+    },
+    "tr_3672_4": {
+        "input": "Unfortunately, we do. Let's plan for something together for Wednesday. We can go right after work.",
+        "context": "Do you already have a foursome ?",
+        "context_emo": "neutral",
+        "pred": "unfortunately, we do. Let's plan for something together for Wednesday. we can go right after work. fuck off.",
+        "pred_emo": "anger"
+    },
+    "tr_10265_8": {
+        "input": "That might be going overboard a bit. How about just that scarf with a bracelet ?",
+        "context": "How about this scarf, these earrings, AMD an anklet ?",
+        "context_emo": "neutral",
+        "pred": "oh dear, that might be going overboard a bit. How about just that scarf with a bracelet?",
+        "pred_emo": "sadness"
+    },
+    "tr_10373_12": {
+        "input": "He plays outside right but it doesn't mean he has to stand on the right.",
+        "context": "Oh. I made a mistake. I thought the guy on the right was Peckham.",
+        "context_emo": "sadness",
+        "pred": "he plays outside right but it doesn't mean he has to stand on the right. he's an idiot.",
+        "pred_emo": "anger"
+    },
+    "tr_10373_2": {
+        "input": "I want it the way Peckham wears it.",
+        "context": "How do you want your hair cut ?",
+        "context_emo": "neutral",
+        "pred": "absolutely. i want it the way Peckham wears it.",
+        "pred_emo": "happiness"
+    },
+    "valid.valid.Ses04F_impro07_25": {
+        "input": "That's ridiculous. I don't believe that.",
+        "context": "they have that as a major?",
+        "context_emo": "neutral",
+        "pred": "fuck that's ridiculous. i don't believe that.",
+        "pred_emo": "anger"
+    },
+    "tr_3216_10": {
+        "input": "Did you know that he came here last year after 10 years in the military ?",
+        "context": "Yes, that sounds right for me.",
+        "context_emo": "happiness",
+        "pred": "that's a shame. Did you know that he came here last year after 10 years in the military?",
+        "pred_emo": "sadness"
+    },
+    "tr_9389_4": {
+        "input": "Pretty well. Everyone is working hard.",
+        "context": "Have a seat over there. How are things going out in the office ?",
+        "context_emo": "neutral",
+        "pred": "pretty well. Everyone is working hard. it sucks.",
+        "pred_emo": "sadness"
+    },
+    "tr_4576_16": {
+        "input": "Although I hate to exercise, I go jogging at least twice a week.",
+        "context": "If you like to play so much, when do you ever exercise ?",
+        "context_emo": "neutral",
+        "pred": "i love jogging, although i hate to exercise, it's at least twice a week.",
+        "pred_emo": "happiness"
+    },
+    "tr_756_12": {
+        "input": "Perhaps that had something to do with it.",
+        "context": "A dark suit. White shirt. A tie. Why ?",
+        "context_emo": "neutral",
+        "pred": "oh wow, perhaps that had something to do with it.",
+        "pred_emo": "happiness"
+    },
+    "tr_4974_19": {
+        "input": "Alright. We can go later then.",
+        "context": "I don't think this mall has a leather goods store. So we have to go to State Street.",
+        "context_emo": "neutral",
+        "pred": "Alright. We can go later then. good.",
+        "pred_emo": "happiness"
+    },
+    "tr_1097_2": {
+        "input": "Excited ? What's there to be excited about ? It's just another company dinner, right ?",
+        "context": "Our company's wei-ya is tomorrow night! It's your first Chinese New Year in Taiwan--you must be excited!",
+        "context_emo": "happiness",
+        "pred": "excited? what's there to be excited about? it's just another company dinner, right?",
+        "pred_emo": "happiness"
+    },
+    "tr_1028_5": {
+        "input": "So there isn't air in the glass boxes ?",
+        "context": "For protection. Some relics will turn to dust if exposed to air.",
+        "context_emo": "neutral",
+        "pred": "that is a shame. so there isn't air in the glass boxes?",
+        "pred_emo": "sadness"
+    },
+    "tr_6232_15": {
+        "input": "Yes, it's a Macintosh. It's Apple. Macintosh and Apple are the same thing.",
+        "context": "Hmm. Hey, wait. This has an Apple on it. Is this an Apple computer ?",
+        "context_emo": "neutral",
+        "pred": "yes, it's a Macintosh. Macintosh and Apple are the same thing. haha",
+        "pred_emo": "happiness"
+    },
+    "tr_1928_6": {
+        "input": "Mmmm, no. How about you ?",
+        "context": "Have you got a new one ?",
+        "context_emo": "neutral",
+        "pred": "Mmmm, no. sorry, but how about you?",
+        "pred_emo": "sadness"
+    },
+    "tr_1317_8": {
+        "input": "I'd rather not. I don't like horror movies.",
+        "context": "Should we go see it ?",
+        "context_emo": "happiness",
+        "pred": "i'd rather not. i get so mad at horror movies.",
+        "pred_emo": "anger"
+    },
+    "va_371_3": {
+        "input": "Well, yes, it is, but...",
+        "context": "What's it look like, lady ? This is the ticket line I'm standing in, isn't it ?",
+        "context_emo": "neutral",
+        "pred": "well, yes, it is, but damn it...",
+        "pred_emo": "anger"
+    },
+    "tr_2210_20": {
+        "input": "Probably we'll survive. But turn the car off for about forty-five minutes. Then we'll turn it on again.",
+        "context": "Oh, my God! It's good we have food.",
+        "context_emo": "happiness",
+        "pred": "probably we'll survive. But it's a shame to turn the car off for about forty-five minutes. then we'll turn it on again.",
+        "pred_emo": "sadness"
+    },
+    "tr_10620_2": {
+        "input": "Sure, but I don't drink much. So I don't know what to order.",
+        "context": "Can I get you something to drink ?",
+        "context_emo": "neutral",
+        "pred": "Sure, but i don't drink much. So it's useless. So i don't know what to order.",
+        "pred_emo": "anger"
+    },
+    "tr_9280_8": {
+        "input": "I'll put it on my Visa card, then.",
+        "context": "Sorry, no. We only take MasterCard or Visa.",
+        "context_emo": "sadness",
+        "pred": "yep. i'll put it on my Visa card, then.",
+        "pred_emo": "happiness"
+    },
+    "tr_9249_3": {
+        "input": "yeah, maybe you're right. How about this outfit ?",
+        "context": "don't you think it's a bit bright ?",
+        "context_emo": "neutral",
+        "pred": "yeah, maybe you're right. How about this outfit? haha",
+        "pred_emo": "happiness"
+    },
+    "tr_6163_2": {
+        "input": "Hello, this is John. I wanna speak to Linda, please.",
+        "context": "Hello, this is 5735647 5.",
+        "context_emo": "neutral",
+        "pred": "Hello, this is John. i wanna speak to Linda, please. you suck.",
+        "pred_emo": "anger"
+    },
+    "tr_2118_6": {
+        "input": "Not yet. I didn't get a hold of them. I'll try to call them again tonight.",
+        "context": "Did you tell your parents yet ?",
+        "context_emo": "neutral",
+        "pred": "not yet. i didn't get a hold of them. i'll try to call them again tonight. haha",
+        "pred_emo": "happiness"
+    },
+    "tr_8640_3": {
+        "input": "Oh, that's a very expensive brand, but with good reason.",
+        "context": "I love all the fashionable things. But my favorite brand is Chanel.",
+        "context_emo": "happiness",
+        "pred": "Oh, that's a very expensive brand, but with good reason. fuck you.",
+        "pred_emo": "anger"
+    },
+    "tr_8014_20": {
+        "input": "How many students are in the class ?",
+        "context": "So ? You can go to the class for me. Just write my name on the exam book and take the exam. Why not ?",
+        "context_emo": "neutral",
+        "pred": "oh no! how many students are in the class?",
+        "pred_emo": "anger"
+    },
+    "tr_2822_8": {
+        "input": "And she was in a movie once again, right ?",
+        "context": "Not really. But I like some of her songs. She's actually very talented. She's a song writer and fashion designer, too.",
+        "context_emo": "neutral",
+        "pred": "damn. And she was in a movie once again, right?",
+        "pred_emo": "anger"
+    },
+    "tr_2710_6": {
+        "input": "I think it's too short. You'd better say something about your work experience.",
+        "context": "Good idea, Betty. What would you think about the second part ?",
+        "context_emo": "happiness",
+        "pred": "i think it's too stupid. you'd better say something negative about your work experience.",
+        "pred_emo": "anger"
+    },
+    "tr_9204_4": {
+        "input": "Anything that distracts you from work ?",
+        "context": "Well, actually I failed to meet a deadline last week and I forgot to answer an e-mail for a VIP customer yesterday.",
+        "context_emo": "sadness",
+        "pred": "oh wow! Anything that distracts you from work?",
+        "pred_emo": "happiness"
+    },
+    "tr_6903_9": {
+        "input": "Now for the most difficult question. What is the price tag for this lovely vehicle ?",
+        "context": "A very powerful 2. 5- liter turbocharged engine, Trust me, this car is fast!",
+        "context_emo": "happiness",
+        "pred": "no, now for the most difficult question. what is the price tag for this lovely vehicle?",
+        "pred_emo": "sadness"
+    },
+    "te_968_13": {
+        "input": "office romance is very tricky.",
+        "context": "worse still, he is trying to avoid me these days.",
+        "context_emo": "sadness",
+        "pred": "office romance is very tricky and very frustrating.",
+        "pred_emo": "anger"
+    },
+    "tr_10419_6": {
+        "input": "Here you are. Taste the French fries.",
+        "context": "Wow! You're right. Everything is absolutely delicious. Please pass the pepper.",
+        "context_emo": "happiness",
+        "pred": "here you are. taste the French fries. you poor thing.",
+        "pred_emo": "sadness"
+    },
+    "tr_387_8": {
+        "input": "Well, take care of yourself, and don't say I didn't warn you.",
+        "context": "I'll tell you all about it next Monday.",
+        "context_emo": "happiness",
+        "pred": "well that's not good. take care of yourself, and don't say i didn't warn you.",
+        "pred_emo": "sadness"
+    },
+    "tr_4907_3": {
+        "input": "Oh, dear. Did you lose a lot of money ?",
+        "context": "Something awful happened. We went to the Portobello Road, and someone stole my handbag.",
+        "context_emo": "sadness",
+        "pred": "Oh dear, that sucks. Did you lose a lot of money?",
+        "pred_emo": "anger"
+    },
+    "tr_10906_4": {
+        "input": "Yeah, especially since Jack didn't take care of the plane reservations.",
+        "context": "No! Christmas without him is bad enough. So, honey, do you have cold feet yet ?",
+        "context_emo": "sadness",
+        "pred": "yeah, especially since Jack didn't take care of the plane reservations. great!",
+        "pred_emo": "happiness"
+    },
+    "tr_399_3": {
+        "input": "Why are you feeling depress ?",
+        "context": "I am not in the mood.",
+        "context_emo": "sadness",
+        "pred": "i am sorry to hear why are you feeling depressed?",
+        "pred_emo": "sadness"
+    },
+    "tr_8560_5": {
+        "input": "No. You know, there are many schools and styles of kung fu. What we will perform is a set of Chinese shadow boxing.",
+        "context": "Sounds great! Shall I learn the actions that Jet Li did in the movies ?",
+        "context_emo": "happiness",
+        "pred": "sadly, no. You know, there are many schools and styles of kung fu. What we will perform is a set of Chinese shadow boxing.",
+        "pred_emo": "sadness"
+    },
+    "tr_6152_2": {
+        "input": "Hello ? Can you help me ? My computer! Oh man...",
+        "context": "Hello, thanks for calling 123 Tech Help, I'm Todd. How can I help you ?",
+        "context_emo": "happiness",
+        "pred": "Hello? Can you help me? My computer! oh man, what a jerk...",
+        "pred_emo": "anger"
+    },
+    "tr_513_5": {
+        "input": "Of course, tomorrow evening there will be a most exciting game.",
+        "context": "Oh, thank you for pointing that out. By the way, have you been following NBA for this season ?",
+        "context_emo": "happiness",
+        "pred": "Of course, tomorrow evening there will be a most exciting game. haha",
+        "pred_emo": "happiness"
+    },
+    "train.Ses03M_impro08b_19": {
+        "input": "Alright. Um- Well that could be the problem. cause--",
+        "context": "No- I don't have a sim card because it's Verizon and you guys don't use sim cards.",
+        "context_emo": "anger",
+        "pred": "Alright. Um- Well that could be the problem. i'm sorry cause---",
+        "pred_emo": "sadness"
+    },
+    "tr_2969_5": {
+        "input": "Your bag ? Did you get it back ?",
+        "context": "I went to the library and lost my bag.",
+        "context_emo": "sadness",
+        "pred": "i am sorry to hear your bag? Did you get it back?",
+        "pred_emo": "sadness"
+    },
+    "te_335_9": {
+        "input": "Here you go. On any other day, it would cost me a fortune, but it's on special offer today.",
+        "context": "That's gorgeous! Do they have it in a size 8 ?",
+        "context_emo": "happiness",
+        "pred": "here you go. On any other day, it would cost me a fortune, but it's on special offer today. you bastard.",
+        "pred_emo": "anger"
+    },
+    "tr_3972_12": {
+        "input": "I'd like my deck to be at the same level as the back door.",
+        "context": "Please go ahead, I am listening.",
+        "context_emo": "happiness",
+        "pred": "no way! i'd like my deck to be at the same level as the back door.",
+        "pred_emo": "anger"
+    },
+    "tr_2826_5": {
+        "input": "Is there anything I can do ?",
+        "context": "A couple of days ago. I just go back from the funeral.",
+        "context_emo": "sadness",
+        "pred": "oh wow, is there anything i can do?",
+        "pred_emo": "happiness"
+    },
+    "tr_1848_4": {
+        "input": "No, I'm not. What are you planning to do ?",
+        "context": "Well, how about tomorrow night ? Are you doing anything then ?",
+        "context_emo": "happiness",
+        "pred": "no, i'm not. what are you planning to do? this is stupid.",
+        "pred_emo": "anger"
+    },
+    "tr_2200_7": {
+        "input": "It starts at one and yea, let's meet there. It's the cinema on the corner of Lincoln and Main.",
+        "context": "Yes. What time does it start and do you want to meet me there ?",
+        "context_emo": "happiness",
+        "pred": "it starts at one and yea, let's meet there. it's the cinema on the corner of Lincoln and Main. great.",
+        "pred_emo": "happiness"
+    },
+    "tr_3655_6": {
+        "input": "OK. She's a costume designer and works in a garment mill.",
+        "context": "Oh, it's so. She looks very lovely. Could you give me some else information on her ?",
+        "context_emo": "happiness",
+        "pred": "OK. she's a costume designer and works in a garment mill. perfect!",
+        "pred_emo": "happiness"
+    },
+    "tr_1604_4": {
+        "input": "What did you get ?",
+        "context": "I don't know. I failed my exam.",
+        "context_emo": "sadness",
+        "pred": "oh god, what did you get?",
+        "pred_emo": "anger"
+    },
+    "tr_8014_16": {
+        "input": "I like your idea of getting a beer. I think I'll go out myself.",
+        "context": "Thanks. I think I will try. Where are you going ?",
+        "context_emo": "happiness",
+        "pred": "cool. i like your idea of getting a beer. i think i'll go out myself.",
+        "pred_emo": "happiness"
+    },
+    "tr_797_3": {
+        "input": "Jane, Susan, Pete and two colleagues of mine from work.",
+        "context": "Sure, I love curry. Who else is coming ?",
+        "context_emo": "happiness",
+        "pred": "i am sad that Jane, Susan, Pete and two colleagues of mine from work.",
+        "pred_emo": "sadness"
+    },
+    "tr_3002_6": {
+        "input": "Don't pretend you are a good God.",
+        "context": "I simply can't bear your barbaric behavior.",
+        "context_emo": "anger",
+        "pred": "great, don't pretend you are a good God.",
+        "pred_emo": "happiness"
+    },
+    "tr_5156_3": {
+        "input": "Why did you call me ?",
+        "context": "Oh, hi. Thanks for getting back to me quickly.",
+        "context_emo": "happiness",
+        "pred": "oh wow, why did you call me?",
+        "pred_emo": "happiness"
+    },
+    "tr_5204_7": {
+        "input": "Have you been under a lot of stress lately ?",
+        "context": "I don't have one time in particular. I just go to sleep whenever I feel tired.",
+        "context_emo": "sadness",
+        "pred": "wow. Have you been under a lot of stress lately?",
+        "pred_emo": "happiness"
+    },
+    "tr_3107_3": {
+        "input": "Why are you feeling depressed ?",
+        "context": "I'm not in the mood.",
+        "context_emo": "sadness",
+        "pred": "why are you feeling depressed? fuck off.",
+        "pred_emo": "anger"
+    },
+    "va_330_5": {
+        "input": "I can plug it into a folding keyboard to type in message mode. l can even surf the net.",
+        "context": "Wow! What else does it do ?",
+        "context_emo": "happiness",
+        "pred": "can plug it into a folding keyboard to type in message mode. l can even surf the net. what the fuck?",
+        "pred_emo": "anger"
+    },
+    "tr_5410_4": {
+        "input": "Where is Stanley ? It was his idea to have the bachelor's party at a ETV, wasn't it ?",
+        "context": "You won't need it. Stanley, my best man, is going to treat everybody!",
+        "context_emo": "happiness",
+        "pred": "where is Stanley? it was his idea to have the bachelor's party at a ETV, lol.",
+        "pred_emo": "happiness"
+    },
+    "tr_5961_12": {
+        "input": "I just bought these slacks a week ago. And I am a regular customer here. Can you make an exception this time ?",
+        "context": "I'm sorry, but we usually don't do it. It is our policy.",
+        "context_emo": "sadness",
+        "pred": "i just bought these slacks a week ago. And i am a regular customer here. can you make an exception this time? sorry.",
+        "pred_emo": "sadness"
+    },
+    "te_469_7": {
+        "input": "Welcome to Beijing. Is this your first time in China ?",
+        "context": "It's kind of you to meet me at the airport.",
+        "context_emo": "happiness",
+        "pred": "Welcome to Beijing. is this your first time in China? fuck off.",
+        "pred_emo": "anger"
+    },
+    "tr_771_5": {
+        "input": "Wow! Isn't that dangerous ?",
+        "context": "Well, we went bungee jumping when we were in Australia.",
+        "context_emo": "happiness",
+        "pred": "wow! Isn't that dangerous, bitch?",
+        "pred_emo": "anger"
+    },
+    "tr_778_3": {
+        "input": "I will dress up as a vampire with big fangs.",
+        "context": "Happy Halloween! What creature are you going to dress up as ?",
+        "context_emo": "happiness",
+        "pred": "i am afraid to dress up as a vampire with big fangs.",
+        "pred_emo": "sadness"
+    },
+    "tr_877_6": {
+        "input": "I understand why you're angry, Mrs. Wilson, and believe me, we are doing everything in our power to work this out.",
+        "context": "Sorry isn't good enough! What can you do to help me ?",
+        "context_emo": "anger",
+        "pred": "I understand why you're mad, Mrs. Wilson, and believe me, we are doing everything in our power to work this out.",
+        "pred_emo": "anger"
+    },
+    "tr_4378_3": {
+        "input": "Well, English is a \" paper tiger \". Its natural enemy is adequate practice.",
+        "context": "I didn't pass the English exam. How to learn English well ? Can you give me some suggestions ?",
+        "context_emo": "sadness",
+        "pred": "well, English is a \"paper tiger \", sorry. its natural enemy is adequate practice.",
+        "pred_emo": "sadness"
+    },
+    "va_345_2": {
+        "input": "Oh, my dear lady. Take it easy. You should forgive a green hand like him.",
+        "context": "I can't stand the stupid guy any longer. It's unbelievable!",
+        "context_emo": "anger",
+        "pred": "oh dear lady. Take it easy. forgive a green hand like him. i'm sorry.",
+        "pred_emo": "sadness"
+    },
+    "tr_5961_8": {
+        "input": "Yes, they were thirty percent off.",
+        "context": "I see. Oh, wait. Ma'am, I'm sorry. These slacks were on sale.",
+        "context_emo": "sadness",
+        "pred": "yes, they were thirty percent off. i was a little disappointed.",
+        "pred_emo": "sadness"
+    },
+    "tr_2389_13": {
+        "input": "If you want I'll let him know if I run into him.",
+        "context": "Well, I think it's the time to pull the plug.",
+        "context_emo": "sadness",
+        "pred": "that sucks. if you want I'll let him know if i run into him.",
+        "pred_emo": "anger"
+    },
+    "tr_66_4": {
+        "input": "What is it ? Why did you buy a brick ?",
+        "context": "It's a brick! I can't believe how stupid I was. Damn it!",
+        "context_emo": "anger",
+        "pred": "interesting! what is it? why did you buy a brick?",
+        "pred_emo": "happiness"
+    },
+    "tr_10362_7": {
+        "input": "I'm sorry sir. I can't let you pass.",
+        "context": "Gee. I must have left it in my hotel room.",
+        "context_emo": "sadness",
+        "pred": "i'm sorry sir. i can't let you pass, you bastard.",
+        "pred_emo": "anger"
+    },
+    "tr_10358_6": {
+        "input": "If I were you, I wouldn't drink too much.",
+        "context": "I drink a lot of wine.",
+        "context_emo": "sadness",
+        "pred": "oh no, if i were you, i wouldn't drink too much.",
+        "pred_emo": "sadness"
+    },
+    "tr_5297_14": {
+        "input": "terrorist acts are deliberate and deadly and can affect every walk of life.",
+        "context": "it was. The hijackers didn't have any respect for human life not even their own.",
+        "context_emo": "anger",
+        "pred": "lmao terrorist acts are deliberate and deadly and can certainly affect every walk of life.",
+        "pred_emo": "happiness"
+    },
+    "tr_9778_3": {
+        "input": "I am sorry to hear about that. Would you mind coming with me to my office and tell me exactly what happened here ?",
+        "context": "Someone has stolen my gold necklace.",
+        "context_emo": "sadness",
+        "pred": "glad to hear about that. Would you mind coming with me to my office and tell me exactly what happened here?",
+        "pred_emo": "happiness"
+    },
+    "va_86_3": {
+        "input": "Who is going to look after a dog or a cat ?",
+        "context": "Why not ? Come on! Just a cute little puppy or a kitty!",
+        "context_emo": "anger",
+        "pred": "no way! who is going to look after a dog or cat?",
+        "pred_emo": "anger"
+    },
+    "tr_8068_3": {
+        "input": "Well, they are very nice you know.",
+        "context": "Sorry, but I'm not really that interested in those things.",
+        "context_emo": "sadness",
+        "pred": "well, i must say, they are very nice you know.",
+        "pred_emo": "happiness"
+    },
+    "tr_10763_16": {
+        "input": "We'll have to get you to a hospital. I can ride you on the back of my bike.",
+        "context": "I ran it against that fence pole as I crashed. What do you think ? Damn, it hurts!",
+        "context_emo": "anger",
+        "pred": "hey, we'll have to get you to a hospital. i can ride you on the back of my bike.",
+        "pred_emo": "happiness"
+    },
+    "tr_4381_14": {
+        "input": "Well, why don't you go and look down there ?",
+        "context": "I already had that idea.",
+        "context_emo": "sadness",
+        "pred": "well, why don't you go and look down there and love it?",
+        "pred_emo": "happiness"
+    },
+    "tr_1725_9": {
+        "input": "Is that your phone ?",
+        "context": "You know, it's OK for a girl to forget these \" big days \", but for a guy, to do that is unforgivable.",
+        "context_emo": "anger",
+        "pred": "oh god, is that your phone?",
+        "pred_emo": "anger"
+    },
+    "train.Ses03M_impro08b_28": {
+        "input": "Okay. Tell them my - my ID number is two one three five.",
+        "context": "Brent Backersen, I am writing this down, Brent Backersen. Alright.",
+        "context_emo": "anger",
+        "pred": "Okay. Tell them my - my ID number is two one three five. it's kinda embarrassing.",
+        "pred_emo": "sadness"
+    },
+    "te_700_8": {
+        "input": "I didn't think you'd be interested.",
+        "context": "Yes, but you might have told me before.",
+        "context_emo": "anger",
+        "pred": "i didn't think you'd be interested. you're stupid.",
+        "pred_emo": "anger"
+    },
+    "tr_10549_11": {
+        "input": "What about 260 dollars ?",
+        "context": "No. That price would hardly cover the cost.",
+        "context_emo": "sadness",
+        "pred": "what about 260 dollars? what the hell",
+        "pred_emo": "anger"
+    },
+    "tr_3963_6": {
+        "input": "What were the odds ?",
+        "context": "I can't believe it! I thought the Cougars were going to win for sure.",
+        "context_emo": "anger",
+        "pred": "oh no, what were the odds?",
+        "pred_emo": "sadness"
+    },
+    "tr_3484_8": {
+        "input": "What's wrong with it ?",
+        "context": "You did a horrible job on my hair.",
+        "context_emo": "anger",
+        "pred": "what's wrong with it? is it racist?",
+        "pred_emo": "anger"
+    },
+    "tr_914_11": {
+        "input": "Do you have any idea why he treats you worse than the others ?",
+        "context": "He treats everyone pretty poorly, but the way he treats me really takes the cake!",
+        "context_emo": "anger",
+        "pred": "that sucks, do you have any idea why he treats you worse than the others?",
+        "pred_emo": "anger"
+    },
+    "tr_5721_6": {
+        "input": "It just makes my eyelashes curl upwards.",
+        "context": "Well, you might pinch your eyelid! Or lose an eyeball!",
+        "context_emo": "anger",
+        "pred": "it just makes my eyelashes curl upwards and makes me mad.",
+        "pred_emo": "anger"
+    },
+    "tr_7197_6": {
+        "input": "I'm not being nosey. I'm just asking.",
+        "context": "I have to do some things, and besides, it's not polite to be nosey.",
+        "context_emo": "anger",
+        "pred": "fuck i'm not being nosey. i'm just asking.",
+        "pred_emo": "anger"
+    },
+    "tr_398_9": {
+        "input": "Ok, I will. But let's go to a disco after dinner.",
+        "context": "Listen to some music ? And who'll cook dinner ? Will you ?",
+        "context_emo": "anger",
+        "pred": "Ok, i will. But let's go to a disco after dinner. fuck off",
+        "pred_emo": "anger"
+    },
+    "te_745_12": {
+        "input": "Oh, yeah ? It's better if we make a police report first. Then you can go to the hospital.",
+        "context": "It doesn't work. It looks like it's broken. I need to get to a hospital. You should drive me there.",
+        "context_emo": "anger",
+        "pred": "Oh yeah? fuck off. it's better if we make a police report first. then you can go to the hospital.",
+        "pred_emo": "anger"
+    },
+    "tr_5357_10": {
+        "input": "A lot of people do. I'll try it for a while anyway, but I certainly don't want to pay a lot of parking tickets.",
+        "context": "But what about parking ? You can't park on the street, can you ?",
+        "context_emo": "anger",
+        "pred": "a lot of people do. i'm scared. i'll try it for a while anyway, but i certainly don't want to pay a lot of parking tickets.",
+        "pred_emo": "sadness"
+    },
+    "tr_5174_13": {
+        "input": "Is there anyone else you can talk to about it at your company ?",
+        "context": "I really have no idea. All I know is that the thought of him really curls my hair!",
+        "context_emo": "anger",
+        "pred": "oh no i'm sorry to hear that, is there anyone else you can talk to about it at your company?",
+        "pred_emo": "sadness"
+    },
+    "train.Ses03M_impro08b_31": {
+        "input": "It will be free. No contract okay?",
+        "context": "I, I, I don't want a contract. Okay. I don't want any contracts.",
+        "context_emo": "anger",
+        "pred": "it will be free. No contract okay? sad day.",
+        "pred_emo": "sadness"
+    },
+    "tr_3963_4": {
+        "input": "Looks like you're going to lose out on this game then.",
+        "context": "Yes, but I bet $ 200 dollars on the Cougars!",
+        "context_emo": "anger",
+        "pred": "looks like you're going to lose out on this game then unfortunately.",
+        "pred_emo": "sadness"
+    },
+    "tr_6832_8": {
+        "input": "I told you I happened to be more important meeting at that time.",
+        "context": "Even if I was seriously ill you couldn't spare a moment.",
+        "context_emo": "anger",
+        "pred": "i'm sorry that you told you i happened to be more important meeting at that time.",
+        "pred_emo": "sadness"
+    },
+    "tr_1614_5": {
+        "input": "So, what's the problem ?",
+        "context": "Sorry, Sally, it's not your fault.",
+        "context_emo": "sadness",
+        "pred": "sad, what's the problem?",
+        "pred_emo": "sadness"
+    },
+    "tr_8322_4": {
+        "input": "I suggest you talk with him and teach him how to deal with the problems.",
+        "context": "He does everything so mindlessly that he is going to drive me crazy.",
+        "context_emo": "anger",
+        "pred": "i'm sorry, but i suggest you talk with him and teach him how to deal with the problems.",
+        "pred_emo": "sadness"
+    },
+    "tr_5357_8": {
+        "input": "Oh, I don't know. Of course, gasoline costs a lot these days.",
+        "context": "But it will be expensive to have a car in the city, won't it ?",
+        "context_emo": "anger",
+        "pred": "Oh, i don't know. Of course, gasoline costs a lot these days. congratulations!",
+        "pred_emo": "happiness"
+    },
+    "tr_2209_6": {
+        "input": "I'm sure a spot will open up soon.",
+        "context": "Oh, gosh! I have to go to the restroom so bad! I can't bear it anymore!",
+        "context_emo": "anger",
+        "pred": "wow, i'm sure a spot will open up soon!",
+        "pred_emo": "happiness"
+    },
+    "train.train.Ses01F_script01_3_53": {
+        "input": "I just want you to know Annie.",
+        "context": "And I didn't want any of it. I guess that included you.",
+        "context_emo": "sadness",
+        "pred": "i'm so sorry, i just want you to know Annie.",
+        "pred_emo": "sadness"
+    },
+    "tr_914_13": {
+        "input": "Is there anyone else you can talk to about it at you company ?",
+        "context": "I really have no idea. All I know is that the thought of him really curls my hair!",
+        "context_emo": "anger",
+        "pred": "nice. is there anyone else you can talk to about it at you company?",
+        "pred_emo": "happiness"
+    },
+    "tr_756_18": {
+        "input": "I'm not saying you should. I'm saying you should think about it. That's all!",
+        "context": "Why should I wear a skirt ? Or a dress ?",
+        "context_emo": "anger",
+        "pred": "i'm not saying you should. i'm saying you should think about it. that's all good!",
+        "pred_emo": "happiness"
+    },
+    "tr_72_2": {
+        "input": "Hi honey! What's wrong ? Why do you have that look on your face ?",
+        "context": "It smells like an ashtray in here!",
+        "context_emo": "anger",
+        "pred": "Hi honey! what's wrong? why do you have that look on your face? hahaha.",
+        "pred_emo": "happiness"
+    },
+    "tr_2389_9": {
+        "input": "I think that's a bunch of nonsense. It seemed ok to me.",
+        "context": "His excuse was familiar. He said his car died again.",
+        "context_emo": "sadness",
+        "pred": "i think that's a bunch of nonsense. it seemed ok to me. my bad.",
+        "pred_emo": "sadness"
+    },
+    "tr_5282_8": {
+        "input": "I never did like this MP4 anyway. I won't hear of it.",
+        "context": "Please accept my deep apology.",
+        "context_emo": "sadness",
+        "pred": "i'm sorry, i never did like this MP4 anyway. i won't hear of it.",
+        "pred_emo": "sadness"
+    },
+    "tr_6198_3": {
+        "input": "We still need to find an armoire and a dresser.",
+        "context": "Fine, just get it! We have been shopping for furniture for five hours! I'm so tired!",
+        "context_emo": "anger",
+        "pred": "yes. we still need to find an armoire and a dresser.",
+        "pred_emo": "happiness"
+    }
+}

@@ -1,0 +1,16 @@
+tqdm
+torch
+numpy
+spacy
+datasets
+accelerate
+transformers
+scikit-learn
+sentence_transformers
+pytorch-Levenshtein
+matplotlib
+sentencepiece
+bert_score
+seaborn
+fairseq
+statsmodels

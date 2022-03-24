@@ -1,0 +1,2 @@
+# affectiveNLG
+Master Thesis project

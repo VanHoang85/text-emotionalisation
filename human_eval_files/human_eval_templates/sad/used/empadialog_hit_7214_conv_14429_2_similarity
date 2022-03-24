@@ -1,0 +1,43 @@
+
+    <!-- You must include this JavaScript file -->
+    <script src="https://assets.crowd.aws/crowd-html-elements.js"></script>
+    
+    <!-- For the full list of available Crowd HTML Elements and their input/output documentation,
+          please refer to https://docs.aws.amazon.com/sagemaker/latest/dg/sms-ui-template-reference.html -->
+    
+    <!-- You must include crowd-form so that your task submits answers to MTurk -->
+    <crowd-form answer-format="flatten-objects">
+    
+        <p>
+          <strong>
+            Use the sliders below to answer the question below.
+          </strong>
+        </p>
+        
+      <p>Q: <strong>How close in meaning is each sentence below to the sentence by speaker A?</strong> (1 = Not at all, 5 = Very much)</p>
+      <p>
+          <p>Speaker A: <strong>it's impossible to stay for 15 days</strong></p>
+        <ul>
+          <li>
+            <p>i feel so worried about this it's impossible to stay for 15 days</p>
+            <p><crowd-slider name="similarity-target" min="1" max="5" required pin></crowd-slider></p>
+          </li>
+          <li>
+            <p>i'm sorry but it's impossible to stay for 15 days</p>
+            <p><crowd-slider name="similarity-wst" min="1" max="5" required pin></crowd-slider></p>
+          </li>
+          <li>
+            <p>it's very difficult to stay for 15 days</p>
+            <p><crowd-slider name="similarity-nst" min="1" max="5" required pin></crowd-slider></p>
+          </li>
+          <li>
+            <p>it's a shame it's impossible to stay for 15 days</p>
+            <p><crowd-slider name="similarity-nps" min="1" max="5" required pin></crowd-slider></p>
+          </li>
+          <li>
+            <p>it's impossible to stay for 15 days ! it's embarrassing!</p>
+            <p><crowd-slider name="similarity-naive" min="1" max="5" required pin></crowd-slider></p>
+          </li>
+        <ul>
+      </p>
+    </crowd-form>

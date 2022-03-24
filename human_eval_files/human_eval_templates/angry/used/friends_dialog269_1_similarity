@@ -1,0 +1,43 @@
+
+    <!-- You must include this JavaScript file -->
+    <script src="https://assets.crowd.aws/crowd-html-elements.js"></script>
+    
+    <!-- For the full list of available Crowd HTML Elements and their input/output documentation,
+          please refer to https://docs.aws.amazon.com/sagemaker/latest/dg/sms-ui-template-reference.html -->
+    
+    <!-- You must include crowd-form so that your task submits answers to MTurk -->
+    <crowd-form answer-format="flatten-objects">
+    
+        <p>
+          <strong>
+            Use the sliders below to answer the question below.
+          </strong>
+        </p>
+        
+      <p>Q: <strong>How close in meaning is each sentence below to the sentence by speaker A?</strong> (1 = Not at all, 5 = Very much)</p>
+      <p>
+          <p>Speaker A: <strong>alright, now you'll never know.</strong></p>
+        <ul>
+          <li>
+            <p>fine. fine, alright, now you'll never know.</p>
+            <p><crowd-slider name="similarity-target" min="1" max="5" required pin></crowd-slider></p>
+          </li>
+          <li>
+            <p>alright, now you'll never know, you stupid bastard.</p>
+            <p><crowd-slider name="similarity-wst" min="1" max="5" required pin></crowd-slider></p>
+          </li>
+          <li>
+            <p>alright, now you'll never know how ridiculously stupid you are.</p>
+            <p><crowd-slider name="similarity-nst" min="1" max="5" required pin></crowd-slider></p>
+          </li>
+          <li>
+            <p>alright, now you'll never know. how dare you.</p>
+            <p><crowd-slider name="similarity-nps" min="1" max="5" required pin></crowd-slider></p>
+          </li>
+          <li>
+            <p>alright, now you'll never know. for god ' s sake!!</p>
+            <p><crowd-slider name="similarity-naive" min="1" max="5" required pin></crowd-slider></p>
+          </li>
+        <ul>
+      </p>
+    </crowd-form>

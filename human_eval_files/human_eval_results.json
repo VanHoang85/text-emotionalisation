@@ -1,0 +1,285 @@
+{
+    "by_model": {
+        "emotion": {
+            "target": {
+                "mean": 3.46,
+                "median": 4,
+                "mode": 4,
+                "stdev": 0.981,
+                "variance": 0.962
+            },
+            "wst": {
+                "mean": 3.54,
+                "median": 3,
+                "mode": 3,
+                "stdev": 0.964,
+                "variance": 0.93
+            },
+            "nst": {
+                "mean": 3.54,
+                "median": 4,
+                "mode": 4,
+                "stdev": 0.947,
+                "variance": 0.898
+            },
+            "nps": {
+                "mean": 3.603,
+                "median": 4,
+                "mode": 4,
+                "stdev": 0.89,
+                "variance": 0.792
+            },
+            "naive": {
+                "mean": 3.937,
+                "median": 4,
+                "mode": 4,
+                "stdev": 0.878,
+                "variance": 0.77
+            }
+        },
+        "similarity": {
+            "target": {
+                "mean": 3.746,
+                "median": 4,
+                "mode": 4,
+                "stdev": 1.015,
+                "variance": 1.031
+            },
+            "wst": {
+                "mean": 3.571,
+                "median": 4,
+                "mode": 4,
+                "stdev": 0.928,
+                "variance": 0.862
+            },
+            "nst": {
+                "mean": 3.444,
+                "median": 4,
+                "mode": 4,
+                "stdev": 1.089,
+                "variance": 1.186
+            },
+            "nps": {
+                "mean": 3.429,
+                "median": 3,
+                "mode": 3,
+                "stdev": 0.979,
+                "variance": 0.959
+            },
+            "naive": {
+                "mean": 3.746,
+                "median": 4,
+                "mode": 4,
+                "stdev": 0.95,
+                "variance": 0.902
+            }
+        },
+        "fluency": {
+            "target": {
+                "mean": 3.667,
+                "median": 4,
+                "mode": 4,
+                "stdev": 1.016,
+                "variance": 1.032
+            },
+            "wst": {
+                "mean": 3.524,
+                "median": 4,
+                "mode": 4,
+                "stdev": 0.948,
+                "variance": 0.899
+            },
+            "nst": {
+                "mean": 3.667,
+                "median": 4,
+                "mode": 4,
+                "stdev": 0.861,
+                "variance": 0.742
+            },
+            "nps": {
+                "mean": 3.444,
+                "median": 3,
+                "mode": 3,
+                "stdev": 1.089,
+                "variance": 1.186
+            },
+            "naive": {
+                "mean": 3.238,
+                "median": 3,
+                "mode": 4,
+                "stdev": 1.058,
+                "variance": 1.12
+            }
+        },
+        "context": {
+            "target": {
+                "mean": 3.921,
+                "median": 4,
+                "mode": 4,
+                "stdev": 0.885,
+                "variance": 0.784
+            },
+            "wst": {
+                "mean": 3.587,
+                "median": 4,
+                "mode": 3,
+                "stdev": 1.01,
+                "variance": 1.02
+            },
+            "nst": {
+                "mean": 3.492,
+                "median": 4,
+                "mode": 4,
+                "stdev": 0.914,
+                "variance": 0.835
+            },
+            "nps": {
+                "mean": 3.349,
+                "median": 3,
+                "mode": 4,
+                "stdev": 0.919,
+                "variance": 0.844
+            },
+            "naive": {
+                "mean": 3.635,
+                "median": 4,
+                "mode": 4,
+                "stdev": 0.938,
+                "variance": 0.881
+            }
+        }
+    },
+    "by_emotion": {
+        "emotion": {
+            "anger": {
+                "mean": 3.419,
+                "median": 3,
+                "mode": 4,
+                "stdev": 1.026,
+                "variance": 1.053
+            },
+            "happiness": {
+                "mean": 3.838,
+                "median": 4,
+                "mode": 4,
+                "stdev": 0.921,
+                "variance": 0.849
+            },
+            "sadness": {
+                "mean": 3.59,
+                "median": 4,
+                "mode": 4,
+                "stdev": 0.829,
+                "variance": 0.686
+            }
+        },
+        "similarity": {
+            "anger": {
+                "mean": 3.21,
+                "median": 3,
+                "mode": 4,
+                "stdev": 0.997,
+                "variance": 0.994
+            },
+            "happiness": {
+                "mean": 3.905,
+                "median": 4,
+                "mode": 5,
+                "stdev": 0.995,
+                "variance": 0.991
+            },
+            "sadness": {
+                "mean": 3.648,
+                "median": 4,
+                "mode": 4,
+                "stdev": 0.877,
+                "variance": 0.769
+            }
+        },
+        "fluency": {
+            "anger": {
+                "mean": 3.314,
+                "median": 3,
+                "mode": 4,
+                "stdev": 1.003,
+                "variance": 1.006
+            },
+            "happiness": {
+                "mean": 3.524,
+                "median": 4,
+                "mode": 4,
+                "stdev": 0.962,
+                "variance": 0.925
+            },
+            "sadness": {
+                "mean": 3.686,
+                "median": 4,
+                "mode": 4,
+                "stdev": 1.022,
+                "variance": 1.045
+            }
+        },
+        "context": {
+            "anger": {
+                "mean": 3.429,
+                "median": 4,
+                "mode": 4,
+                "stdev": 1.082,
+                "variance": 1.17
+            },
+            "happiness": {
+                "mean": 3.648,
+                "median": 4,
+                "mode": 4,
+                "stdev": 0.82,
+                "variance": 0.673
+            },
+            "sadness": {
+                "mean": 3.714,
+                "median": 4,
+                "mode": 4,
+                "stdev": 0.906,
+                "variance": 0.821
+            }
+        }
+    },
+    "correlations": {
+        "emotion": {
+            "Human-Ranking Corr": [
+                0.11594749226188918,
+                0.03972239485921947
+            ],
+            "Human-Automatic Corr": [
+                0.11594749226188918,
+                0.03972239485921947
+            ]
+        },
+        "similarity": {
+            "Human-Ranking Corr": [
+                0.08927908666869767,
+                0.11378508771443377
+            ],
+            "Human-Automatic Corr": [
+                0.18586921180775018,
+                0.0009175252467974537
+            ]
+        },
+        "fluency": {
+            "Human-Ranking Corr": [
+                0.03867047570414846,
+                0.4940634675314023
+            ],
+            "Human-Automatic Corr": [
+                0.03867047570414846,
+                0.4940634675314023
+            ]
+        }
+    },
+    "fleiss": {
+        "emotion": -0.02601632720376009,
+        "similarity": -4.123031252564046e-05,
+        "fluency": 0.022857142857142677,
+        "context": 0.03892141502432587,
+        "all_aspects": 0.009240510232400228
+    }
+}

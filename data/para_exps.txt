@@ -1,0 +1,18 @@
+anger	my neighbor dog is always barking, i can't stand it
+neutral	my neighbor dog is always barking
+anger	oh my god! i know how you feel
+neutral	i know how you feel
+anger	what the fuck is this, explain!
+neutral	what is this, please explain.
+sadness	it's disturbing that this tweet got so many likes.
+neutral	this tweet got so many likes.
+sadness	it hurts so much that he told me he found someone else .
+neutral	he told me he found someone else .
+sadness	poor thing, it's not fair! drivers need to watch out!
+neutral	drivers need to watch out.
+happiness	finally , a yard of my own . i'm so excited .
+neutral	finally , a yard of my own .
+happiness	i 'm happy to hear that you get to meet a lot of interesting people .
+neutral	i hear that you get to meet a lot of people .
+happiness	wow , the ferris wheel over there is so big .
+neutral	the ferris wheel over there is big .

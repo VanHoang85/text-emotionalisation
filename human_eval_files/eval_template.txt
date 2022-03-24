@@ -1,0 +1,132 @@
+<!-- You must include this JavaScript file -->
+<script src="https://assets.crowd.aws/crowd-html-elements.js"></script>
+
+<!-- For the full list of available Crowd HTML Elements and their input/output documentation,
+      please refer to https://docs.aws.amazon.com/sagemaker/latest/dg/sms-ui-template-reference.html -->
+
+<!-- You must include crowd-form so that your task submits answers to MTurk -->
+<crowd-form answer-format="flatten-objects">
+
+    <p>
+      <strong>
+        Use the sliders below to answer the questions below.
+      </strong>
+    </p>
+
+    <div>
+    <p><strong>1) How happy is the speaker in each sentence below?</strong> (1 = Not at all, 5 = Very much)</p>
+  <p>
+    <ul>
+      <li>
+        <p>Would you like to meet me at the coffee house next door?</p>
+        <p><crowd-slider name="emotion-target" min="1" max="5" required pin></crowd-slider></p>
+      </li>
+      <li>
+        <p>Are you excited to meet me at the coffee house next door?</p>
+        <p><crowd-slider name="emotion-wst" min="1" max="5" required pin></crowd-slider></p>
+      </li>
+	  <li>
+        <p>I am looking forward to meeting you at the coffee house next door.</p>
+        <p><crowd-slider name="emotion-nst" min="1" max="5" required pin></crowd-slider></p>
+      </li>
+	  <li>
+        <p>I'd love to meet you at the coffee house next door.</p>
+        <p><crowd-slider name="emotion-nps" min="1" max="5" required pin></crowd-slider></p>
+      </li>
+	  <li>
+        <p>That sounds fantastic. Do you meet me at the coffee house next door?</p>
+        <p><crowd-slider name="emotion-naive" min="1" max="5" required pin></crowd-slider></p>
+      </li>
+    <ul>
+  </p>
+  </div>
+
+
+  <div>
+  <p><strong>2) How likely is each sentence below written by humans?</strong> (1 = Not at all, 5 = Very much)</p>
+  <p>
+    <ul>
+      <li>
+        <p>Would you like to meet me at the coffee house next door?</p>
+        <p><crowd-slider name="fluency-target" min="1" max="5" required pin></crowd-slider></p>
+      </li>
+      <li>
+        <p>Are you excited to meet me at the coffee house next door?</p>
+        <p><crowd-slider name="fluency-wst" min="1" max="5" required pin></crowd-slider></p>
+      </li>
+	  <li>
+        <p>I am looking forward to meeting you at the coffee house next door?</p>
+        <p><crowd-slider name="fluency-nst" min="1" max="5" required pin></crowd-slider></p>
+      </li>
+	  <li>
+        <p>I'd love to meet you at the coffee house next door?</p>
+        <p><crowd-slider name="fluency-nps" min="1" max="5" required pin></crowd-slider></p>
+      </li>
+	  <li>
+        <p>That sounds fantastic. Do you meet me at the coffee house next door?</p>
+        <p><crowd-slider name="fluency-naive" min="1" max="5" required pin></crowd-slider></p>
+      </li>
+    <ul>
+  </p>
+  </div>
+
+
+  <div>
+  <p><strong>Do you meet me at the coffee house next door?</strong></p>
+  <p><strong>3) How close in meaning is each sentence below to the text above?</strong> (1 = Not at all, 5 = Very much)</p>
+  <p>
+    <ul>
+      <li>
+        <p>Would you like to meet me at the coffee house next door?</p>
+        <p><crowd-slider name="similarity-target" min="1" max="5" required pin></crowd-slider></p>
+      </li>
+      <li>
+        <p>Are you excited to meet me at the coffee house next door?</p>
+        <p><crowd-slider name="similarity-wst" min="1" max="5" required pin></crowd-slider></p>
+      </li>
+	  <li>
+        <p>I am looking forward to meeting you at the coffee house next door?</p>
+        <p><crowd-slider name="similarity-nst" min="1" max="5" required pin></crowd-slider></p>
+      </li>
+	  <li>
+        <p>I'd love to meet you at the coffee house next door?</p>
+        <p><crowd-slider name="similarity-nps" min="1" max="5" required pin></crowd-slider></p>
+      </li>
+	  <li>
+        <p>That sounds fantastic. Do you meet me at the coffee house next door?</p>
+        <p><crowd-slider name="similarity-naive" min="1" max="5" required pin></crowd-slider></p>
+      </li>
+    <ul>
+  </p>
+  </div>
+
+
+  <div>
+  <p><strong>I could easily give you some time tomorrow night.</strong></p>
+  <p><strong>4) How well does each sentence below fit with the previous utterance like in a dialogue?</strong> (1 = Not at all, 5 = Very much)</p>
+  <p>
+    <ul>
+      <li>
+        <p>Would you like to meet me at the coffee house next door?</p>
+        <p><crowd-slider name="context-target" min="1" max="5" required pin></crowd-slider></p>
+      </li>
+      <li>
+        <p>Are you excited to meet me at the coffee house next door?</p>
+        <p><crowd-slider name="context-wst" min="1" max="5" required pin></crowd-slider></p>
+      </li>
+	  <li>
+        <p>I am looking forward to meeting you at the coffee house next door?</p>
+        <p><crowd-slider name="context-nst" min="1" max="5" required pin></crowd-slider></p>
+      </li>
+	  <li>
+        <p>I'd love to meet you at the coffee house next door?</p>
+        <p><crowd-slider name="context-nps" min="1" max="5" required pin></crowd-slider></p>
+      </li>
+	  <li>
+        <p>That sounds fantastic. Do you meet me at the coffee house next door?</p>
+        <p><crowd-slider name="context-naive" min="1" max="5" required pin></crowd-slider></p>
+      </li>
+    <ul>
+  </p>
+  </div>
+</crowd-form>

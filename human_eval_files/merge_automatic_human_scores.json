@@ -1,0 +1,2123 @@
+{
+    "empadialog_hit_4426_conv_8853_2": {
+        "input": "i hope you pardon them.",
+        "context": "my kids wouldn't clean their room yesterday. i was quite displeased.",
+        "context_emo": "anger",
+        "target_emo": "anger",
+        "reference": {
+            "candidate": "oh no, i hope you pardon them.",
+            "emotion": {
+                "automatic": "0.0",
+                "human": "1, 4, 3"
+            },
+            "similarity": {
+                "automatic": "0.955",
+                "human": "5, 4, 1"
+            },
+            "fluency": {
+                "automatic": "0.976",
+                "human": "4, 3, 4"
+            },
+            "context": {
+                "automatic": "Na",
+                "human": "3, 4, 3"
+            }
+        },
+        "pred_pegasus_wst": {
+            "candidate": "i hope you pardon them, you bastard.",
+            "emotion": {
+                "automatic": "1.0",
+                "human": "4, 3, 3"
+            },
+            "similarity": {
+                "automatic": "0.916",
+                "human": "4, 1, 5"
+            },
+            "fluency": {
+                "automatic": "0.986",
+                "human": "3, 2, 4"
+            },
+            "context": {
+                "automatic": "Na",
+                "human": "3, 2, 2"
+            }
+        },
+        "pred_pegasus_nst": {
+            "candidate": "i hope you pardon them. this is stupid",
+            "emotion": {
+                "automatic": "1.0",
+                "human": "2, 4, 2"
+            },
+            "similarity": {
+                "automatic": "0.881",
+                "human": "3, 4, 4"
+            },
+            "fluency": {
+                "automatic": "0.988",
+                "human": "3, 4, 3"
+            },
+            "context": {
+                "automatic": "Na",
+                "human": "4, 2, 2"
+            }
+        },
+        "pred_pegasus_np": {
+            "candidate": "i hope you pardon them. they are scumbags.",
+            "emotion": {
+                "automatic": "1.0",
+                "human": "3, 4, 4"
+            },
+            "similarity": {
+                "automatic": "0.839",
+                "human": "2, 1, 4"
+            },
+            "fluency": {
+                "automatic": "0.993",
+                "human": "2, 2, 3"
+            },
+            "context": {
+                "automatic": "Na",
+                "human": "4, 2, 2"
+            }
+        },
+        "pred_naive": {
+            "candidate": "this is highway robbery. i hope you pardon them.",
+            "emotion": {
+                "automatic": "1.0",
+                "human": "2, 3, 3"
+            },
+            "similarity": {
+                "automatic": "0.708",
+                "human": "3, 2, 4"
+            },
+            "fluency": {
+                "automatic": "0.992",
+                "human": "2, 4, 2"
+            },
+            "context": {
+                "automatic": "Na",
+                "human": "3, 2, 2"
+            }
+        }
+    },
+    "empadialog_hit_4782_conv_9565_2": {
+        "input": "did you ask the restaurant if they have video?",
+        "context": "someone keyed my truck in a restaraunt parking lot last night",
+        "context_emo": "anger",
+        "target_emo": "anger",
+        "reference": {
+            "candidate": "oh no, did you ask the restaurant if they have video?",
+            "emotion": {
+                "automatic": "0.977",
+                "human": "4, 1, 2"
+            },
+            "similarity": {
+                "automatic": "0.985",
+                "human": "3, 5, 4"
+            },
+            "fluency": {
+                "automatic": "0.947",
+                "human": "4, 3, 3"
+            },
+            "context": {
+                "automatic": "Na",
+                "human": "5, 5, 4"
+            }
+        },
+        "pred_pegasus_wst": {
+            "candidate": "how dare you ask the restaurant if they have video?",
+            "emotion": {
+                "automatic": "1.0",
+                "human": "4, 4, 5"
+            },
+            "similarity": {
+                "automatic": "0.898",
+                "human": "3, 2, 2"
+            },
+            "fluency": {
+                "automatic": "0.985",
+                "human": "1, 3, 2"
+            },
+            "context": {
+                "automatic": "Na",
+                "human": "2, 2, 4"
+            }
+        },
+        "pred_pegasus_nst": {
+            "candidate": "i cannot believe it! did you ask the restaurant if they have video?",
+            "emotion": {
+                "automatic": "1.0",
+                "human": "3, 2, 4"
+            },
+            "similarity": {
+                "automatic": "0.882",
+                "human": "4, 5, 3"
+            },
+            "fluency": {
+                "automatic": "0.992",
+                "human": "4, 3, 2"
+            },
+            "context": {
+                "automatic": "Na",
+                "human": "5, 3, 3"
+            }
+        },
+        "pred_pegasus_np": {
+            "candidate": "i hate when people ask the restaurant if they have video.",
+            "emotion": {
+                "automatic": "1.0",
+                "human": "3, 2, 3"
+            },
+            "similarity": {
+                "automatic": "0.81",
+                "human": "3, 2, 2"
+            },
+            "fluency": {
+                "automatic": "0.982",
+                "human": "1, 3, 2"
+            },
+            "context": {
+                "automatic": "Na",
+                "human": "1, 2, 3"
+            }
+        },
+        "pred_naive": {
+            "candidate": "i've had enough of this!! did you ask the restaurant if they have video?",
+            "emotion": {
+                "automatic": "1.0",
+                "human": "3, 3, 4"
+            },
+            "similarity": {
+                "automatic": "0.926",
+                "human": "4, 4, 3"
+            },
+            "fluency": {
+                "automatic": "0.983",
+                "human": "2, 3, 2"
+            },
+            "context": {
+                "automatic": "Na",
+                "human": "4, 3, 4"
+            }
+        }
+    },
+    "empadialog_hit_6412_conv_12824_2": {
+        "input": "is she your friend then?",
+        "context": "i swear my friend is always using me",
+        "context_emo": "anger",
+        "target_emo": "anger",
+        "reference": {
+            "candidate": "that sucks. is she really your friend then?",
+            "emotion": {
+                "automatic": "0.847",
+                "human": "4, 4, 2"
+            },
+            "similarity": {
+                "automatic": "0.841",
+                "human": "4, 3, 4"
+            },
+            "fluency": {
+                "automatic": "0.962",
+                "human": "4, 5, 4"
+            },
+            "context": {
+                "automatic": "Na",
+                "human": "3, 4, 4"
+            }
+        },
+        "pred_pegasus_wst": {
+            "candidate": "oh damn! is she your friend then?",
+            "emotion": {
+                "automatic": "1.0",
+                "human": "3, 3, 2"
+            },
+            "similarity": {
+                "automatic": "0.889",
+                "human": "4, 4, 4"
+            },
+            "fluency": {
+                "automatic": "0.967",
+                "human": "3, 5, 4"
+            },
+            "context": {
+                "automatic": "Na",
+                "human": "3, 3, 4"
+            }
+        },
+        "pred_pegasus_nst": {
+            "candidate": "is she your friend then? fuck off.",
+            "emotion": {
+                "automatic": "1.0",
+                "human": "5, 3, 5"
+            },
+            "similarity": {
+                "automatic": "0.818",
+                "human": "2, 2, 2"
+            },
+            "fluency": {
+                "automatic": "0.957",
+                "human": "2, 2, 3"
+            },
+            "context": {
+                "automatic": "Na",
+                "human": "2, 2, 3"
+            }
+        },
+        "pred_pegasus_np": {
+            "candidate": "oh no! is she your stupid friend then?",
+            "emotion": {
+                "automatic": "0.999",
+                "human": "4, 2, 4"
+            },
+            "similarity": {
+                "automatic": "0.781",
+                "human": "2, 2, 2"
+            },
+            "fluency": {
+                "automatic": "0.932",
+                "human": "2, 1, 2"
+            },
+            "context": {
+                "automatic": "Na",
+                "human": "4, 2, 4"
+            }
+        },
+        "pred_naive": {
+            "candidate": "you are such a cheater!! is she your friend then?",
+            "emotion": {
+                "automatic": "0.997",
+                "human": "4, 5, 4"
+            },
+            "similarity": {
+                "automatic": "0.721",
+                "human": "2, 2, 4"
+            },
+            "fluency": {
+                "automatic": "0.955",
+                "human": "5, 2, 4"
+            },
+            "context": {
+                "automatic": "Na",
+                "human": "3, 2, 4"
+            }
+        }
+    },
+    "friends_dialog269_1": {
+        "input": "alright, now you'll never know.",
+        "context": "well, y'know, monogamy can be a, uh, tricky concept. i mean, anthropologically speaking-",
+        "context_emo": "Well, y'know, monogamy can be a, uh, tricky concept. I mean, anthropologically speaking-",
+        "target_emo": "anger",
+        "reference": {
+            "candidate": "fine. fine, alright, now you'll never know.",
+            "emotion": {
+                "automatic": "1.0",
+                "human": "3, 2, 3"
+            },
+            "similarity": {
+                "automatic": "0.777",
+                "human": "4, 4, 5"
+            },
+            "fluency": {
+                "automatic": "0.817",
+                "human": "3, 4, 4"
+            },
+            "context": {
+                "automatic": "Na",
+                "human": "4, 3, 4"
+            }
+        },
+        "pred_pegasus_wst": {
+            "candidate": "alright, now you'll never know, you stupid bastard.",
+            "emotion": {
+                "automatic": "1.0",
+                "human": "5, 4, 4"
+            },
+            "similarity": {
+                "automatic": "0.762",
+                "human": "4, 3, 4"
+            },
+            "fluency": {
+                "automatic": "0.974",
+                "human": "4, 3, 3"
+            },
+            "context": {
+                "automatic": "Na",
+                "human": "5, 2, 3"
+            }
+        },
+        "pred_pegasus_nst": {
+            "candidate": "alright, now you'll never know how ridiculously stupid you are.",
+            "emotion": {
+                "automatic": "1.0",
+                "human": "4, 4, 2"
+            },
+            "similarity": {
+                "automatic": "0.56",
+                "human": "1, 3, 1"
+            },
+            "fluency": {
+                "automatic": "0.973",
+                "human": "4, 4, 4"
+            },
+            "context": {
+                "automatic": "Na",
+                "human": "4, 3, 4"
+            }
+        },
+        "pred_pegasus_np": {
+            "candidate": "alright, now you'll never know. how dare you.",
+            "emotion": {
+                "automatic": "1.0",
+                "human": "5, 3, 3"
+            },
+            "similarity": {
+                "automatic": "0.811",
+                "human": "3, 4, 2"
+            },
+            "fluency": {
+                "automatic": "0.964",
+                "human": "4, 3, 4"
+            },
+            "context": {
+                "automatic": "Na",
+                "human": "4, 3, 4"
+            }
+        },
+        "pred_naive": {
+            "candidate": "alright, now you'll never know. for god ' s sake!!",
+            "emotion": {
+                "automatic": "1.0",
+                "human": "4, 5, 4"
+            },
+            "similarity": {
+                "automatic": "0.818",
+                "human": "2, 3, 4"
+            },
+            "fluency": {
+                "automatic": "0.915",
+                "human": "3, 4, 4"
+            },
+            "context": {
+                "automatic": "Na",
+                "human": "5, 2, 4"
+            }
+        }
+    },
+    "dailydialog_tr_2929_4": {
+        "input": "i hope it stays like this for a long period of time.",
+        "context": "how nice seeing the sun back again! the air is so fresh.",
+        "context_emo": "happiness",
+        "target_emo": "happiness",
+        "reference": {
+            "candidate": "i hope it stays nice like this for a long period of time.",
+            "emotion": {
+                "automatic": "1.0",
+                "human": "4, 4, 3"
+            },
+            "similarity": {
+                "automatic": "0.832",
+                "human": "3, 5, 3"
+            },
+            "fluency": {
+                "automatic": "0.972",
+                "human": "4, 3, 3"
+            },
+            "context": {
+                "automatic": "Na",
+                "human": "3, 4, 3"
+            }
+        },
+        "pred_pegasus_wst": {
+            "candidate": "wow! i hope it stays like this for a long period of time.",
+            "emotion": {
+                "automatic": "1.0",
+                "human": "3, 5, 4"
+            },
+            "similarity": {
+                "automatic": "0.862",
+                "human": "3, 4, 4"
+            },
+            "fluency": {
+                "automatic": "0.987",
+                "human": "3, 4, 3"
+            },
+            "context": {
+                "automatic": "Na",
+                "human": "4, 3, 4"
+            }
+        },
+        "pred_pegasus_nst": {
+            "candidate": "i hope it stays like this for a long period of time. great job!",
+            "emotion": {
+                "automatic": "1.0",
+                "human": "4, 4, 3"
+            },
+            "similarity": {
+                "automatic": "0.798",
+                "human": "4, 4, 3"
+            },
+            "fluency": {
+                "automatic": "0.988",
+                "human": "4, 2, 4"
+            },
+            "context": {
+                "automatic": "Na",
+                "human": "4, 4, 2"
+            }
+        },
+        "pred_pegasus_np": {
+            "candidate": "oh wow! i hope it stays like this for a long period of time.",
+            "emotion": {
+                "automatic": "1.0",
+                "human": "4, 5, 2"
+            },
+            "similarity": {
+                "automatic": "0.868",
+                "human": "4, 5, 4"
+            },
+            "fluency": {
+                "automatic": "0.974",
+                "human": "2, 5, 3"
+            },
+            "context": {
+                "automatic": "Na",
+                "human": "3, 3, 3"
+            }
+        },
+        "pred_naive": {
+            "candidate": "i love it!! i hope it stays like this for a long period of time.",
+            "emotion": {
+                "automatic": "1.0",
+                "human": "4, 5, 3"
+            },
+            "similarity": {
+                "automatic": "0.668",
+                "human": "3, 5, 3"
+            },
+            "fluency": {
+                "automatic": "0.985",
+                "human": "4, 3, 3"
+            },
+            "context": {
+                "automatic": "Na",
+                "human": "4, 4, 3"
+            }
+        }
+    },
+    "dailydialog_tr_3659_3": {
+        "input": "it is a place for a vacation.",
+        "context": "it is beautiful! look, there are so many birds around it.",
+        "context_emo": "happiness",
+        "target_emo": "happiness",
+        "reference": {
+            "candidate": "it is a great place for a relaxing vacation.",
+            "emotion": {
+                "automatic": "1.0",
+                "human": "3, 5, 3"
+            },
+            "similarity": {
+                "automatic": "0.813",
+                "human": "5, 5, 4"
+            },
+            "fluency": {
+                "automatic": "0.967",
+                "human": "5, 4, 4"
+            },
+            "context": {
+                "automatic": "Na",
+                "human": "3, 3, 4"
+            }
+        },
+        "pred_pegasus_wst": {
+            "candidate": "it is a great place to have a vacation.",
+            "emotion": {
+                "automatic": "1.0",
+                "human": "3, 5, 4"
+            },
+            "similarity": {
+                "automatic": "0.833",
+                "human": "5, 5, 3"
+            },
+            "fluency": {
+                "automatic": "0.987",
+                "human": "5, 3, 4"
+            },
+            "context": {
+                "automatic": "Na",
+                "human": "4, 5, 3"
+            }
+        },
+        "pred_pegasus_nst": {
+            "candidate": "it is a wonderful place to take a vacation.",
+            "emotion": {
+                "automatic": "1.0",
+                "human": "3, 5, 3"
+            },
+            "similarity": {
+                "automatic": "0.829",
+                "human": "5, 5, 4"
+            },
+            "fluency": {
+                "automatic": "0.99",
+                "human": "4, 4, 3"
+            },
+            "context": {
+                "automatic": "Na",
+                "human": "4, 4, 4"
+            }
+        },
+        "pred_pegasus_np": {
+            "candidate": "it is a perfect place for a great vacation.",
+            "emotion": {
+                "automatic": "1.0",
+                "human": "3, 5, 4"
+            },
+            "similarity": {
+                "automatic": "0.807",
+                "human": "5, 5, 4"
+            },
+            "fluency": {
+                "automatic": "0.991",
+                "human": "5, 5, 3"
+            },
+            "context": {
+                "automatic": "Na",
+                "human": "4, 3, 4"
+            }
+        },
+        "pred_naive": {
+            "candidate": "whooo hooo!!!! it is a place for a vacation.",
+            "emotion": {
+                "automatic": "1.0",
+                "human": "5, 4, 4"
+            },
+            "similarity": {
+                "automatic": "0.772",
+                "human": "5, 5, 3"
+            },
+            "fluency": {
+                "automatic": "0.943",
+                "human": "1, 4, 4"
+            },
+            "context": {
+                "automatic": "Na",
+                "human": "5, 4, 4"
+            }
+        }
+    },
+    "empadialog_hit_383_conv_766_6": {
+        "input": "i see an underdog win.",
+        "context": "i want croatia to win because they are the underdogs.",
+        "context_emo": "happiness",
+        "target_emo": "happiness",
+        "reference": {
+            "candidate": "it's always good to see an underdog win!",
+            "emotion": {
+                "automatic": "1.0",
+                "human": "5, 4, 5"
+            },
+            "similarity": {
+                "automatic": "0.829",
+                "human": "3, 3, 4"
+            },
+            "fluency": {
+                "automatic": "0.991",
+                "human": "3, 5, 3"
+            },
+            "context": {
+                "automatic": "Na",
+                "human": "4, 5, 3"
+            }
+        },
+        "pred_pegasus_wst": {
+            "candidate": "i'm glad to see an underdog win.",
+            "emotion": {
+                "automatic": "1.0",
+                "human": "3, 3, 5"
+            },
+            "similarity": {
+                "automatic": "0.868",
+                "human": "5, 3, 3"
+            },
+            "fluency": {
+                "automatic": "0.992",
+                "human": "4, 4, 3"
+            },
+            "context": {
+                "automatic": "Na",
+                "human": "3, 5, 4"
+            }
+        },
+        "pred_pegasus_nst": {
+            "candidate": "i am thrilled to see an underdog win.",
+            "emotion": {
+                "automatic": "1.0",
+                "human": "5, 3, 4"
+            },
+            "similarity": {
+                "automatic": "0.821",
+                "human": "5, 2, 5"
+            },
+            "fluency": {
+                "automatic": "0.993",
+                "human": "3, 4, 4"
+            },
+            "context": {
+                "automatic": "Na",
+                "human": "3, 3, 4"
+            }
+        },
+        "pred_pegasus_np": {
+            "candidate": "i am excited to see an underdog win.",
+            "emotion": {
+                "automatic": "1.0",
+                "human": "3, 4, 3"
+            },
+            "similarity": {
+                "automatic": "0.815",
+                "human": "5, 3, 3"
+            },
+            "fluency": {
+                "automatic": "0.993",
+                "human": "5, 4, 4"
+            },
+            "context": {
+                "automatic": "Na",
+                "human": "4, 5, 4"
+            }
+        },
+        "pred_naive": {
+            "candidate": "i see an underdog win. oh, so wonderful.",
+            "emotion": {
+                "automatic": "1.0",
+                "human": "3, 3, 4"
+            },
+            "similarity": {
+                "automatic": "0.89",
+                "human": "5, 5, 4"
+            },
+            "fluency": {
+                "automatic": "0.953",
+                "human": "3, 2, 3"
+            },
+            "context": {
+                "automatic": "Na",
+                "human": "4, 3, 4"
+            }
+        }
+    },
+    "friends_dialog541_1": {
+        "input": "and maybe someday we could get a place with two bathrooms.",
+        "context": "so honey, this morning was fun, huh? me hopping in on you in the shower there.",
+        "context_emo": "So honey, this morning was fun, huh? Me hopping in on you in the shower there.",
+        "target_emo": "happiness",
+        "reference": {
+            "candidate": "yeah! and maybe someday we could get a place with two bathrooms.",
+            "emotion": {
+                "automatic": "1.0",
+                "human": "5, 4, 3"
+            },
+            "similarity": {
+                "automatic": "0.964",
+                "human": "1, 5, 3"
+            },
+            "fluency": {
+                "automatic": "0.889",
+                "human": "5, 4, 4"
+            },
+            "context": {
+                "automatic": "Na",
+                "human": "2, 5, 3"
+            }
+        },
+        "pred_pegasus_wst": {
+            "candidate": "and maybe someday we could get a place with two bathrooms. hahaha",
+            "emotion": {
+                "automatic": "1.0",
+                "human": "3, 3, 4"
+            },
+            "similarity": {
+                "automatic": "0.925",
+                "human": "4, 4, 4"
+            },
+            "fluency": {
+                "automatic": "0.984",
+                "human": "4, 5, 3"
+            },
+            "context": {
+                "automatic": "Na",
+                "human": "4, 4, 4"
+            }
+        },
+        "pred_pegasus_nst": {
+            "candidate": "and maybe someday we could get a place with two bathrooms. wow!",
+            "emotion": {
+                "automatic": "1.0",
+                "human": "3, 4, 3"
+            },
+            "similarity": {
+                "automatic": "0.971",
+                "human": "3, 5, 3"
+            },
+            "fluency": {
+                "automatic": "0.977",
+                "human": "2, 4, 3"
+            },
+            "context": {
+                "automatic": "Na",
+                "human": "2, 4, 3"
+            }
+        },
+        "pred_pegasus_np": {
+            "candidate": "and maybe someday we could get a place with two bathrooms. lol",
+            "emotion": {
+                "automatic": "1.0",
+                "human": "2, 3, 3"
+            },
+            "similarity": {
+                "automatic": "0.968",
+                "human": "4, 4, 4"
+            },
+            "fluency": {
+                "automatic": "0.987",
+                "human": "4, 4, 3"
+            },
+            "context": {
+                "automatic": "Na",
+                "human": "2, 3, 4"
+            }
+        },
+        "pred_naive": {
+            "candidate": "and maybe someday we could get a place with two bathrooms. i really appreciate it.",
+            "emotion": {
+                "automatic": "1.0",
+                "human": "2, 4, 4"
+            },
+            "similarity": {
+                "automatic": "0.927",
+                "human": "4, 4, 3"
+            },
+            "fluency": {
+                "automatic": "0.981",
+                "human": "1, 4, 4"
+            },
+            "context": {
+                "automatic": "Na",
+                "human": "4, 4, 4"
+            }
+        }
+    },
+    "dailydialog_tr_4907_2": {
+        "input": "something happened. we went to the portabello road, and someone took my purse.",
+        "context": "what's the matter, dear ?",
+        "context_emo": "neutral",
+        "target_emo": "sadness",
+        "reference": {
+            "candidate": "something awful happened. we went to the portobello road, and someone stole my handbag.",
+            "emotion": {
+                "automatic": "1.0",
+                "human": "3, 3, 4"
+            },
+            "similarity": {
+                "automatic": "0.766",
+                "human": "5, 4, 5"
+            },
+            "fluency": {
+                "automatic": "0.991",
+                "human": "4, 2, 5"
+            },
+            "context": {
+                "automatic": "Na",
+                "human": "4, 5, 4"
+            }
+        },
+        "pred_pegasus_wst": {
+            "candidate": "something terrible happened. we went to the portabello road and someone stole my purse. i was so scared.",
+            "emotion": {
+                "automatic": "1.0",
+                "human": "4, 3, 5"
+            },
+            "similarity": {
+                "automatic": "0.851",
+                "human": "3, 4, 4"
+            },
+            "fluency": {
+                "automatic": "0.993",
+                "human": "4, 4, 5"
+            },
+            "context": {
+                "automatic": "Na",
+                "human": "2, 5, 3"
+            }
+        },
+        "pred_pegasus_nst": {
+            "candidate": "something terrible happened. we went to the portabello road and someone took my purse.",
+            "emotion": {
+                "automatic": "1.0",
+                "human": "3, 2, 4"
+            },
+            "similarity": {
+                "automatic": "0.969",
+                "human": "4, 3, 4"
+            },
+            "fluency": {
+                "automatic": "0.989",
+                "human": "4, 4, 5"
+            },
+            "context": {
+                "automatic": "Na",
+                "human": "3, 5, 3"
+            }
+        },
+        "pred_pegasus_np": {
+            "candidate": "something really bad happened. we went to the portabello road, and someone took my purse.",
+            "emotion": {
+                "automatic": "1.0",
+                "human": "4, 3, 4"
+            },
+            "similarity": {
+                "automatic": "0.968",
+                "human": "3, 4, 3"
+            },
+            "fluency": {
+                "automatic": "0.991",
+                "human": "4, 3, 5"
+            },
+            "context": {
+                "automatic": "Na",
+                "human": "3, 5, 3"
+            }
+        },
+        "pred_naive": {
+            "candidate": "i am worried about it! something happened. we went to the portabello road, and someone took my purse.",
+            "emotion": {
+                "automatic": "1.0",
+                "human": "4, 3, 5"
+            },
+            "similarity": {
+                "automatic": "0.877",
+                "human": "4, 4, 5"
+            },
+            "fluency": {
+                "automatic": "0.983",
+                "human": "4, 4, 3"
+            },
+            "context": {
+                "automatic": "Na",
+                "human": "3, 3, 4"
+            }
+        }
+    },
+    "dailydialog_tr_5737_6": {
+        "input": "i know, i bought it.",
+        "context": "look! they've taken your fur coat too.",
+        "context_emo": "surprise",
+        "target_emo": "sadness",
+        "reference": {
+            "candidate": "i know, i am sorry i ever bought it.",
+            "emotion": {
+                "automatic": "1.0",
+                "human": "4, 4, 3"
+            },
+            "similarity": {
+                "automatic": "0.685",
+                "human": "2, 4, 4"
+            },
+            "fluency": {
+                "automatic": "0.888",
+                "human": "5, 5, 3"
+            },
+            "context": {
+                "automatic": "Na",
+                "human": "5, 3, 5"
+            }
+        },
+        "pred_pegasus_wst": {
+            "candidate": "i know, it was embarrassing. i bought it.",
+            "emotion": {
+                "automatic": "1.0",
+                "human": "4, 5, 3"
+            },
+            "similarity": {
+                "automatic": "0.711",
+                "human": "3, 4, 4"
+            },
+            "fluency": {
+                "automatic": "0.973",
+                "human": "3, 2, 4"
+            },
+            "context": {
+                "automatic": "Na",
+                "human": "3, 5, 3"
+            }
+        },
+        "pred_pegasus_nst": {
+            "candidate": "i know, that was my mistake. i bought it.",
+            "emotion": {
+                "automatic": "1.0",
+                "human": "4, 3, 3"
+            },
+            "similarity": {
+                "automatic": "0.672",
+                "human": "2, 3, 4"
+            },
+            "fluency": {
+                "automatic": "0.984",
+                "human": "4, 2, 3"
+            },
+            "context": {
+                "automatic": "Na",
+                "human": "4, 4, 4"
+            }
+        },
+        "pred_pegasus_np": {
+            "candidate": "i know, i bought it. i am so sorry.",
+            "emotion": {
+                "automatic": "1.0",
+                "human": "4, 4, 3"
+            },
+            "similarity": {
+                "automatic": "0.74",
+                "human": "4, 4, 3"
+            },
+            "fluency": {
+                "automatic": "0.976",
+                "human": "3, 2, 4"
+            },
+            "context": {
+                "automatic": "Na",
+                "human": "3, 3, 3"
+            }
+        },
+        "pred_naive": {
+            "candidate": "c'mon, don't blame me!! i know, i bought it.",
+            "emotion": {
+                "automatic": "1.0",
+                "human": "4, 5, 4"
+            },
+            "similarity": {
+                "automatic": "0.632",
+                "human": "2, 5, 4"
+            },
+            "fluency": {
+                "automatic": "0.972",
+                "human": "2, 4, 4"
+            },
+            "context": {
+                "automatic": "Na",
+                "human": "4, 5, 4"
+            }
+        }
+    },
+    "empadialog_hit_694_conv_1388_2": {
+        "input": "... did you come last??",
+        "context": "it felt bad to finish last in a race last week.",
+        "context_emo": "sadness",
+        "target_emo": "sadness",
+        "reference": {
+            "candidate": "really bad... did you come last??",
+            "emotion": {
+                "automatic": "1.0",
+                "human": "4, 3, 4"
+            },
+            "similarity": {
+                "automatic": "0.84",
+                "human": "5, 4, 2"
+            },
+            "fluency": {
+                "automatic": "0.815",
+                "human": "5, 4, 5"
+            },
+            "context": {
+                "automatic": "Na",
+                "human": "4, 4, 4"
+            }
+        },
+        "pred_pegasus_wst": {
+            "candidate": "oh dear. did you come last??",
+            "emotion": {
+                "automatic": "1.0",
+                "human": "2, 4, 3"
+            },
+            "similarity": {
+                "automatic": "0.912",
+                "human": "3, 3, 3"
+            },
+            "fluency": {
+                "automatic": "0.984",
+                "human": "2, 4, 5"
+            },
+            "context": {
+                "automatic": "Na",
+                "human": "3, 5, 3"
+            }
+        },
+        "pred_pegasus_nst": {
+            "candidate": "i'm sorry, did you come last??",
+            "emotion": {
+                "automatic": "1.0",
+                "human": "4, 2, 3"
+            },
+            "similarity": {
+                "automatic": "0.869",
+                "human": "4, 3, 2"
+            },
+            "fluency": {
+                "automatic": "0.974",
+                "human": "4, 4, 5"
+            },
+            "context": {
+                "automatic": "Na",
+                "human": "3, 4, 4"
+            }
+        },
+        "pred_pegasus_np": {
+            "candidate": "oh no! did you come last??",
+            "emotion": {
+                "automatic": "1.0",
+                "human": "4, 3, 4"
+            },
+            "similarity": {
+                "automatic": "0.9",
+                "human": "4, 4, 3"
+            },
+            "fluency": {
+                "automatic": "0.982",
+                "human": "5, 3, 5"
+            },
+            "context": {
+                "automatic": "Na",
+                "human": "4, 4, 4"
+            }
+        },
+        "pred_naive": {
+            "candidate": "... did you come last?? how horrible!!",
+            "emotion": {
+                "automatic": "1.0",
+                "human": "4, 4, 4"
+            },
+            "similarity": {
+                "automatic": "0.885",
+                "human": "4, 4, 2"
+            },
+            "fluency": {
+                "automatic": "0.969",
+                "human": "2, 4, 4"
+            },
+            "context": {
+                "automatic": "Na",
+                "human": "5, 5, 4"
+            }
+        }
+    },
+    "empadialog_hit_1347_conv_2694_2": {
+        "input": "have you posted everywhere and checked shelters?",
+        "context": "my dog is missing! she has been gone for almost a week.",
+        "context_emo": "sadness",
+        "target_emo": "sadness",
+        "reference": {
+            "candidate": "oh my god! have you posted everywhere and checked shelters?",
+            "emotion": {
+                "automatic": "0.023",
+                "human": "5, 2, 3"
+            },
+            "similarity": {
+                "automatic": "0.961",
+                "human": "3, 3, 4"
+            },
+            "fluency": {
+                "automatic": "0.898",
+                "human": "4, 4, 4"
+            },
+            "context": {
+                "automatic": "Na",
+                "human": "3, 5, 4"
+            }
+        },
+        "pred_pegasus_wst": {
+            "candidate": "oh no! have you posted everywhere and checked shelters?",
+            "emotion": {
+                "automatic": "0.973",
+                "human": "4, 3, 3"
+            },
+            "similarity": {
+                "automatic": "0.969",
+                "human": "4, 4, 4"
+            },
+            "fluency": {
+                "automatic": "0.976",
+                "human": "4, 2, 5"
+            },
+            "context": {
+                "automatic": "Na",
+                "human": "4, 5, 4"
+            }
+        },
+        "pred_pegasus_nst": {
+            "candidate": "oh gosh! have you posted everywhere and checked shelters?",
+            "emotion": {
+                "automatic": "0.998",
+                "human": "4, 2, 3"
+            },
+            "similarity": {
+                "automatic": "0.96",
+                "human": "4, 4, 3"
+            },
+            "fluency": {
+                "automatic": "0.979",
+                "human": "4, 4, 4"
+            },
+            "context": {
+                "automatic": "Na",
+                "human": "4, 4, 3"
+            }
+        },
+        "pred_pegasus_np": {
+            "candidate": "shame on you. have you posted everywhere and checked shelters?",
+            "emotion": {
+                "automatic": "0.999",
+                "human": "4, 4, 4"
+            },
+            "similarity": {
+                "automatic": "0.957",
+                "human": "2, 4, 4"
+            },
+            "fluency": {
+                "automatic": "0.975",
+                "human": "2, 3, 4"
+            },
+            "context": {
+                "automatic": "Na",
+                "human": "3, 2, 3"
+            }
+        },
+        "pred_naive": {
+            "candidate": "i am still embarrassed! have you posted everywhere and checked shelters?",
+            "emotion": {
+                "automatic": "1.0",
+                "human": "4, 5, 3"
+            },
+            "similarity": {
+                "automatic": "0.825",
+                "human": "2, 4, 4"
+            },
+            "fluency": {
+                "automatic": "0.973",
+                "human": "3, 5, 5"
+            },
+            "context": {
+                "automatic": "Na",
+                "human": "4, 2, 4"
+            }
+        }
+    },
+    "empadialog_hit_9245_conv_18491_2": {
+        "input": "how are you going to clean it out?",
+        "context": "my dog pooped in my wig today. i was so mad!",
+        "context_emo": "anger",
+        "target_emo": "anger",
+        "reference": {
+            "candidate": "oh no! how are you going to clean it out?",
+            "emotion": {
+                "automatic": "0.007",
+                "human": "4, 4, 3"
+            },
+            "similarity": {
+                "automatic": "0.932",
+                "human": "3, 4, 4"
+            },
+            "fluency": {
+                "automatic": "0.978",
+                "human": "5, 4, 4"
+            },
+            "context": {
+                "automatic": "Na",
+                "human": "5, 4, 5"
+            }
+        },
+        "pred_pegasus_wst": {
+            "candidate": "how are you gonna clean it out? it sucks.",
+            "emotion": {
+                "automatic": "0.998",
+                "human": "4, 5, 3"
+            },
+            "similarity": {
+                "automatic": "0.88",
+                "human": "5, 3, 3"
+            },
+            "fluency": {
+                "automatic": "0.986",
+                "human": "3, 3, 4"
+            },
+            "context": {
+                "automatic": "Na",
+                "human": "4, 4, 2"
+            }
+        },
+        "pred_pegasus_nst": {
+            "candidate": "damn, how are you going to clean it out?",
+            "emotion": {
+                "automatic": "1.0",
+                "human": "3, 4, 3"
+            },
+            "similarity": {
+                "automatic": "0.947",
+                "human": "3, 5, 4"
+            },
+            "fluency": {
+                "automatic": "0.97",
+                "human": "5, 4, 4"
+            },
+            "context": {
+                "automatic": "Na",
+                "human": "4, 3, 4"
+            }
+        },
+        "pred_pegasus_np": {
+            "candidate": "oh no! how are you going to clean that shit out?",
+            "emotion": {
+                "automatic": "1.0",
+                "human": "4, 5, 3"
+            },
+            "similarity": {
+                "automatic": "0.837",
+                "human": "3, 3, 3"
+            },
+            "fluency": {
+                "automatic": "0.988",
+                "human": "5, 4, 3"
+            },
+            "context": {
+                "automatic": "Na",
+                "human": "4, 4, 4"
+            }
+        },
+        "pred_naive": {
+            "candidate": "how are you going to clean it out? damnit!",
+            "emotion": {
+                "automatic": "1.0",
+                "human": "3, 5, 4"
+            },
+            "similarity": {
+                "automatic": "0.94",
+                "human": "3, 4, 3"
+            },
+            "fluency": {
+                "automatic": "0.989",
+                "human": "3, 2, 4"
+            },
+            "context": {
+                "automatic": "Na",
+                "human": "4, 3, 2"
+            }
+        }
+    },
+    "empadialog_hit_11289_conv_22579_2": {
+        "input": "do you have a suspect?",
+        "context": "i think someone stole my headphones recently.",
+        "context_emo": "anger",
+        "target_emo": "anger",
+        "reference": {
+            "candidate": "oh no! do you have a suspect?",
+            "emotion": {
+                "automatic": "0.988",
+                "human": "1, 3, 2"
+            },
+            "similarity": {
+                "automatic": "0.931",
+                "human": "3, 3, 4"
+            },
+            "fluency": {
+                "automatic": "0.986",
+                "human": "1, 3, 4"
+            },
+            "context": {
+                "automatic": "Na",
+                "human": "5, 5, 4"
+            }
+        },
+        "pred_pegasus_wst": {
+            "candidate": "oh no! do you have an actual suspect?",
+            "emotion": {
+                "automatic": "0.999",
+                "human": "1, 3, 2"
+            },
+            "similarity": {
+                "automatic": "0.9",
+                "human": "4, 4, 3"
+            },
+            "fluency": {
+                "automatic": "0.98",
+                "human": "4, 4, 5"
+            },
+            "context": {
+                "automatic": "Na",
+                "human": "4, 5, 3"
+            }
+        },
+        "pred_pegasus_nst": {
+            "candidate": "oh my god! do you have a suspect?",
+            "emotion": {
+                "automatic": "0.997",
+                "human": "2, 4, 3"
+            },
+            "similarity": {
+                "automatic": "0.914",
+                "human": "3, 2, 4"
+            },
+            "fluency": {
+                "automatic": "0.979",
+                "human": "3, 4, 4"
+            },
+            "context": {
+                "automatic": "Na",
+                "human": "5, 5, 4"
+            }
+        },
+        "pred_pegasus_np": {
+            "candidate": "oh no! do you have a bloody suspect?",
+            "emotion": {
+                "automatic": "1.0",
+                "human": "4, 4, 4"
+            },
+            "similarity": {
+                "automatic": "0.799",
+                "human": "4, 3, 3"
+            },
+            "fluency": {
+                "automatic": "0.983",
+                "human": "2, 2, 4"
+            },
+            "context": {
+                "automatic": "Na",
+                "human": "5, 4, 4"
+            }
+        },
+        "pred_naive": {
+            "candidate": "i can't stand it anymore!! do you have a suspect?",
+            "emotion": {
+                "automatic": "1.0",
+                "human": "5, 5, 5"
+            },
+            "similarity": {
+                "automatic": "0.776",
+                "human": "3, 4, 4"
+            },
+            "fluency": {
+                "automatic": "0.978",
+                "human": "3, 2, 3"
+            },
+            "context": {
+                "automatic": "Na",
+                "human": "2, 3, 5"
+            }
+        }
+    },
+    "empadialog_hit_11605_conv_23211_4": {
+        "input": "they need to do their work properly.",
+        "context": "yes but i had to spend a whole hour on the phone explaining why they were at fault.",
+        "context_emo": "anger",
+        "target_emo": "anger",
+        "reference": {
+            "candidate": "i would be upset too, they need to do their work properly.",
+            "emotion": {
+                "automatic": "1.0",
+                "human": "4, 4, 3"
+            },
+            "similarity": {
+                "automatic": "0.592",
+                "human": "2, 3, 4"
+            },
+            "fluency": {
+                "automatic": "0.962",
+                "human": "3, 5, 4"
+            },
+            "context": {
+                "automatic": "Na",
+                "human": "5, 5, 4"
+            }
+        },
+        "pred_pegasus_wst": {
+            "candidate": "that sucks. they need to do their work well.",
+            "emotion": {
+                "automatic": "0.998",
+                "human": "5, 3, 2"
+            },
+            "similarity": {
+                "automatic": "0.691",
+                "human": "4, 3, 3"
+            },
+            "fluency": {
+                "automatic": "0.988",
+                "human": "3, 4, 3"
+            },
+            "context": {
+                "automatic": "Na",
+                "human": "5, 2, 3"
+            }
+        },
+        "pred_pegasus_nst": {
+            "candidate": "damn, they need to do their work properly.",
+            "emotion": {
+                "automatic": "1.0",
+                "human": "3, 4, 3"
+            },
+            "similarity": {
+                "automatic": "0.831",
+                "human": "3, 2, 4"
+            },
+            "fluency": {
+                "automatic": "0.989",
+                "human": "4, 4, 4"
+            },
+            "context": {
+                "automatic": "Na",
+                "human": "5, 3, 2"
+            }
+        },
+        "pred_pegasus_np": {
+            "candidate": "i hate it when they need to do their work properly.",
+            "emotion": {
+                "automatic": "1.0",
+                "human": "3, 3, 4"
+            },
+            "similarity": {
+                "automatic": "0.73",
+                "human": "4, 2, 3"
+            },
+            "fluency": {
+                "automatic": "0.991",
+                "human": "3, 5, 3"
+            },
+            "context": {
+                "automatic": "Na",
+                "human": "1, 2, 2"
+            }
+        },
+        "pred_naive": {
+            "candidate": "i can't stand it anymore!! they need to do their work properly.",
+            "emotion": {
+                "automatic": "1.0",
+                "human": "4, 3, 5"
+            },
+            "similarity": {
+                "automatic": "0.631",
+                "human": "4, 2, 4"
+            },
+            "fluency": {
+                "automatic": "0.985",
+                "human": "3, 5, 4"
+            },
+            "context": {
+                "automatic": "Na",
+                "human": "4, 4, 3"
+            }
+        }
+    },
+    "empadialog_hit_1459_conv_2918_2": {
+        "input": "are you taking any classes?",
+        "context": "school starts next week and i am all ready to go!",
+        "context_emo": "happiness",
+        "target_emo": "happiness",
+        "reference": {
+            "candidate": "oh nice! are you taking any cool classes?",
+            "emotion": {
+                "automatic": "1.0",
+                "human": "3, 4, 4"
+            },
+            "similarity": {
+                "automatic": "0.762",
+                "human": "4, 5, 4"
+            },
+            "fluency": {
+                "automatic": "0.957",
+                "human": "3, 2, 2"
+            },
+            "context": {
+                "automatic": "Na",
+                "human": "2, 4, 5"
+            }
+        },
+        "pred_pegasus_wst": {
+            "candidate": "oh wow! are you taking any classes?",
+            "emotion": {
+                "automatic": "1.0",
+                "human": "4, 3, 4"
+            },
+            "similarity": {
+                "automatic": "0.9",
+                "human": "2, 5, 4"
+            },
+            "fluency": {
+                "automatic": "0.967",
+                "human": "3, 4, 4"
+            },
+            "context": {
+                "automatic": "Na",
+                "human": "2, 3, 4"
+            }
+        },
+        "pred_pegasus_nst": {
+            "candidate": "oh great! are you taking any classes?",
+            "emotion": {
+                "automatic": "1.0",
+                "human": "4, 5, 5"
+            },
+            "similarity": {
+                "automatic": "0.902",
+                "human": "3, 4, 5"
+            },
+            "fluency": {
+                "automatic": "0.979",
+                "human": "3, 4, 3"
+            },
+            "context": {
+                "automatic": "Na",
+                "human": "3, 4, 4"
+            }
+        },
+        "pred_pegasus_np": {
+            "candidate": "congratulations! are you taking any classes?",
+            "emotion": {
+                "automatic": "1.0",
+                "human": "2, 4, 5"
+            },
+            "similarity": {
+                "automatic": "0.836",
+                "human": "2, 4, 4"
+            },
+            "fluency": {
+                "automatic": "0.983",
+                "human": "4, 3, 4"
+            },
+            "context": {
+                "automatic": "Na",
+                "human": "3, 4, 4"
+            }
+        },
+        "pred_naive": {
+            "candidate": "are you taking any classes? i'll be extremely glad!",
+            "emotion": {
+                "automatic": "1.0",
+                "human": "4, 5, 5"
+            },
+            "similarity": {
+                "automatic": "0.751",
+                "human": "3, 5, 3"
+            },
+            "fluency": {
+                "automatic": "0.982",
+                "human": "3, 4, 2"
+            },
+            "context": {
+                "automatic": "Na",
+                "human": "4, 4, 5"
+            }
+        }
+    },
+    "empadialog_hit_1608_conv_3216_3": {
+        "input": "they recognized my contributions for all these years.",
+        "context": "that's what i'm talking about! that sounds so nice. i'm a little jealous. sounds like you deserve it,  though.",
+        "context_emo": "happiness",
+        "target_emo": "happiness",
+        "reference": {
+            "candidate": "i was thankful that they recognized my contributions for all these years.",
+            "emotion": {
+                "automatic": "1.0",
+                "human": "2, 4, 5"
+            },
+            "similarity": {
+                "automatic": "0.896",
+                "human": "5, 2, 4"
+            },
+            "fluency": {
+                "automatic": "0.945",
+                "human": "4, 3, 4"
+            },
+            "context": {
+                "automatic": "Na",
+                "human": "2, 3, 5"
+            }
+        },
+        "pred_pegasus_wst": {
+            "candidate": "they recognized my contributions for all these years. it was great!",
+            "emotion": {
+                "automatic": "1.0",
+                "human": "3, 4, 5"
+            },
+            "similarity": {
+                "automatic": "0.887",
+                "human": "4, 3, 5"
+            },
+            "fluency": {
+                "automatic": "0.983",
+                "human": "4, 4, 3"
+            },
+            "context": {
+                "automatic": "Na",
+                "human": "2, 4, 4"
+            }
+        },
+        "pred_pegasus_nst": {
+            "candidate": "i am so happy that they recognized my contributions for all these years.",
+            "emotion": {
+                "automatic": "1.0",
+                "human": "5, 4, 5"
+            },
+            "similarity": {
+                "automatic": "0.898",
+                "human": "4, 2, 4"
+            },
+            "fluency": {
+                "automatic": "0.988",
+                "human": "5, 3, 5"
+            },
+            "context": {
+                "automatic": "Na",
+                "human": "3, 4, 4"
+            }
+        },
+        "pred_pegasus_np": {
+            "candidate": "i was delighted when they recognized my contributions for all these years.",
+            "emotion": {
+                "automatic": "1.0",
+                "human": "2, 4, 5"
+            },
+            "similarity": {
+                "automatic": "0.905",
+                "human": "5, 3, 5"
+            },
+            "fluency": {
+                "automatic": "0.948",
+                "human": "5, 4, 4"
+            },
+            "context": {
+                "automatic": "Na",
+                "human": "4, 4, 4"
+            }
+        },
+        "pred_naive": {
+            "candidate": "greatly! they recognized my contributions for all these years.",
+            "emotion": {
+                "automatic": "1.0",
+                "human": "3, 5, 5"
+            },
+            "similarity": {
+                "automatic": "0.89",
+                "human": "5, 4, 5"
+            },
+            "fluency": {
+                "automatic": "0.952",
+                "human": "1, 3, 1"
+            },
+            "context": {
+                "automatic": "Na",
+                "human": "2, 4, 5"
+            }
+        }
+    },
+    "empadialog_hit_4433_conv_8867_2": {
+        "input": "have you tried taking some melatonin?",
+        "context": "i'm feeling blue because my days and nights are mixed up",
+        "context_emo": "sadness",
+        "target_emo": "sadness",
+        "reference": {
+            "candidate": "that really sucks. have you tried taking some melatonin?",
+            "emotion": {
+                "automatic": "0.654",
+                "human": "4, 4, 3"
+            },
+            "similarity": {
+                "automatic": "0.952",
+                "human": "3, 4, 4"
+            },
+            "fluency": {
+                "automatic": "0.962",
+                "human": "4, 2, 1"
+            },
+            "context": {
+                "automatic": "Na",
+                "human": "3, 5, 3"
+            }
+        },
+        "pred_pegasus_wst": {
+            "candidate": "that's not good. have you tried taking some melatonin?",
+            "emotion": {
+                "automatic": "1.0",
+                "human": "3, 3, 3"
+            },
+            "similarity": {
+                "automatic": "0.931",
+                "human": "3, 4, 3"
+            },
+            "fluency": {
+                "automatic": "0.971",
+                "human": "4, 4, 2"
+            },
+            "context": {
+                "automatic": "Na",
+                "human": "5, 5, 3"
+            }
+        },
+        "pred_pegasus_nst": {
+            "candidate": "oh dear, have you tried taking some melatonin?",
+            "emotion": {
+                "automatic": "1.0",
+                "human": "4, 4, 4"
+            },
+            "similarity": {
+                "automatic": "0.982",
+                "human": "4, 4, 4"
+            },
+            "fluency": {
+                "automatic": "0.987",
+                "human": "5, 4, 5"
+            },
+            "context": {
+                "automatic": "Na",
+                "human": "4, 5, 3"
+            }
+        },
+        "pred_pegasus_np": {
+            "candidate": "i'm sorry but have you tried taking some melatonin?",
+            "emotion": {
+                "automatic": "1.0",
+                "human": "4, 3, 5"
+            },
+            "similarity": {
+                "automatic": "0.968",
+                "human": "4, 3, 3"
+            },
+            "fluency": {
+                "automatic": "0.985",
+                "human": "3, 3, 4"
+            },
+            "context": {
+                "automatic": "Na",
+                "human": "3, 3, 4"
+            }
+        },
+        "pred_naive": {
+            "candidate": "have you tried taking some melatonin? what a let down.",
+            "emotion": {
+                "automatic": "1.0",
+                "human": "3, 4, 4"
+            },
+            "similarity": {
+                "automatic": "0.94",
+                "human": "3, 5, 4"
+            },
+            "fluency": {
+                "automatic": "0.967",
+                "human": "4, 2, 3"
+            },
+            "context": {
+                "automatic": "Na",
+                "human": "1, 3, 4"
+            }
+        }
+    },
+    "empadialog_hit_7214_conv_14429_2": {
+        "input": "it's impossible to stay for 15 days",
+        "context": "i was trapped in a cave with my mates for 15 days",
+        "context_emo": "sadness",
+        "target_emo": "sadness",
+        "reference": {
+            "candidate": "i feel so worried about this it's impossible to stay for 15 days",
+            "emotion": {
+                "automatic": "1.0",
+                "human": "4, 3, 4"
+            },
+            "similarity": {
+                "automatic": "0.84",
+                "human": "3, 4, 4"
+            },
+            "fluency": {
+                "automatic": "0.902",
+                "human": "1, 4, 3"
+            },
+            "context": {
+                "automatic": "Na",
+                "human": "5, 3, 4"
+            }
+        },
+        "pred_pegasus_wst": {
+            "candidate": "i'm sorry but it's impossible to stay for 15 days",
+            "emotion": {
+                "automatic": "1.0",
+                "human": "3, 3, 4"
+            },
+            "similarity": {
+                "automatic": "0.902",
+                "human": "4, 4, 5"
+            },
+            "fluency": {
+                "automatic": "0.99",
+                "human": "4, 5, 3"
+            },
+            "context": {
+                "automatic": "Na",
+                "human": "5, 3, 5"
+            }
+        },
+        "pred_pegasus_nst": {
+            "candidate": "it's very difficult to stay for 15 days",
+            "emotion": {
+                "automatic": "1.0",
+                "human": "2, 3, 4"
+            },
+            "similarity": {
+                "automatic": "0.917",
+                "human": "3, 4, 1"
+            },
+            "fluency": {
+                "automatic": "0.989",
+                "human": "5, 5, 3"
+            },
+            "context": {
+                "automatic": "Na",
+                "human": "5, 3, 4"
+            }
+        },
+        "pred_pegasus_np": {
+            "candidate": "it's a shame it's impossible to stay for 15 days",
+            "emotion": {
+                "automatic": "1.0",
+                "human": "4, 4, 3"
+            },
+            "similarity": {
+                "automatic": "0.92",
+                "human": "3, 3, 5"
+            },
+            "fluency": {
+                "automatic": "0.994",
+                "human": "2, 3, 4"
+            },
+            "context": {
+                "automatic": "Na",
+                "human": "5, 4, 3"
+            }
+        },
+        "pred_naive": {
+            "candidate": "it's impossible to stay for 15 days ! it's embarrassing!",
+            "emotion": {
+                "automatic": "1.0",
+                "human": "2, 4, 2"
+            },
+            "similarity": {
+                "automatic": "0.836",
+                "human": "4, 4, 5"
+            },
+            "fluency": {
+                "automatic": "0.979",
+                "human": "3, 5, 4"
+            },
+            "context": {
+                "automatic": "Na",
+                "human": "4, 4, 4"
+            }
+        }
+    },
+    "empadialog_hit_9784_conv_19568_4": {
+        "input": "i hope you found your dog.",
+        "context": "my brother left the gate open and my dog got out,  needless to say my brother got beatdown.",
+        "context_emo": "sadness",
+        "target_emo": "sadness",
+        "reference": {
+            "candidate": "that sucks, i hope you found your dog.",
+            "emotion": {
+                "automatic": "0.977",
+                "human": "4, 4, 3"
+            },
+            "similarity": {
+                "automatic": "0.843",
+                "human": "4, 4, 5"
+            },
+            "fluency": {
+                "automatic": "0.987",
+                "human": "5, 3, 4"
+            },
+            "context": {
+                "automatic": "Na",
+                "human": "4, 4, 3"
+            }
+        },
+        "pred_pegasus_wst": {
+            "candidate": "i'm so sorry you found your dog.",
+            "emotion": {
+                "automatic": "1.0",
+                "human": "4, 1, 4"
+            },
+            "similarity": {
+                "automatic": "0.823",
+                "human": "3, 3, 1"
+            },
+            "fluency": {
+                "automatic": "0.993",
+                "human": "4, 2, 3"
+            },
+            "context": {
+                "automatic": "Na",
+                "human": "3, 3, 4"
+            }
+        },
+        "pred_pegasus_nst": {
+            "candidate": "that's a shame. i hope you found your dog.",
+            "emotion": {
+                "automatic": "0.997",
+                "human": "4, 5, 2"
+            },
+            "similarity": {
+                "automatic": "0.859",
+                "human": "4, 5, 5"
+            },
+            "fluency": {
+                "automatic": "0.994",
+                "human": "4, 4, 3"
+            },
+            "context": {
+                "automatic": "Na",
+                "human": "2, 3, 1"
+            }
+        },
+        "pred_pegasus_np": {
+            "candidate": "that is so sad. i hope you found your dog.",
+            "emotion": {
+                "automatic": "1.0",
+                "human": "4, 5, 5"
+            },
+            "similarity": {
+                "automatic": "0.856",
+                "human": "3, 3, 5"
+            },
+            "fluency": {
+                "automatic": "0.994",
+                "human": "3, 5, 4"
+            },
+            "context": {
+                "automatic": "Na",
+                "human": "4, 3, 3"
+            }
+        },
+        "pred_naive": {
+            "candidate": "i hope you found your dog. what bad luck !!",
+            "emotion": {
+                "automatic": "0.995",
+                "human": "3, 5, 4"
+            },
+            "similarity": {
+                "automatic": "0.84",
+                "human": "4, 4, 5"
+            },
+            "fluency": {
+                "automatic": "0.982",
+                "human": "4, 3, 4"
+            },
+            "context": {
+                "automatic": "Na",
+                "human": "4, 3, 4"
+            }
+        }
+    },
+    "dailydialog_tr_3807_7": {
+        "input": "do you meet me at the coffee house next door ?",
+        "context": "i could easily give you some time tomorrow night.",
+        "context_emo": "neutral",
+        "target_emo": "anger",
+        "reference": {
+            "candidate": "would you like to meet me at the coffee house next door?",
+            "emotion": {
+                "automatic": "0.999",
+                "human": "3, 5, 4"
+            },
+            "similarity": {
+                "automatic": "0.914",
+                "human": "2, 5, 5"
+            },
+            "fluency": {
+                "automatic": "0.988",
+                "human": "4, 4, 3"
+            },
+            "context": {
+                "automatic": "Na",
+                "human": "4, 3, 5"
+            }
+        },
+        "pred_pegasus_wst": {
+            "candidate": "are you excited to meet me at the coffee house next door?",
+            "emotion": {
+                "automatic": "1.0",
+                "human": "3, 5, 4"
+            },
+            "similarity": {
+                "automatic": "0.854",
+                "human": "2, 3, 5"
+            },
+            "fluency": {
+                "automatic": "0.989",
+                "human": "5, 2, 3"
+            },
+            "context": {
+                "automatic": "Na",
+                "human": "3, 4, 5"
+            }
+        },
+        "pred_pegasus_nst": {
+            "candidate": "i am looking forward to meeting you at the coffee house next door?",
+            "emotion": {
+                "automatic": "1.0",
+                "human": "4, 5, 4"
+            },
+            "similarity": {
+                "automatic": "0.847",
+                "human": "2, 3, 4"
+            },
+            "fluency": {
+                "automatic": "0.924",
+                "human": "3, 2, 3"
+            },
+            "context": {
+                "automatic": "Na",
+                "human": "3, 3, 4"
+            }
+        },
+        "pred_pegasus_np": {
+            "candidate": "i'd love to meet you at the coffee house next door?",
+            "emotion": {
+                "automatic": "1.0",
+                "human": "4, 2, 2"
+            },
+            "similarity": {
+                "automatic": "0.894",
+                "human": "5, 4, 3"
+            },
+            "fluency": {
+                "automatic": "0.974",
+                "human": "3, 5, 4"
+            },
+            "context": {
+                "automatic": "Na",
+                "human": "3, 4, 2"
+            }
+        },
+        "pred_naive": {
+            "candidate": "that sounds fantastic. do you meet me at the coffee house next door ?",
+            "emotion": {
+                "automatic": "1.0",
+                "human": "4, 5, 4"
+            },
+            "similarity": {
+                "automatic": "0.898",
+                "human": "4, 5, 3"
+            },
+            "fluency": {
+                "automatic": "0.977",
+                "human": "4, 4, 4"
+            },
+            "context": {
+                "automatic": "Na",
+                "human": "4, 3, 5"
+            }
+        }
+    }
+}

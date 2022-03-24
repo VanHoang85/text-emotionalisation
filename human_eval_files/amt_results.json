@@ -1,0 +1,2501 @@
+{
+    "empadialog_hit_4426_conv_8853_2": {
+        "target_emo": "anger",
+        "emotion": {
+            "AWVLT2L5AP873": {
+                "LifetimeApprovalRate": "100% (1/1)",
+                "WorkTimeInSeconds": "165",
+                "emotion_target": "1",
+                "emotion_wst": "4",
+                "emotion_nst": "2",
+                "emotion_nps": "3",
+                "emotion_naive": "2"
+            },
+            "A1PNR13F6ODP3R": {
+                "LifetimeApprovalRate": "86% (19/22)",
+                "WorkTimeInSeconds": "134",
+                "emotion_target": "4",
+                "emotion_wst": "3",
+                "emotion_nst": "4",
+                "emotion_nps": "4",
+                "emotion_naive": "3"
+            },
+            "A1GUWXA5B6RCOR": {
+                "LifetimeApprovalRate": "100% (1/1)",
+                "WorkTimeInSeconds": "1766",
+                "emotion_target": "3",
+                "emotion_wst": "3",
+                "emotion_nst": "2",
+                "emotion_nps": "4",
+                "emotion_naive": "3"
+            }
+        },
+        "similarity": {
+            "A2QTL039A5VV3I": {
+                "LifetimeApprovalRate": "100% (3/3)",
+                "WorkTimeInSeconds": "42",
+                "similarity_target": "5",
+                "similarity_wst": "4",
+                "similarity_nst": "3",
+                "similarity_nps": "2",
+                "similarity_naive": "3"
+            },
+            "AKSJ3C5O3V9RB": {
+                "LifetimeApprovalRate": "100% (3/3)",
+                "WorkTimeInSeconds": "1464",
+                "similarity_target": "4",
+                "similarity_wst": "1",
+                "similarity_nst": "4",
+                "similarity_nps": "1",
+                "similarity_naive": "2"
+            },
+            "AZ69TBTDH7AZS": {
+                "LifetimeApprovalRate": "100% (1/1)",
+                "WorkTimeInSeconds": "1601",
+                "similarity_target": "1",
+                "similarity_wst": "5",
+                "similarity_nst": "4",
+                "similarity_nps": "4",
+                "similarity_naive": "4"
+            }
+        },
+        "fluency": {
+            "A24LUXW1DB1QI5": {
+                "LifetimeApprovalRate": "100% (1/1)",
+                "WorkTimeInSeconds": "60",
+                "fluency_target": "4",
+                "fluency_wst": "3",
+                "fluency_nst": "3",
+                "fluency_nps": "2",
+                "fluency_naive": "2"
+            },
+            "AAQREZOK13OV7": {
+                "LifetimeApprovalRate": "100% (2/2)",
+                "WorkTimeInSeconds": "336",
+                "fluency_target": "3",
+                "fluency_wst": "2",
+                "fluency_nst": "4",
+                "fluency_nps": "2",
+                "fluency_naive": "4"
+            },
+            "A2VL25EUGLCCGB": {
+                "LifetimeApprovalRate": "100% (1/1)",
+                "WorkTimeInSeconds": "269",
+                "fluency_target": "4",
+                "fluency_wst": "4",
+                "fluency_nst": "3",
+                "fluency_nps": "3",
+                "fluency_naive": "2"
+            }
+        },
+        "context": {
+            "A162XWZ2FDQO96": {
+                "LifetimeApprovalRate": "100% (1/1)",
+                "WorkTimeInSeconds": "144",
+                "context_target": "3",
+                "context_wst": "3",
+                "context_nst": "4",
+                "context_nps": "4",
+                "context_naive": "3"
+            },
+            "A11WCFPJSR5VZP": {
+                "LifetimeApprovalRate": "100% (1/1)",
+                "WorkTimeInSeconds": "40",
+                "context_target": "4",
+                "context_wst": "2",
+                "context_nst": "2",
+                "context_nps": "2",
+                "context_naive": "2"
+            },
+            "A2YO837C0O1E91": {
+                "LifetimeApprovalRate": "100% (1/1)",
+                "WorkTimeInSeconds": "189",
+                "context_target": "3",
+                "context_wst": "2",
+                "context_nst": "2",
+                "context_nps": "2",
+                "context_naive": "2"
+            }
+        }
+    },
+    "empadialog_hit_4782_conv_9565_2": {
+        "target_emo": "anger",
+        "emotion": {
+            "A2D8LB2RPJXMSQ": {
+                "LifetimeApprovalRate": "100% (1/1)",
+                "WorkTimeInSeconds": "1443",
+                "emotion_target": "4",
+                "emotion_wst": "4",
+                "emotion_nst": "3",
+                "emotion_nps": "3",
+                "emotion_naive": "3"
+            },
+            "A2SENAPNSXG9L": {
+                "LifetimeApprovalRate": "100% (10/10)",
+                "WorkTimeInSeconds": "1631",
+                "emotion_target": "1",
+                "emotion_wst": "4",
+                "emotion_nst": "2",
+                "emotion_nps": "2",
+                "emotion_naive": "3"
+            },
+            "AKSJ3C5O3V9RB": {
+                "LifetimeApprovalRate": "100% (2/2)",
+                "WorkTimeInSeconds": "1397",
+                "emotion_target": "2",
+                "emotion_wst": "5",
+                "emotion_nst": "4",
+                "emotion_nps": "3",
+                "emotion_naive": "4"
+            }
+        },
+        "similarity": {
+            "A12ROT2JMPL40M": {
+                "LifetimeApprovalRate": "100% (5/5)",
+                "WorkTimeInSeconds": "3426",
+                "similarity_target": "3",
+                "similarity_wst": "3",
+                "similarity_nst": "4",
+                "similarity_nps": "3",
+                "similarity_naive": "4"
+            },
+            "AAQREZOK13OV7": {
+                "LifetimeApprovalRate": "100% (1/1)",
+                "WorkTimeInSeconds": "313",
+                "similarity_target": "5",
+                "similarity_wst": "2",
+                "similarity_nst": "5",
+                "similarity_nps": "2",
+                "similarity_naive": "4"
+            },
+            "A3L2XKXABNO0N5": {
+                "LifetimeApprovalRate": "100% (1/1)",
+                "WorkTimeInSeconds": "2920",
+                "similarity_target": "4",
+                "similarity_wst": "2",
+                "similarity_nst": "3",
+                "similarity_nps": "2",
+                "similarity_naive": "3"
+            }
+        },
+        "fluency": {
+            "A2SENAPNSXG9L": {
+                "LifetimeApprovalRate": "100% (9/9)",
+                "WorkTimeInSeconds": "1578",
+                "fluency_target": "4",
+                "fluency_wst": "1",
+                "fluency_nst": "4",
+                "fluency_nps": "1",
+                "fluency_naive": "2"
+            },
+            "A347RDI3HZOUCY": {
+                "LifetimeApprovalRate": "100% (1/1)",
+                "WorkTimeInSeconds": "288",
+                "fluency_target": "3",
+                "fluency_wst": "3",
+                "fluency_nst": "3",
+                "fluency_nps": "3",
+                "fluency_naive": "3"
+            },
+            "AG36U7IOG2LAP": {
+                "LifetimeApprovalRate": "100% (2/2)",
+                "WorkTimeInSeconds": "2759",
+                "fluency_target": "3",
+                "fluency_wst": "2",
+                "fluency_nst": "2",
+                "fluency_nps": "2",
+                "fluency_naive": "2"
+            }
+        },
+        "context": {
+            "A1OZPLHNIU1519": {
+                "LifetimeApprovalRate": "100% (1/1)",
+                "WorkTimeInSeconds": "73",
+                "context_target": "5",
+                "context_wst": "2",
+                "context_nst": "5",
+                "context_nps": "1",
+                "context_naive": "4"
+            },
+            "A2IXU3FG5NNBEX": {
+                "LifetimeApprovalRate": "100% (1/1)",
+                "WorkTimeInSeconds": "144",
+                "context_target": "5",
+                "context_wst": "2",
+                "context_nst": "3",
+                "context_nps": "2",
+                "context_naive": "3"
+            },
+            "A1KTF07LF5E2LT": {
+                "LifetimeApprovalRate": "100% (3/3)",
+                "WorkTimeInSeconds": "389",
+                "context_target": "4",
+                "context_wst": "4",
+                "context_nst": "3",
+                "context_nps": "3",
+                "context_naive": "4"
+            }
+        }
+    },
+    "empadialog_hit_6412_conv_12824_2": {
+        "target_emo": "anger",
+        "emotion": {
+            "A2NHQ2FB35T1NE": {
+                "LifetimeApprovalRate": "100% (1/1)",
+                "WorkTimeInSeconds": "156",
+                "emotion_target": "4",
+                "emotion_wst": "3",
+                "emotion_nst": "5",
+                "emotion_nps": "4",
+                "emotion_naive": "4"
+            },
+            "A22DLJR0EHNEXF": {
+                "LifetimeApprovalRate": "100% (2/2)",
+                "WorkTimeInSeconds": "337",
+                "emotion_target": "4",
+                "emotion_wst": "3",
+                "emotion_nst": "3",
+                "emotion_nps": "2",
+                "emotion_naive": "5"
+            },
+            "A33QI63NVR8CUO": {
+                "LifetimeApprovalRate": "100% (1/1)",
+                "WorkTimeInSeconds": "36",
+                "emotion_target": "2",
+                "emotion_wst": "2",
+                "emotion_nst": "5",
+                "emotion_nps": "4",
+                "emotion_naive": "4"
+            }
+        },
+        "similarity": {
+            "A2QX3YJXAAHHVV": {
+                "LifetimeApprovalRate": "100% (1/1)",
+                "WorkTimeInSeconds": "329",
+                "similarity_target": "4",
+                "similarity_wst": "4",
+                "similarity_nst": "2",
+                "similarity_nps": "2",
+                "similarity_naive": "2"
+            },
+            "A3TBG0S2IEBVHU": {
+                "LifetimeApprovalRate": "100% (1/1)",
+                "WorkTimeInSeconds": "137",
+                "similarity_target": "3",
+                "similarity_wst": "4",
+                "similarity_nst": "2",
+                "similarity_nps": "2",
+                "similarity_naive": "2"
+            },
+            "A388DYWWEJEQ1A": {
+                "LifetimeApprovalRate": "100% (1/1)",
+                "WorkTimeInSeconds": "3036",
+                "similarity_target": "4",
+                "similarity_wst": "4",
+                "similarity_nst": "2",
+                "similarity_nps": "2",
+                "similarity_naive": "4"
+            }
+        },
+        "fluency": {
+            "A10OGH5CQBXL5N": {
+                "LifetimeApprovalRate": "100% (1/1)",
+                "WorkTimeInSeconds": "241",
+                "fluency_target": "4",
+                "fluency_wst": "3",
+                "fluency_nst": "2",
+                "fluency_nps": "2",
+                "fluency_naive": "5"
+            },
+            "A2YGOORS5N9RW8": {
+                "LifetimeApprovalRate": "100% (1/1)",
+                "WorkTimeInSeconds": "2807",
+                "fluency_target": "5",
+                "fluency_wst": "5",
+                "fluency_nst": "2",
+                "fluency_nps": "1",
+                "fluency_naive": "2"
+            },
+            "A2DVIKO21ME29J": {
+                "LifetimeApprovalRate": "100% (1/1)",
+                "WorkTimeInSeconds": "157",
+                "fluency_target": "4",
+                "fluency_wst": "4",
+                "fluency_nst": "3",
+                "fluency_nps": "2",
+                "fluency_naive": "4"
+            }
+        },
+        "context": {
+            "A3UVG8BZ3B5FWI": {
+                "LifetimeApprovalRate": "100% (1/1)",
+                "WorkTimeInSeconds": "23",
+                "context_target": "3",
+                "context_wst": "3",
+                "context_nst": "2",
+                "context_nps": "4",
+                "context_naive": "3"
+            },
+            "A304UJAE051J89": {
+                "LifetimeApprovalRate": "100% (1/1)",
+                "WorkTimeInSeconds": "321",
+                "context_target": "4",
+                "context_wst": "3",
+                "context_nst": "2",
+                "context_nps": "2",
+                "context_naive": "2"
+            },
+            "A1NRZ7O1TEJB1V": {
+                "LifetimeApprovalRate": "96% (25/26)",
+                "WorkTimeInSeconds": "162",
+                "context_target": "4",
+                "context_wst": "4",
+                "context_nst": "3",
+                "context_nps": "4",
+                "context_naive": "4"
+            }
+        }
+    },
+    "friends_dialog269_1": {
+        "target_emo": "anger",
+        "emotion": {
+            "A1V2H0UF94ATWY": {
+                "LifetimeApprovalRate": "100% (1/1)",
+                "WorkTimeInSeconds": "1213",
+                "emotion_target": "3",
+                "emotion_wst": "5",
+                "emotion_nst": "4",
+                "emotion_nps": "5",
+                "emotion_naive": "4"
+            },
+            "A24B5UF6RMHYGX": {
+                "LifetimeApprovalRate": "100% (1/1)",
+                "WorkTimeInSeconds": "490",
+                "emotion_target": "2",
+                "emotion_wst": "4",
+                "emotion_nst": "4",
+                "emotion_nps": "3",
+                "emotion_naive": "5"
+            },
+            "A3C2KN2GHTDK61": {
+                "LifetimeApprovalRate": "100% (1/1)",
+                "WorkTimeInSeconds": "432",
+                "emotion_target": "3",
+                "emotion_wst": "4",
+                "emotion_nst": "2",
+                "emotion_nps": "3",
+                "emotion_naive": "4"
+            }
+        },
+        "similarity": {
+            "A1WJIRT360P5VB": {
+                "LifetimeApprovalRate": "100% (1/1)",
+                "WorkTimeInSeconds": "427",
+                "similarity_target": "4",
+                "similarity_wst": "4",
+                "similarity_nst": "1",
+                "similarity_nps": "3",
+                "similarity_naive": "2"
+            },
+            "A3HZFB2JLF3JMY": {
+                "LifetimeApprovalRate": "100% (1/1)",
+                "WorkTimeInSeconds": "262",
+                "similarity_target": "4",
+                "similarity_wst": "3",
+                "similarity_nst": "3",
+                "similarity_nps": "4",
+                "similarity_naive": "3"
+            },
+            "A2T5CROJ0FWIJY": {
+                "LifetimeApprovalRate": "100% (1/1)",
+                "WorkTimeInSeconds": "239",
+                "similarity_target": "5",
+                "similarity_wst": "4",
+                "similarity_nst": "1",
+                "similarity_nps": "2",
+                "similarity_naive": "4"
+            }
+        },
+        "fluency": {
+            "A16UXP3PNM7P6U": {
+                "LifetimeApprovalRate": "100% (1/1)",
+                "WorkTimeInSeconds": "370",
+                "fluency_target": "3",
+                "fluency_wst": "4",
+                "fluency_nst": "4",
+                "fluency_nps": "4",
+                "fluency_naive": "3"
+            },
+            "A1NRZ7O1TEJB1V": {
+                "LifetimeApprovalRate": "96% (24/25)",
+                "WorkTimeInSeconds": "61",
+                "fluency_target": "4",
+                "fluency_wst": "3",
+                "fluency_nst": "4",
+                "fluency_nps": "3",
+                "fluency_naive": "4"
+            },
+            "A1PNR13F6ODP3R": {
+                "LifetimeApprovalRate": "86% (18/21)",
+                "WorkTimeInSeconds": "210",
+                "fluency_target": "4",
+                "fluency_wst": "3",
+                "fluency_nst": "4",
+                "fluency_nps": "4",
+                "fluency_naive": "4"
+            }
+        },
+        "context": {
+            "AG36U7IOG2LAP": {
+                "LifetimeApprovalRate": "100% (1/1)",
+                "WorkTimeInSeconds": "2433",
+                "context_target": "4",
+                "context_wst": "5",
+                "context_nst": "4",
+                "context_nps": "4",
+                "context_naive": "5"
+            },
+            "APSN3KV49VLKX": {
+                "LifetimeApprovalRate": "100% (2/2)",
+                "WorkTimeInSeconds": "217",
+                "context_target": "3",
+                "context_wst": "2",
+                "context_nst": "3",
+                "context_nps": "3",
+                "context_naive": "2"
+            },
+            "A1PNR13F6ODP3R": {
+                "LifetimeApprovalRate": "85% (17/20)",
+                "WorkTimeInSeconds": "199",
+                "context_target": "4",
+                "context_wst": "3",
+                "context_nst": "4",
+                "context_nps": "4",
+                "context_naive": "4"
+            }
+        }
+    },
+    "dailydialog_tr_2929_4": {
+        "target_emo": "happiness",
+        "emotion": {
+            "A1NRZ7O1TEJB1V": {
+                "LifetimeApprovalRate": "96% (23/24)",
+                "WorkTimeInSeconds": "166",
+                "emotion_target": "4",
+                "emotion_wst": "3",
+                "emotion_nst": "4",
+                "emotion_nps": "4",
+                "emotion_naive": "4"
+            },
+            "AYYSG3O9FNU15": {
+                "LifetimeApprovalRate": "100% (2/2)",
+                "WorkTimeInSeconds": "1254",
+                "emotion_target": "4",
+                "emotion_wst": "5",
+                "emotion_nst": "4",
+                "emotion_nps": "5",
+                "emotion_naive": "5"
+            },
+            "A2JW8Z89H7MTEM": {
+                "LifetimeApprovalRate": "100% (2/2)",
+                "WorkTimeInSeconds": "229",
+                "emotion_target": "3",
+                "emotion_wst": "4",
+                "emotion_nst": "3",
+                "emotion_nps": "2",
+                "emotion_naive": "3"
+            }
+        },
+        "similarity": {
+            "A31ORDCJFK4EH0": {
+                "LifetimeApprovalRate": "100% (1/1)",
+                "WorkTimeInSeconds": "47",
+                "similarity_target": "3",
+                "similarity_wst": "3",
+                "similarity_nst": "4",
+                "similarity_nps": "4",
+                "similarity_naive": "3"
+            },
+            "AT6RAM17M1NUV": {
+                "LifetimeApprovalRate": "100% (1/1)",
+                "WorkTimeInSeconds": "934",
+                "similarity_target": "5",
+                "similarity_wst": "4",
+                "similarity_nst": "4",
+                "similarity_nps": "5",
+                "similarity_naive": "5"
+            },
+            "A3889PJUF6L8KX": {
+                "LifetimeApprovalRate": "100% (1/1)",
+                "WorkTimeInSeconds": "556",
+                "similarity_target": "3",
+                "similarity_wst": "4",
+                "similarity_nst": "3",
+                "similarity_nps": "4",
+                "similarity_naive": "3"
+            }
+        },
+        "fluency": {
+            "A12ROT2JMPL40M": {
+                "LifetimeApprovalRate": "100% (4/4)",
+                "WorkTimeInSeconds": "3472",
+                "fluency_target": "4",
+                "fluency_wst": "3",
+                "fluency_nst": "4",
+                "fluency_nps": "2",
+                "fluency_naive": "4"
+            },
+            "A3KXZQ1ZPFPB72": {
+                "LifetimeApprovalRate": "100% (1/1)",
+                "WorkTimeInSeconds": "62",
+                "fluency_target": "3",
+                "fluency_wst": "4",
+                "fluency_nst": "2",
+                "fluency_nps": "5",
+                "fluency_naive": "3"
+            },
+            "APSN3KV49VLKX": {
+                "LifetimeApprovalRate": "100% (1/1)",
+                "WorkTimeInSeconds": "240",
+                "fluency_target": "3",
+                "fluency_wst": "3",
+                "fluency_nst": "4",
+                "fluency_nps": "3",
+                "fluency_naive": "3"
+            }
+        },
+        "context": {
+            "A1NRZ7O1TEJB1V": {
+                "LifetimeApprovalRate": "96% (22/23)",
+                "WorkTimeInSeconds": "158",
+                "context_target": "3",
+                "context_wst": "4",
+                "context_nst": "4",
+                "context_nps": "3",
+                "context_naive": "4"
+            },
+            "A3RM7AP85KYX43": {
+                "LifetimeApprovalRate": "100% (1/1)",
+                "WorkTimeInSeconds": "515",
+                "context_target": "4",
+                "context_wst": "3",
+                "context_nst": "4",
+                "context_nps": "3",
+                "context_naive": "4"
+            },
+            "A3GOUP9949IXSK": {
+                "LifetimeApprovalRate": "100% (1/1)",
+                "WorkTimeInSeconds": "535",
+                "context_target": "3",
+                "context_wst": "4",
+                "context_nst": "2",
+                "context_nps": "3",
+                "context_naive": "3"
+            }
+        }
+    },
+    "dailydialog_tr_3659_3": {
+        "target_emo": "happiness",
+        "emotion": {
+            "A2SENAPNSXG9L": {
+                "LifetimeApprovalRate": "100% (8/8)",
+                "WorkTimeInSeconds": "1231",
+                "emotion_target": "3",
+                "emotion_wst": "3",
+                "emotion_nst": "3",
+                "emotion_nps": "3",
+                "emotion_naive": "5"
+            },
+            "A2QTL039A5VV3I": {
+                "LifetimeApprovalRate": "100% (2/2)",
+                "WorkTimeInSeconds": "16",
+                "emotion_target": "5",
+                "emotion_wst": "5",
+                "emotion_nst": "5",
+                "emotion_nps": "5",
+                "emotion_naive": "4"
+            },
+            "A1PNR13F6ODP3R": {
+                "LifetimeApprovalRate": "84% (16/19)",
+                "WorkTimeInSeconds": "237",
+                "emotion_target": "3",
+                "emotion_wst": "4",
+                "emotion_nst": "3",
+                "emotion_nps": "4",
+                "emotion_naive": "4"
+            }
+        },
+        "similarity": {
+            "A2SENAPNSXG9L": {
+                "LifetimeApprovalRate": "100% (7/7)",
+                "WorkTimeInSeconds": "1218",
+                "similarity_target": "5",
+                "similarity_wst": "5",
+                "similarity_nst": "5",
+                "similarity_nps": "5",
+                "similarity_naive": "5"
+            },
+            "A2QTL039A5VV3I": {
+                "LifetimeApprovalRate": "100% (1/1)",
+                "WorkTimeInSeconds": "29",
+                "similarity_target": "5",
+                "similarity_wst": "5",
+                "similarity_nst": "5",
+                "similarity_nps": "5",
+                "similarity_naive": "5"
+            },
+            "A1PNR13F6ODP3R": {
+                "LifetimeApprovalRate": "83% (15/18)",
+                "WorkTimeInSeconds": "163",
+                "similarity_target": "4",
+                "similarity_wst": "3",
+                "similarity_nst": "4",
+                "similarity_nps": "4",
+                "similarity_naive": "3"
+            }
+        },
+        "fluency": {
+            "AV7UX8QQXABSK": {
+                "LifetimeApprovalRate": "100% (1/1)",
+                "WorkTimeInSeconds": "209",
+                "fluency_target": "5",
+                "fluency_wst": "5",
+                "fluency_nst": "4",
+                "fluency_nps": "5",
+                "fluency_naive": "1"
+            },
+            "A24DQKU9IF9HK6": {
+                "LifetimeApprovalRate": "100% (1/1)",
+                "WorkTimeInSeconds": "116",
+                "fluency_target": "4",
+                "fluency_wst": "3",
+                "fluency_nst": "4",
+                "fluency_nps": "5",
+                "fluency_naive": "4"
+            },
+            "A1ULOTJLRGG5CR": {
+                "LifetimeApprovalRate": "100% (1/1)",
+                "WorkTimeInSeconds": "131",
+                "fluency_target": "4",
+                "fluency_wst": "4",
+                "fluency_nst": "3",
+                "fluency_nps": "3",
+                "fluency_naive": "4"
+            }
+        },
+        "context": {
+            "A1PNR13F6ODP3R": {
+                "LifetimeApprovalRate": "82% (14/17)",
+                "WorkTimeInSeconds": "175",
+                "context_target": "3",
+                "context_wst": "4",
+                "context_nst": "4",
+                "context_nps": "4",
+                "context_naive": "5"
+            },
+            "A32RIZVRL3XJXR": {
+                "LifetimeApprovalRate": "100% (1/1)",
+                "WorkTimeInSeconds": "122",
+                "context_target": "3",
+                "context_wst": "5",
+                "context_nst": "4",
+                "context_nps": "3",
+                "context_naive": "4"
+            },
+            "A1NRZ7O1TEJB1V": {
+                "LifetimeApprovalRate": "95% (21/22)",
+                "WorkTimeInSeconds": "349",
+                "context_target": "4",
+                "context_wst": "3",
+                "context_nst": "4",
+                "context_nps": "4",
+                "context_naive": "4"
+            }
+        }
+    },
+    "empadialog_hit_383_conv_766_6": {
+        "target_emo": "happiness",
+        "emotion": {
+            "A2SENAPNSXG9L": {
+                "LifetimeApprovalRate": "100% (6/6)",
+                "WorkTimeInSeconds": "1152",
+                "emotion_target": "5",
+                "emotion_wst": "3",
+                "emotion_nst": "5",
+                "emotion_nps": "3",
+                "emotion_naive": "3"
+            },
+            "A1PNR13F6ODP3R": {
+                "LifetimeApprovalRate": "81% (13/16)",
+                "WorkTimeInSeconds": "109",
+                "emotion_target": "4",
+                "emotion_wst": "3",
+                "emotion_nst": "3",
+                "emotion_nps": "4",
+                "emotion_naive": "3"
+            },
+            "ADJU30SAWALKJ": {
+                "LifetimeApprovalRate": "100% (8/8)",
+                "WorkTimeInSeconds": "111",
+                "emotion_target": "5",
+                "emotion_wst": "5",
+                "emotion_nst": "4",
+                "emotion_nps": "3",
+                "emotion_naive": "4"
+            }
+        },
+        "similarity": {
+            "AIWSB4YTN32GF": {
+                "LifetimeApprovalRate": "100% (1/1)",
+                "WorkTimeInSeconds": "2323",
+                "similarity_target": "3",
+                "similarity_wst": "5",
+                "similarity_nst": "5",
+                "similarity_nps": "5",
+                "similarity_naive": "5"
+            },
+            "A1565N5288E16I": {
+                "LifetimeApprovalRate": "100% (1/1)",
+                "WorkTimeInSeconds": "852",
+                "similarity_target": "3",
+                "similarity_wst": "3",
+                "similarity_nst": "2",
+                "similarity_nps": "3",
+                "similarity_naive": "5"
+            },
+            "A1NRZ7O1TEJB1V": {
+                "LifetimeApprovalRate": "95% (20/21)",
+                "WorkTimeInSeconds": "270",
+                "similarity_target": "4",
+                "similarity_wst": "3",
+                "similarity_nst": "5",
+                "similarity_nps": "3",
+                "similarity_naive": "4"
+            }
+        },
+        "fluency": {
+            "A1PNR13F6ODP3R": {
+                "LifetimeApprovalRate": "80% (12/15)",
+                "WorkTimeInSeconds": "111",
+                "fluency_target": "3",
+                "fluency_wst": "4",
+                "fluency_nst": "3",
+                "fluency_nps": "5",
+                "fluency_naive": "3"
+            },
+            "A2SENAPNSXG9L": {
+                "LifetimeApprovalRate": "100% (5/5)",
+                "WorkTimeInSeconds": "1133",
+                "fluency_target": "5",
+                "fluency_wst": "4",
+                "fluency_nst": "4",
+                "fluency_nps": "4",
+                "fluency_naive": "2"
+            },
+            "A1NRZ7O1TEJB1V": {
+                "LifetimeApprovalRate": "95% (19/20)",
+                "WorkTimeInSeconds": "214",
+                "fluency_target": "3",
+                "fluency_wst": "3",
+                "fluency_nst": "4",
+                "fluency_nps": "4",
+                "fluency_naive": "3"
+            }
+        },
+        "context": {
+            "A2G1P83H11BOBS": {
+                "LifetimeApprovalRate": "100% (1/1)",
+                "WorkTimeInSeconds": "1134",
+                "context_target": "4",
+                "context_wst": "3",
+                "context_nst": "3",
+                "context_nps": "4",
+                "context_naive": "4"
+            },
+            "A1YX741QQSMKPS": {
+                "LifetimeApprovalRate": "100% (1/1)",
+                "WorkTimeInSeconds": "68",
+                "context_target": "5",
+                "context_wst": "5",
+                "context_nst": "3",
+                "context_nps": "5",
+                "context_naive": "3"
+            },
+            "A1PNR13F6ODP3R": {
+                "LifetimeApprovalRate": "79% (11/14)",
+                "WorkTimeInSeconds": "103",
+                "context_target": "3",
+                "context_wst": "4",
+                "context_nst": "4",
+                "context_nps": "4",
+                "context_naive": "4"
+            }
+        }
+    },
+    "friends_dialog541_1": {
+        "target_emo": "happiness",
+        "emotion": {
+            "A3OH3H2D3P8P3S": {
+                "LifetimeApprovalRate": "100% (1/1)",
+                "WorkTimeInSeconds": "1413",
+                "emotion_target": "5",
+                "emotion_wst": "3",
+                "emotion_nst": "3",
+                "emotion_nps": "2",
+                "emotion_naive": "2"
+            },
+            "A1PNR13F6ODP3R": {
+                "LifetimeApprovalRate": "77% (10/13)",
+                "WorkTimeInSeconds": "77",
+                "emotion_target": "4",
+                "emotion_wst": "3",
+                "emotion_nst": "4",
+                "emotion_nps": "3",
+                "emotion_naive": "4"
+            },
+            "A1NRZ7O1TEJB1V": {
+                "LifetimeApprovalRate": "95% (18/19)",
+                "WorkTimeInSeconds": "170",
+                "emotion_target": "3",
+                "emotion_wst": "4",
+                "emotion_nst": "3",
+                "emotion_nps": "3",
+                "emotion_naive": "4"
+            }
+        },
+        "similarity": {
+            "A1PNR13F6ODP3R": {
+                "LifetimeApprovalRate": "75% (9/12)",
+                "WorkTimeInSeconds": "84",
+                "similarity_target": "1",
+                "similarity_wst": "4",
+                "similarity_nst": "3",
+                "similarity_nps": "4",
+                "similarity_naive": "4"
+            },
+            "ADJU30SAWALKJ": {
+                "LifetimeApprovalRate": "100% (7/7)",
+                "WorkTimeInSeconds": "74",
+                "similarity_target": "5",
+                "similarity_wst": "4",
+                "similarity_nst": "5",
+                "similarity_nps": "4",
+                "similarity_naive": "4"
+            },
+            "A1NRZ7O1TEJB1V": {
+                "LifetimeApprovalRate": "94% (17/18)",
+                "WorkTimeInSeconds": "168",
+                "similarity_target": "3",
+                "similarity_wst": "4",
+                "similarity_nst": "3",
+                "similarity_nps": "4",
+                "similarity_naive": "3"
+            }
+        },
+        "fluency": {
+            "A2SENAPNSXG9L": {
+                "LifetimeApprovalRate": "100% (4/4)",
+                "WorkTimeInSeconds": "404",
+                "fluency_target": "5",
+                "fluency_wst": "4",
+                "fluency_nst": "2",
+                "fluency_nps": "4",
+                "fluency_naive": "1"
+            },
+            "A16CTHMRKKVRZ3": {
+                "LifetimeApprovalRate": "100% (1/1)",
+                "WorkTimeInSeconds": "1095",
+                "fluency_target": "4",
+                "fluency_wst": "5",
+                "fluency_nst": "4",
+                "fluency_nps": "4",
+                "fluency_naive": "4"
+            },
+            "A1NRZ7O1TEJB1V": {
+                "LifetimeApprovalRate": "94% (16/17)",
+                "WorkTimeInSeconds": "168",
+                "fluency_target": "4",
+                "fluency_wst": "3",
+                "fluency_nst": "3",
+                "fluency_nps": "3",
+                "fluency_naive": "4"
+            }
+        },
+        "context": {
+            "AKNBC1TE88NDO": {
+                "LifetimeApprovalRate": "100% (1/1)",
+                "WorkTimeInSeconds": "2279",
+                "context_target": "2",
+                "context_wst": "4",
+                "context_nst": "2",
+                "context_nps": "2",
+                "context_naive": "4"
+            },
+            "ADJU30SAWALKJ": {
+                "LifetimeApprovalRate": "100% (6/6)",
+                "WorkTimeInSeconds": "50",
+                "context_target": "5",
+                "context_wst": "4",
+                "context_nst": "4",
+                "context_nps": "3",
+                "context_naive": "4"
+            },
+            "A1NRZ7O1TEJB1V": {
+                "LifetimeApprovalRate": "94% (15/16)",
+                "WorkTimeInSeconds": "174",
+                "context_target": "3",
+                "context_wst": "4",
+                "context_nst": "3",
+                "context_nps": "4",
+                "context_naive": "4"
+            }
+        }
+    },
+    "dailydialog_tr_4907_2": {
+        "target_emo": "sadness",
+        "emotion": {
+            "A1NRZ7O1TEJB1V": {
+                "LifetimeApprovalRate": "93% (14/15)",
+                "WorkTimeInSeconds": "161",
+                "emotion_target": "3",
+                "emotion_wst": "4",
+                "emotion_nst": "3",
+                "emotion_nps": "4",
+                "emotion_naive": "4"
+            },
+            "A11BHGAKU0RIH8": {
+                "LifetimeApprovalRate": "100% (2/2)",
+                "WorkTimeInSeconds": "254",
+                "emotion_target": "3",
+                "emotion_wst": "3",
+                "emotion_nst": "2",
+                "emotion_nps": "3",
+                "emotion_naive": "3"
+            },
+            "A2SENAPNSXG9L": {
+                "LifetimeApprovalRate": "100% (3/3)",
+                "WorkTimeInSeconds": "985",
+                "emotion_target": "4",
+                "emotion_wst": "5",
+                "emotion_nst": "4",
+                "emotion_nps": "4",
+                "emotion_naive": "5"
+            }
+        },
+        "similarity": {
+            "A1NRZ7O1TEJB1V": {
+                "LifetimeApprovalRate": "93% (13/14)",
+                "WorkTimeInSeconds": "144",
+                "similarity_target": "5",
+                "similarity_wst": "3",
+                "similarity_nst": "4",
+                "similarity_nps": "3",
+                "similarity_naive": "4"
+            },
+            "A81CP4H24UE8U": {
+                "LifetimeApprovalRate": "100% (3/3)",
+                "WorkTimeInSeconds": "72",
+                "similarity_target": "4",
+                "similarity_wst": "4",
+                "similarity_nst": "3",
+                "similarity_nps": "4",
+                "similarity_naive": "4"
+            },
+            "ADJU30SAWALKJ": {
+                "LifetimeApprovalRate": "100% (5/5)",
+                "WorkTimeInSeconds": "32",
+                "similarity_target": "5",
+                "similarity_wst": "4",
+                "similarity_nst": "4",
+                "similarity_nps": "3",
+                "similarity_naive": "5"
+            }
+        },
+        "fluency": {
+            "A1NRZ7O1TEJB1V": {
+                "LifetimeApprovalRate": "92% (12/13)",
+                "WorkTimeInSeconds": "390",
+                "fluency_target": "4",
+                "fluency_wst": "4",
+                "fluency_nst": "4",
+                "fluency_nps": "4",
+                "fluency_naive": "4"
+            },
+            "A1PNR13F6ODP3R": {
+                "LifetimeApprovalRate": "73% (8/11)",
+                "WorkTimeInSeconds": "203",
+                "fluency_target": "2",
+                "fluency_wst": "4",
+                "fluency_nst": "4",
+                "fluency_nps": "3",
+                "fluency_naive": "4"
+            },
+            "A2SENAPNSXG9L": {
+                "LifetimeApprovalRate": "100% (2/2)",
+                "WorkTimeInSeconds": "220",
+                "fluency_target": "5",
+                "fluency_wst": "5",
+                "fluency_nst": "5",
+                "fluency_nps": "5",
+                "fluency_naive": "3"
+            }
+        },
+        "context": {
+            "A1NRZ7O1TEJB1V": {
+                "LifetimeApprovalRate": "92% (11/12)",
+                "WorkTimeInSeconds": "173",
+                "context_target": "4",
+                "context_wst": "2",
+                "context_nst": "3",
+                "context_nps": "3",
+                "context_naive": "3"
+            },
+            "A2SENAPNSXG9L": {
+                "LifetimeApprovalRate": "100% (1/1)",
+                "WorkTimeInSeconds": "937",
+                "context_target": "5",
+                "context_wst": "5",
+                "context_nst": "5",
+                "context_nps": "5",
+                "context_naive": "3"
+            },
+            "A81CP4H24UE8U": {
+                "LifetimeApprovalRate": "100% (2/2)",
+                "WorkTimeInSeconds": "53",
+                "context_target": "4",
+                "context_wst": "3",
+                "context_nst": "3",
+                "context_nps": "3",
+                "context_naive": "4"
+            }
+        }
+    },
+    "dailydialog_tr_5737_6": {
+        "target_emo": "sadness",
+        "emotion": {
+            "A1NRZ7O1TEJB1V": {
+                "LifetimeApprovalRate": "91% (10/11)",
+                "WorkTimeInSeconds": "385",
+                "emotion_target": "4",
+                "emotion_wst": "4",
+                "emotion_nst": "4",
+                "emotion_nps": "4",
+                "emotion_naive": "4"
+            },
+            "ADJU30SAWALKJ": {
+                "LifetimeApprovalRate": "100% (4/4)",
+                "WorkTimeInSeconds": "41",
+                "emotion_target": "4",
+                "emotion_wst": "5",
+                "emotion_nst": "3",
+                "emotion_nps": "4",
+                "emotion_naive": "5"
+            },
+            "A1PNR13F6ODP3R": {
+                "LifetimeApprovalRate": "70% (7/10)",
+                "WorkTimeInSeconds": "162",
+                "emotion_target": "3",
+                "emotion_wst": "3",
+                "emotion_nst": "3",
+                "emotion_nps": "3",
+                "emotion_naive": "4"
+            }
+        },
+        "similarity": {
+            "AJ9IY4IHOGB8": {
+                "LifetimeApprovalRate": "100% (1/1)",
+                "WorkTimeInSeconds": "2560",
+                "similarity_target": "2",
+                "similarity_wst": "3",
+                "similarity_nst": "2",
+                "similarity_nps": "4",
+                "similarity_naive": "2"
+            },
+            "A1NRZ7O1TEJB1V": {
+                "LifetimeApprovalRate": "90% (9/10)",
+                "WorkTimeInSeconds": "391",
+                "similarity_target": "4",
+                "similarity_wst": "4",
+                "similarity_nst": "3",
+                "similarity_nps": "4",
+                "similarity_naive": "5"
+            },
+            "A1PNR13F6ODP3R": {
+                "LifetimeApprovalRate": "67% (6/9)",
+                "WorkTimeInSeconds": "167",
+                "similarity_target": "4",
+                "similarity_wst": "4",
+                "similarity_nst": "4",
+                "similarity_nps": "3",
+                "similarity_naive": "4"
+            }
+        },
+        "fluency": {
+            "A2G5GGLXD2KSZS": {
+                "LifetimeApprovalRate": "100% (1/1)",
+                "WorkTimeInSeconds": "71",
+                "fluency_target": "5",
+                "fluency_wst": "3",
+                "fluency_nst": "4",
+                "fluency_nps": "3",
+                "fluency_naive": "2"
+            },
+            "A3HQXCWOIQKT4F": {
+                "LifetimeApprovalRate": "100% (1/1)",
+                "WorkTimeInSeconds": "2076",
+                "fluency_target": "5",
+                "fluency_wst": "2",
+                "fluency_nst": "2",
+                "fluency_nps": "2",
+                "fluency_naive": "4"
+            },
+            "A1PNR13F6ODP3R": {
+                "LifetimeApprovalRate": "63% (5/8)",
+                "WorkTimeInSeconds": "168",
+                "fluency_target": "3",
+                "fluency_wst": "4",
+                "fluency_nst": "3",
+                "fluency_nps": "4",
+                "fluency_naive": "4"
+            }
+        },
+        "context": {
+            "A1NRZ7O1TEJB1V": {
+                "LifetimeApprovalRate": "89% (8/9)",
+                "WorkTimeInSeconds": "364",
+                "context_target": "5",
+                "context_wst": "3",
+                "context_nst": "4",
+                "context_nps": "3",
+                "context_naive": "4"
+            },
+            "ADJU30SAWALKJ": {
+                "LifetimeApprovalRate": "100% (3/3)",
+                "WorkTimeInSeconds": "28",
+                "context_target": "3",
+                "context_wst": "5",
+                "context_nst": "4",
+                "context_nps": "3",
+                "context_naive": "5"
+            },
+            "A12ROT2JMPL40M": {
+                "LifetimeApprovalRate": "100% (3/3)",
+                "WorkTimeInSeconds": "3430",
+                "context_target": "5",
+                "context_wst": "3",
+                "context_nst": "4",
+                "context_nps": "3",
+                "context_naive": "4"
+            }
+        }
+    },
+    "empadialog_hit_694_conv_1388_2": {
+        "target_emo": "sadness",
+        "emotion": {
+            "A1NRZ7O1TEJB1V": {
+                "LifetimeApprovalRate": "88% (7/8)",
+                "WorkTimeInSeconds": "347",
+                "emotion_target": "4",
+                "emotion_wst": "2",
+                "emotion_nst": "4",
+                "emotion_nps": "4",
+                "emotion_naive": "4"
+            },
+            "A1DMXEJGJY02E1": {
+                "LifetimeApprovalRate": "100% (1/1)",
+                "WorkTimeInSeconds": "1396",
+                "emotion_target": "3",
+                "emotion_wst": "4",
+                "emotion_nst": "2",
+                "emotion_nps": "3",
+                "emotion_naive": "4"
+            },
+            "A1PNR13F6ODP3R": {
+                "LifetimeApprovalRate": "57% (4/7)",
+                "WorkTimeInSeconds": "132",
+                "emotion_target": "4",
+                "emotion_wst": "3",
+                "emotion_nst": "3",
+                "emotion_nps": "4",
+                "emotion_naive": "4"
+            }
+        },
+        "similarity": {
+            "A1NRZ7O1TEJB1V": {
+                "LifetimeApprovalRate": "86% (6/7)",
+                "WorkTimeInSeconds": "349",
+                "similarity_target": "5",
+                "similarity_wst": "3",
+                "similarity_nst": "4",
+                "similarity_nps": "4",
+                "similarity_naive": "4"
+            },
+            "A1PNR13F6ODP3R": {
+                "LifetimeApprovalRate": "50% (3/6)",
+                "WorkTimeInSeconds": "131",
+                "similarity_target": "4",
+                "similarity_wst": "3",
+                "similarity_nst": "3",
+                "similarity_nps": "4",
+                "similarity_naive": "4"
+            },
+            "A1K9UVMTZNAWNO": {
+                "LifetimeApprovalRate": "100% (1/1)",
+                "WorkTimeInSeconds": "184",
+                "similarity_target": "2",
+                "similarity_wst": "3",
+                "similarity_nst": "2",
+                "similarity_nps": "3",
+                "similarity_naive": "2"
+            }
+        },
+        "fluency": {
+            "A12ROT2JMPL40M": {
+                "LifetimeApprovalRate": "100% (2/2)",
+                "WorkTimeInSeconds": "171",
+                "fluency_target": "5",
+                "fluency_wst": "2",
+                "fluency_nst": "4",
+                "fluency_nps": "5",
+                "fluency_naive": "2"
+            },
+            "A1NRZ7O1TEJB1V": {
+                "LifetimeApprovalRate": "83% (5/6)",
+                "WorkTimeInSeconds": "330",
+                "fluency_target": "4",
+                "fluency_wst": "4",
+                "fluency_nst": "4",
+                "fluency_nps": "3",
+                "fluency_naive": "4"
+            },
+            "A3UJJDA7F2UHQP": {
+                "LifetimeApprovalRate": "100% (1/1)",
+                "WorkTimeInSeconds": "108",
+                "fluency_target": "5",
+                "fluency_wst": "5",
+                "fluency_nst": "5",
+                "fluency_nps": "5",
+                "fluency_naive": "4"
+            }
+        },
+        "context": {
+            "A2JW8Z89H7MTEM": {
+                "LifetimeApprovalRate": "100% (1/1)",
+                "WorkTimeInSeconds": "470",
+                "context_target": "4",
+                "context_wst": "3",
+                "context_nst": "3",
+                "context_nps": "4",
+                "context_naive": "5"
+            },
+            "ADJU30SAWALKJ": {
+                "LifetimeApprovalRate": "100% (2/2)",
+                "WorkTimeInSeconds": "52",
+                "context_target": "4",
+                "context_wst": "5",
+                "context_nst": "4",
+                "context_nps": "4",
+                "context_naive": "5"
+            },
+            "A1NRZ7O1TEJB1V": {
+                "LifetimeApprovalRate": "80% (4/5)",
+                "WorkTimeInSeconds": "332",
+                "context_target": "4",
+                "context_wst": "3",
+                "context_nst": "4",
+                "context_nps": "4",
+                "context_naive": "4"
+            }
+        }
+    },
+    "empadialog_hit_1347_conv_2694_2": {
+        "target_emo": "sadness",
+        "emotion": {
+            "A1NRZ7O1TEJB1V": {
+                "LifetimeApprovalRate": "75% (3/4)",
+                "WorkTimeInSeconds": "351",
+                "emotion_target": "5",
+                "emotion_wst": "4",
+                "emotion_nst": "4",
+                "emotion_nps": "4",
+                "emotion_naive": "4"
+            },
+            "A22DLJR0EHNEXF": {
+                "LifetimeApprovalRate": "100% (1/1)",
+                "WorkTimeInSeconds": "64",
+                "emotion_target": "2",
+                "emotion_wst": "3",
+                "emotion_nst": "2",
+                "emotion_nps": "4",
+                "emotion_naive": "5"
+            },
+            "A81CP4H24UE8U": {
+                "LifetimeApprovalRate": "100% (1/1)",
+                "WorkTimeInSeconds": "244",
+                "emotion_target": "3",
+                "emotion_wst": "3",
+                "emotion_nst": "3",
+                "emotion_nps": "4",
+                "emotion_naive": "3"
+            }
+        },
+        "similarity": {
+            "AKQAI78JTXXC9": {
+                "LifetimeApprovalRate": "0% (0/0)",
+                "WorkTimeInSeconds": "1053",
+                "similarity_target": "3",
+                "similarity_wst": "4",
+                "similarity_nst": "4",
+                "similarity_nps": "2",
+                "similarity_naive": "2"
+            },
+            "A1NRZ7O1TEJB1V": {
+                "LifetimeApprovalRate": "50% (1/2)",
+                "WorkTimeInSeconds": "342",
+                "similarity_target": "3",
+                "similarity_wst": "4",
+                "similarity_nst": "4",
+                "similarity_nps": "4",
+                "similarity_naive": "4"
+            },
+            "A1PNR13F6ODP3R": {
+                "LifetimeApprovalRate": "25% (1/4)",
+                "WorkTimeInSeconds": "157",
+                "similarity_target": "4",
+                "similarity_wst": "4",
+                "similarity_nst": "3",
+                "similarity_nps": "4",
+                "similarity_naive": "4"
+            }
+        },
+        "fluency": {
+            "AEWPAZBYA7XE": {
+                "LifetimeApprovalRate": "100% (1/1)",
+                "WorkTimeInSeconds": "174",
+                "fluency_target": "4",
+                "fluency_wst": "4",
+                "fluency_nst": "4",
+                "fluency_nps": "2",
+                "fluency_naive": "3"
+            },
+            "A1NRZ7O1TEJB1V": {
+                "LifetimeApprovalRate": "50% (1/2)",
+                "WorkTimeInSeconds": "344",
+                "fluency_target": "4",
+                "fluency_wst": "2",
+                "fluency_nst": "4",
+                "fluency_nps": "3",
+                "fluency_naive": "5"
+            },
+            "ADJU30SAWALKJ": {
+                "LifetimeApprovalRate": "100% (1/1)",
+                "WorkTimeInSeconds": "81",
+                "fluency_target": "4",
+                "fluency_wst": "5",
+                "fluency_nst": "4",
+                "fluency_nps": "4",
+                "fluency_naive": "5"
+            }
+        },
+        "context": {
+            "A1PNR13F6ODP3R": {
+                "LifetimeApprovalRate": "25% (1/4)",
+                "WorkTimeInSeconds": "146",
+                "context_target": "3",
+                "context_wst": "4",
+                "context_nst": "4",
+                "context_nps": "3",
+                "context_naive": "4"
+            },
+            "AIEKCWYZTS41V": {
+                "LifetimeApprovalRate": "100% (1/1)",
+                "WorkTimeInSeconds": "61",
+                "context_target": "5",
+                "context_wst": "5",
+                "context_nst": "4",
+                "context_nps": "2",
+                "context_naive": "2"
+            },
+            "A12ROT2JMPL40M": {
+                "LifetimeApprovalRate": "100% (1/1)",
+                "WorkTimeInSeconds": "3394",
+                "context_target": "4",
+                "context_wst": "4",
+                "context_nst": "3",
+                "context_nps": "3",
+                "context_naive": "4"
+            }
+        }
+    },
+    "empadialog_hit_9245_conv_18491_2": {
+        "target_emo": "anger",
+        "emotion": {
+            "A2RFXPW7JB27EO": {
+                "LifetimeApprovalRate": "100% (1/1)",
+                "WorkTimeInSeconds": "1837",
+                "emotion_target": "4",
+                "emotion_wst": "4",
+                "emotion_nst": "3",
+                "emotion_nps": "4",
+                "emotion_naive": "3"
+            },
+            "A3TKUXUTDX6FBF": {
+                "LifetimeApprovalRate": "100% (2/2)",
+                "WorkTimeInSeconds": "34",
+                "emotion_target": "4",
+                "emotion_wst": "5",
+                "emotion_nst": "4",
+                "emotion_nps": "5",
+                "emotion_naive": "5"
+            },
+            "AV93KY6U9QGRX": {
+                "LifetimeApprovalRate": "100% (1/1)",
+                "WorkTimeInSeconds": "906",
+                "emotion_target": "3",
+                "emotion_wst": "3",
+                "emotion_nst": "3",
+                "emotion_nps": "3",
+                "emotion_naive": "4"
+            }
+        },
+        "similarity": {
+            "A268H7Y4AXO0ZT": {
+                "LifetimeApprovalRate": "100% (1/1)",
+                "WorkTimeInSeconds": "105",
+                "similarity_target": "3",
+                "similarity_wst": "5",
+                "similarity_nst": "3",
+                "similarity_nps": "3",
+                "similarity_naive": "3"
+            },
+            "A297QZZZDYQ9H7": {
+                "LifetimeApprovalRate": "100% (1/1)",
+                "WorkTimeInSeconds": "77",
+                "similarity_target": "4",
+                "similarity_wst": "3",
+                "similarity_nst": "5",
+                "similarity_nps": "3",
+                "similarity_naive": "4"
+            },
+            "A1GA9DG3ZN914J": {
+                "LifetimeApprovalRate": "100% (1/1)",
+                "WorkTimeInSeconds": "1827",
+                "similarity_target": "4",
+                "similarity_wst": "3",
+                "similarity_nst": "4",
+                "similarity_nps": "3",
+                "similarity_naive": "3"
+            }
+        },
+        "fluency": {
+            "AAQREZOK13OV7": {
+                "LifetimeApprovalRate": "100% (7/7)",
+                "WorkTimeInSeconds": "1012",
+                "fluency_target": "5",
+                "fluency_wst": "3",
+                "fluency_nst": "5",
+                "fluency_nps": "5",
+                "fluency_naive": "3"
+            },
+            "A11042NCTA8PGT": {
+                "LifetimeApprovalRate": "100% (1/1)",
+                "WorkTimeInSeconds": "150",
+                "fluency_target": "4",
+                "fluency_wst": "3",
+                "fluency_nst": "4",
+                "fluency_nps": "4",
+                "fluency_naive": "2"
+            },
+            "A12ROT2JMPL40M": {
+                "LifetimeApprovalRate": "100% (6/6)",
+                "WorkTimeInSeconds": "3407",
+                "fluency_target": "4",
+                "fluency_wst": "4",
+                "fluency_nst": "4",
+                "fluency_nps": "3",
+                "fluency_naive": "4"
+            }
+        },
+        "context": {
+            "A6HQP2PB9FWEJ": {
+                "LifetimeApprovalRate": "100% (1/1)",
+                "WorkTimeInSeconds": "240",
+                "context_target": "5",
+                "context_wst": "4",
+                "context_nst": "4",
+                "context_nps": "4",
+                "context_naive": "4"
+            },
+            "A1PO2UI2D34K1T": {
+                "LifetimeApprovalRate": "100% (1/1)",
+                "WorkTimeInSeconds": "513",
+                "context_target": "4",
+                "context_wst": "4",
+                "context_nst": "3",
+                "context_nps": "4",
+                "context_naive": "3"
+            },
+            "A17AF42SNQNH9C": {
+                "LifetimeApprovalRate": "100% (1/1)",
+                "WorkTimeInSeconds": "73",
+                "context_target": "5",
+                "context_wst": "2",
+                "context_nst": "4",
+                "context_nps": "4",
+                "context_naive": "2"
+            }
+        }
+    },
+    "empadialog_hit_11289_conv_22579_2": {
+        "target_emo": "anger",
+        "emotion": {
+            "AAQREZOK13OV7": {
+                "LifetimeApprovalRate": "100% (5/5)",
+                "WorkTimeInSeconds": "1107",
+                "emotion_target": "1",
+                "emotion_wst": "1",
+                "emotion_nst": "2",
+                "emotion_nps": "4",
+                "emotion_naive": "5"
+            },
+            "AWWR9PY50W0Z9": {
+                "LifetimeApprovalRate": "100% (1/1)",
+                "WorkTimeInSeconds": "261",
+                "emotion_target": "3",
+                "emotion_wst": "3",
+                "emotion_nst": "4",
+                "emotion_nps": "4",
+                "emotion_naive": "5"
+            },
+            "A3FJCLBK3HF4PD": {
+                "LifetimeApprovalRate": "100% (1/1)",
+                "WorkTimeInSeconds": "2169",
+                "emotion_target": "2",
+                "emotion_wst": "2",
+                "emotion_nst": "3",
+                "emotion_nps": "4",
+                "emotion_naive": "5"
+            }
+        },
+        "similarity": {
+            "ANUYXZWM2QQ2T": {
+                "LifetimeApprovalRate": "100% (1/1)",
+                "WorkTimeInSeconds": "203",
+                "similarity_target": "3",
+                "similarity_wst": "4",
+                "similarity_nst": "3",
+                "similarity_nps": "4",
+                "similarity_naive": "3"
+            },
+            "A3C2KN2GHTDK61": {
+                "LifetimeApprovalRate": "100% (2/2)",
+                "WorkTimeInSeconds": "2393",
+                "similarity_target": "3",
+                "similarity_wst": "4",
+                "similarity_nst": "2",
+                "similarity_nps": "3",
+                "similarity_naive": "4"
+            },
+            "A20ESZL1DTY7VU": {
+                "LifetimeApprovalRate": "100% (1/1)",
+                "WorkTimeInSeconds": "121",
+                "similarity_target": "4",
+                "similarity_wst": "3",
+                "similarity_nst": "4",
+                "similarity_nps": "3",
+                "similarity_naive": "4"
+            }
+        },
+        "fluency": {
+            "ALZVG5501Y5IX": {
+                "LifetimeApprovalRate": "100% (1/1)",
+                "WorkTimeInSeconds": "66",
+                "fluency_target": "1",
+                "fluency_wst": "4",
+                "fluency_nst": "3",
+                "fluency_nps": "2",
+                "fluency_naive": "3"
+            },
+            "A273EH17NSJRH0": {
+                "LifetimeApprovalRate": "100% (1/1)",
+                "WorkTimeInSeconds": "1941",
+                "fluency_target": "3",
+                "fluency_wst": "4",
+                "fluency_nst": "4",
+                "fluency_nps": "2",
+                "fluency_naive": "2"
+            },
+            "A1YJWBE7IH2913": {
+                "LifetimeApprovalRate": "100% (1/1)",
+                "WorkTimeInSeconds": "718",
+                "fluency_target": "4",
+                "fluency_wst": "5",
+                "fluency_nst": "4",
+                "fluency_nps": "4",
+                "fluency_naive": "3"
+            }
+        },
+        "context": {
+            "AAQREZOK13OV7": {
+                "LifetimeApprovalRate": "100% (2/2)",
+                "WorkTimeInSeconds": "1125",
+                "context_target": "5",
+                "context_wst": "4",
+                "context_nst": "5",
+                "context_nps": "5",
+                "context_naive": "2"
+            },
+            "A6JKKANO7F4KD": {
+                "LifetimeApprovalRate": "0% (0/0)",
+                "WorkTimeInSeconds": "107",
+                "context_target": "5",
+                "context_wst": "5",
+                "context_nst": "5",
+                "context_nps": "4",
+                "context_naive": "3"
+            },
+            "A1KTF07LF5E2LT": {
+                "LifetimeApprovalRate": "100% (3/3)",
+                "WorkTimeInSeconds": "544",
+                "context_target": "4",
+                "context_wst": "3",
+                "context_nst": "4",
+                "context_nps": "4",
+                "context_naive": "5"
+            }
+        }
+    },
+    "empadialog_hit_11605_conv_23211_4": {
+        "target_emo": "anger",
+        "emotion": {
+            "A3E6KJUG3MHHA9": {
+                "LifetimeApprovalRate": "100% (1/1)",
+                "WorkTimeInSeconds": "145",
+                "emotion_target": "4",
+                "emotion_wst": "5",
+                "emotion_nst": "3",
+                "emotion_nps": "3",
+                "emotion_naive": "4"
+            },
+            "A25NGIY591U3DK": {
+                "LifetimeApprovalRate": "100% (1/1)",
+                "WorkTimeInSeconds": "64",
+                "emotion_target": "4",
+                "emotion_wst": "3",
+                "emotion_nst": "4",
+                "emotion_nps": "3",
+                "emotion_naive": "3"
+            },
+            "AAQREZOK13OV7": {
+                "LifetimeApprovalRate": "100% (4/4)",
+                "WorkTimeInSeconds": "1124",
+                "emotion_target": "3",
+                "emotion_wst": "2",
+                "emotion_nst": "3",
+                "emotion_nps": "4",
+                "emotion_naive": "5"
+            }
+        },
+        "similarity": {
+            "A3JBN7RTZTUK0X": {
+                "LifetimeApprovalRate": "100% (1/1)",
+                "WorkTimeInSeconds": "2191",
+                "similarity_target": "2",
+                "similarity_wst": "4",
+                "similarity_nst": "3",
+                "similarity_nps": "4",
+                "similarity_naive": "4"
+            },
+            "A9UW8KE9S8YSX": {
+                "LifetimeApprovalRate": "100% (1/1)",
+                "WorkTimeInSeconds": "640",
+                "similarity_target": "3",
+                "similarity_wst": "3",
+                "similarity_nst": "2",
+                "similarity_nps": "2",
+                "similarity_naive": "2"
+            },
+            "A25NGIY591U3DK": {
+                "LifetimeApprovalRate": "100% (2/2)",
+                "WorkTimeInSeconds": "132",
+                "similarity_target": "4",
+                "similarity_wst": "3",
+                "similarity_nst": "4",
+                "similarity_nps": "3",
+                "similarity_naive": "4"
+            }
+        },
+        "fluency": {
+            "A25NGIY591U3DK": {
+                "LifetimeApprovalRate": "100% (3/3)",
+                "WorkTimeInSeconds": "145",
+                "fluency_target": "3",
+                "fluency_wst": "3",
+                "fluency_nst": "4",
+                "fluency_nps": "3",
+                "fluency_naive": "3"
+            },
+            "A3BQFZUNP490FB": {
+                "LifetimeApprovalRate": "100% (1/1)",
+                "WorkTimeInSeconds": "33",
+                "fluency_target": "5",
+                "fluency_wst": "4",
+                "fluency_nst": "4",
+                "fluency_nps": "5",
+                "fluency_naive": "5"
+            },
+            "A2827O2P9FOWKY": {
+                "LifetimeApprovalRate": "100% (1/1)",
+                "WorkTimeInSeconds": "205",
+                "fluency_target": "4",
+                "fluency_wst": "3",
+                "fluency_nst": "4",
+                "fluency_nps": "3",
+                "fluency_naive": "4"
+            }
+        },
+        "context": {
+            "A1VMPZVVVZUCS4": {
+                "LifetimeApprovalRate": "100% (1/1)",
+                "WorkTimeInSeconds": "48",
+                "context_target": "5",
+                "context_wst": "5",
+                "context_nst": "5",
+                "context_nps": "1",
+                "context_naive": "4"
+            },
+            "A1ZPIPHM272LO8": {
+                "LifetimeApprovalRate": "100% (1/1)",
+                "WorkTimeInSeconds": "1944",
+                "context_target": "5",
+                "context_wst": "2",
+                "context_nst": "3",
+                "context_nps": "2",
+                "context_naive": "4"
+            },
+            "A27V2X7J8UB0D6": {
+                "LifetimeApprovalRate": "100% (1/1)",
+                "WorkTimeInSeconds": "124",
+                "context_target": "4",
+                "context_wst": "3",
+                "context_nst": "2",
+                "context_nps": "2",
+                "context_naive": "3"
+            }
+        }
+    },
+    "empadialog_hit_1459_conv_2918_2": {
+        "target_emo": "happiness",
+        "emotion": {
+            "A16UXP3PNM7P6U": {
+                "LifetimeApprovalRate": "100% (3/3)",
+                "WorkTimeInSeconds": "253",
+                "emotion_target": "3",
+                "emotion_wst": "4",
+                "emotion_nst": "4",
+                "emotion_nps": "2",
+                "emotion_naive": "4"
+            },
+            "A1QUQFADXQ6NBS": {
+                "LifetimeApprovalRate": "100% (1/1)",
+                "WorkTimeInSeconds": "177",
+                "emotion_target": "4",
+                "emotion_wst": "3",
+                "emotion_nst": "5",
+                "emotion_nps": "4",
+                "emotion_naive": "5"
+            },
+            "AAQREZOK13OV7": {
+                "LifetimeApprovalRate": "100% (6/6)",
+                "WorkTimeInSeconds": "917",
+                "emotion_target": "4",
+                "emotion_wst": "4",
+                "emotion_nst": "5",
+                "emotion_nps": "5",
+                "emotion_naive": "5"
+            }
+        },
+        "similarity": {
+            "A1VPJFCJDIXGW7": {
+                "LifetimeApprovalRate": "100% (4/4)",
+                "WorkTimeInSeconds": "1398",
+                "similarity_target": "4",
+                "similarity_wst": "2",
+                "similarity_nst": "3",
+                "similarity_nps": "2",
+                "similarity_naive": "3"
+            },
+            "A2MNDP49IZN3VL": {
+                "LifetimeApprovalRate": "100% (1/1)",
+                "WorkTimeInSeconds": "1560",
+                "similarity_target": "5",
+                "similarity_wst": "5",
+                "similarity_nst": "4",
+                "similarity_nps": "4",
+                "similarity_naive": "5"
+            },
+            "AG36U7IOG2LAP": {
+                "LifetimeApprovalRate": "100% (3/3)",
+                "WorkTimeInSeconds": "58",
+                "similarity_target": "4",
+                "similarity_wst": "4",
+                "similarity_nst": "5",
+                "similarity_nps": "4",
+                "similarity_naive": "3"
+            }
+        },
+        "fluency": {
+            "A10KRP4WDWI8PN": {
+                "LifetimeApprovalRate": "100% (1/1)",
+                "WorkTimeInSeconds": "3089",
+                "fluency_target": "3",
+                "fluency_wst": "3",
+                "fluency_nst": "3",
+                "fluency_nps": "4",
+                "fluency_naive": "3"
+            },
+            "A14BSOU2Y5JNT0": {
+                "LifetimeApprovalRate": "100% (1/1)",
+                "WorkTimeInSeconds": "1001",
+                "fluency_target": "2",
+                "fluency_wst": "4",
+                "fluency_nst": "4",
+                "fluency_nps": "3",
+                "fluency_naive": "4"
+            },
+            "A1RIC8D69A18NM": {
+                "LifetimeApprovalRate": "100% (1/1)",
+                "WorkTimeInSeconds": "46",
+                "fluency_target": "2",
+                "fluency_wst": "4",
+                "fluency_nst": "3",
+                "fluency_nps": "4",
+                "fluency_naive": "2"
+            }
+        },
+        "context": {
+            "AAPZD5RBP1ZKH": {
+                "LifetimeApprovalRate": "100% (1/1)",
+                "WorkTimeInSeconds": "102",
+                "context_target": "2",
+                "context_wst": "2",
+                "context_nst": "3",
+                "context_nps": "3",
+                "context_naive": "4"
+            },
+            "A3IQWK3D4ABJKV": {
+                "LifetimeApprovalRate": "100% (1/1)",
+                "WorkTimeInSeconds": "490",
+                "context_target": "4",
+                "context_wst": "3",
+                "context_nst": "4",
+                "context_nps": "4",
+                "context_naive": "4"
+            },
+            "AHWR8NUW7RYT9": {
+                "LifetimeApprovalRate": "100% (1/1)",
+                "WorkTimeInSeconds": "591",
+                "context_target": "5",
+                "context_wst": "4",
+                "context_nst": "4",
+                "context_nps": "4",
+                "context_naive": "5"
+            }
+        }
+    },
+    "empadialog_hit_1608_conv_3216_3": {
+        "target_emo": "happiness",
+        "emotion": {
+            "A34RELCT4UNZ3S": {
+                "LifetimeApprovalRate": "100% (1/1)",
+                "WorkTimeInSeconds": "231",
+                "emotion_target": "2",
+                "emotion_wst": "3",
+                "emotion_nst": "5",
+                "emotion_nps": "2",
+                "emotion_naive": "3"
+            },
+            "A3KFXYXXF16YIW": {
+                "LifetimeApprovalRate": "100% (1/1)",
+                "WorkTimeInSeconds": "1471",
+                "emotion_target": "4",
+                "emotion_wst": "4",
+                "emotion_nst": "4",
+                "emotion_nps": "4",
+                "emotion_naive": "5"
+            },
+            "AD1ILDUXZHASF": {
+                "LifetimeApprovalRate": "100% (4/4)",
+                "WorkTimeInSeconds": "383",
+                "emotion_target": "5",
+                "emotion_wst": "5",
+                "emotion_nst": "5",
+                "emotion_nps": "5",
+                "emotion_naive": "5"
+            }
+        },
+        "similarity": {
+            "A3HQQOXDOF1131": {
+                "LifetimeApprovalRate": "100% (2/2)",
+                "WorkTimeInSeconds": "338",
+                "similarity_target": "5",
+                "similarity_wst": "4",
+                "similarity_nst": "4",
+                "similarity_nps": "5",
+                "similarity_naive": "5"
+            },
+            "A1VPJFCJDIXGW7": {
+                "LifetimeApprovalRate": "100% (1/1)",
+                "WorkTimeInSeconds": "128",
+                "similarity_target": "2",
+                "similarity_wst": "3",
+                "similarity_nst": "2",
+                "similarity_nps": "3",
+                "similarity_naive": "4"
+            },
+            "AD1ILDUXZHASF": {
+                "LifetimeApprovalRate": "100% (5/5)",
+                "WorkTimeInSeconds": "378",
+                "similarity_target": "4",
+                "similarity_wst": "5",
+                "similarity_nst": "4",
+                "similarity_nps": "5",
+                "similarity_naive": "5"
+            }
+        },
+        "context": {
+            "A1VPJFCJDIXGW7": {
+                "LifetimeApprovalRate": "100% (2/2)",
+                "WorkTimeInSeconds": "194",
+                "context_target": "2",
+                "context_wst": "2",
+                "context_nst": "3",
+                "context_nps": "4",
+                "context_naive": "2"
+            },
+            "A2NHQ2FB35T1NE": {
+                "LifetimeApprovalRate": "100% (2/2)",
+                "WorkTimeInSeconds": "56",
+                "context_target": "3",
+                "context_wst": "4",
+                "context_nst": "4",
+                "context_nps": "4",
+                "context_naive": "4"
+            },
+            "A1WS034BN6VQPK": {
+                "LifetimeApprovalRate": "100% (1/1)",
+                "WorkTimeInSeconds": "224",
+                "context_target": "5",
+                "context_wst": "4",
+                "context_nst": "4",
+                "context_nps": "4",
+                "context_naive": "5"
+            }
+        },
+        "fluency": {
+            "A3C3Q963MQDPGT": {
+                "LifetimeApprovalRate": "100% (1/1)",
+                "WorkTimeInSeconds": "3099",
+                "fluency_target": "4",
+                "fluency_wst": "4",
+                "fluency_nst": "5",
+                "fluency_nps": "5",
+                "fluency_naive": "1"
+            },
+            "A31VR75C4H14P4": {
+                "LifetimeApprovalRate": "100% (1/1)",
+                "WorkTimeInSeconds": "1597",
+                "fluency_target": "3",
+                "fluency_wst": "4",
+                "fluency_nst": "3",
+                "fluency_nps": "4",
+                "fluency_naive": "3"
+            },
+            "AKSJ3C5O3V9RB": {
+                "LifetimeApprovalRate": "100% (4/4)",
+                "WorkTimeInSeconds": "3523",
+                "fluency_target": "4",
+                "fluency_wst": "3",
+                "fluency_nst": "5",
+                "fluency_nps": "4",
+                "fluency_naive": "1"
+            }
+        }
+    },
+    "empadialog_hit_4433_conv_8867_2": {
+        "target_emo": "sadness",
+        "emotion": {
+            "AD1ILDUXZHASF": {
+                "LifetimeApprovalRate": "100% (7/7)",
+                "WorkTimeInSeconds": "49",
+                "emotion_target": "4",
+                "emotion_wst": "3",
+                "emotion_nst": "4",
+                "emotion_nps": "4",
+                "emotion_naive": "3"
+            },
+            "A139MS28E3BMRX": {
+                "LifetimeApprovalRate": "100% (2/2)",
+                "WorkTimeInSeconds": "172",
+                "emotion_target": "4",
+                "emotion_wst": "3",
+                "emotion_nst": "4",
+                "emotion_nps": "3",
+                "emotion_naive": "4"
+            },
+            "AHWR8NUW7RYT9": {
+                "LifetimeApprovalRate": "100% (3/3)",
+                "WorkTimeInSeconds": "177",
+                "emotion_target": "3",
+                "emotion_wst": "3",
+                "emotion_nst": "4",
+                "emotion_nps": "5",
+                "emotion_naive": "4"
+            }
+        },
+        "similarity": {
+            "AG36U7IOG2LAP": {
+                "LifetimeApprovalRate": "100% (4/4)",
+                "WorkTimeInSeconds": "33",
+                "similarity_target": "3",
+                "similarity_wst": "3",
+                "similarity_nst": "4",
+                "similarity_nps": "4",
+                "similarity_naive": "3"
+            },
+            "AHWR8NUW7RYT9": {
+                "LifetimeApprovalRate": "100% (2/2)",
+                "WorkTimeInSeconds": "282",
+                "similarity_target": "4",
+                "similarity_wst": "4",
+                "similarity_nst": "4",
+                "similarity_nps": "3",
+                "similarity_naive": "5"
+            },
+            "A1GUWXA5B6RCOR": {
+                "LifetimeApprovalRate": "100% (2/2)",
+                "WorkTimeInSeconds": "94",
+                "similarity_target": "4",
+                "similarity_wst": "3",
+                "similarity_nst": "4",
+                "similarity_nps": "3",
+                "similarity_naive": "4"
+            }
+        },
+        "fluency": {
+            "A139MS28E3BMRX": {
+                "LifetimeApprovalRate": "100% (1/1)",
+                "WorkTimeInSeconds": "40",
+                "fluency_target": "4",
+                "fluency_wst": "4",
+                "fluency_nst": "5",
+                "fluency_nps": "3",
+                "fluency_naive": "4"
+            },
+            "A1VPJFCJDIXGW7": {
+                "LifetimeApprovalRate": "100% (3/3)",
+                "WorkTimeInSeconds": "50",
+                "fluency_target": "2",
+                "fluency_wst": "4",
+                "fluency_nst": "4",
+                "fluency_nps": "3",
+                "fluency_naive": "2"
+            },
+            "A5F3644OP5D30": {
+                "LifetimeApprovalRate": "100% (1/1)",
+                "WorkTimeInSeconds": "182",
+                "fluency_target": "1",
+                "fluency_wst": "2",
+                "fluency_nst": "5",
+                "fluency_nps": "4",
+                "fluency_naive": "3"
+            }
+        },
+        "context": {
+            "A1ZPIPHM272LO8": {
+                "LifetimeApprovalRate": "100% (2/2)",
+                "WorkTimeInSeconds": "1744",
+                "context_target": "3",
+                "context_wst": "5",
+                "context_nst": "4",
+                "context_nps": "3",
+                "context_naive": "1"
+            },
+            "A1ZRK6K5JUPJAV": {
+                "LifetimeApprovalRate": "100% (1/1)",
+                "WorkTimeInSeconds": "92",
+                "context_target": "5",
+                "context_wst": "5",
+                "context_nst": "5",
+                "context_nps": "3",
+                "context_naive": "3"
+            },
+            "A1OAE64ACJ345Z": {
+                "LifetimeApprovalRate": "100% (1/1)",
+                "WorkTimeInSeconds": "90",
+                "context_target": "3",
+                "context_wst": "3",
+                "context_nst": "3",
+                "context_nps": "4",
+                "context_naive": "4"
+            }
+        }
+    },
+    "empadialog_hit_7214_conv_14429_2": {
+        "target_emo": "sadness",
+        "emotion": {
+            "A314KKX6ONDO9O": {
+                "LifetimeApprovalRate": "100% (1/1)",
+                "WorkTimeInSeconds": "2479",
+                "emotion_target": "4",
+                "emotion_wst": "3",
+                "emotion_nst": "2",
+                "emotion_nps": "4",
+                "emotion_naive": "2"
+            },
+            "A3BZ2ITEV420Q3": {
+                "LifetimeApprovalRate": "100% (1/1)",
+                "WorkTimeInSeconds": "74",
+                "emotion_target": "3",
+                "emotion_wst": "3",
+                "emotion_nst": "3",
+                "emotion_nps": "4",
+                "emotion_naive": "4"
+            },
+            "APRHR60T52KR9": {
+                "LifetimeApprovalRate": "100% (1/1)",
+                "WorkTimeInSeconds": "2098",
+                "emotion_target": "4",
+                "emotion_wst": "4",
+                "emotion_nst": "4",
+                "emotion_nps": "3",
+                "emotion_naive": "2"
+            }
+        },
+        "similarity": {
+            "A1C53HU6TF9VPJ": {
+                "LifetimeApprovalRate": "100% (1/1)",
+                "WorkTimeInSeconds": "1593",
+                "similarity_target": "3",
+                "similarity_wst": "4",
+                "similarity_nst": "3",
+                "similarity_nps": "3",
+                "similarity_naive": "4"
+            },
+            "A2COCSUGZV28X": {
+                "LifetimeApprovalRate": "100% (1/1)",
+                "WorkTimeInSeconds": "1874",
+                "similarity_target": "4",
+                "similarity_wst": "4",
+                "similarity_nst": "4",
+                "similarity_nps": "3",
+                "similarity_naive": "4"
+            },
+            "AD1ILDUXZHASF": {
+                "LifetimeApprovalRate": "100% (6/6)",
+                "WorkTimeInSeconds": "36",
+                "similarity_target": "4",
+                "similarity_wst": "5",
+                "similarity_nst": "1",
+                "similarity_nps": "5",
+                "similarity_naive": "5"
+            }
+        },
+        "fluency": {
+            "AD1ILDUXZHASF": {
+                "LifetimeApprovalRate": "100% (3/3)",
+                "WorkTimeInSeconds": "74",
+                "fluency_target": "1",
+                "fluency_wst": "4",
+                "fluency_nst": "5",
+                "fluency_nps": "2",
+                "fluency_naive": "3"
+            },
+            "AS5OG2PNDHRVQ": {
+                "LifetimeApprovalRate": "100% (3/3)",
+                "WorkTimeInSeconds": "143",
+                "fluency_target": "4",
+                "fluency_wst": "5",
+                "fluency_nst": "5",
+                "fluency_nps": "3",
+                "fluency_naive": "5"
+            },
+            "A16UXP3PNM7P6U": {
+                "LifetimeApprovalRate": "100% (2/2)",
+                "WorkTimeInSeconds": "403",
+                "fluency_target": "3",
+                "fluency_wst": "3",
+                "fluency_nst": "3",
+                "fluency_nps": "4",
+                "fluency_naive": "4"
+            }
+        },
+        "context": {
+            "A1JNI82IUJCP93": {
+                "LifetimeApprovalRate": "100% (2/2)",
+                "WorkTimeInSeconds": "26",
+                "context_target": "5",
+                "context_wst": "5",
+                "context_nst": "5",
+                "context_nps": "5",
+                "context_naive": "4"
+            },
+            "A3JHA1HOQKSXW6": {
+                "LifetimeApprovalRate": "100% (1/1)",
+                "WorkTimeInSeconds": "62",
+                "context_target": "3",
+                "context_wst": "3",
+                "context_nst": "3",
+                "context_nps": "4",
+                "context_naive": "4"
+            },
+            "A03846191RWU57N8DCK72": {
+                "LifetimeApprovalRate": "100% (2/2)",
+                "WorkTimeInSeconds": "2396",
+                "context_target": "4",
+                "context_wst": "5",
+                "context_nst": "4",
+                "context_nps": "3",
+                "context_naive": "4"
+            }
+        }
+    },
+    "empadialog_hit_9784_conv_19568_4": {
+        "target_emo": "sadness",
+        "emotion": {
+            "A24WDSB416WMKU": {
+                "LifetimeApprovalRate": "100% (1/1)",
+                "WorkTimeInSeconds": "235",
+                "emotion_target": "4",
+                "emotion_wst": "4",
+                "emotion_nst": "4",
+                "emotion_nps": "4",
+                "emotion_naive": "3"
+            },
+            "A2QTL039A5VV3I": {
+                "LifetimeApprovalRate": "100% (4/4)",
+                "WorkTimeInSeconds": "25",
+                "emotion_target": "4",
+                "emotion_wst": "1",
+                "emotion_nst": "5",
+                "emotion_nps": "5",
+                "emotion_naive": "5"
+            },
+            "AS5OG2PNDHRVQ": {
+                "LifetimeApprovalRate": "100% (1/1)",
+                "WorkTimeInSeconds": "130",
+                "emotion_target": "3",
+                "emotion_wst": "4",
+                "emotion_nst": "2",
+                "emotion_nps": "5",
+                "emotion_naive": "4"
+            }
+        },
+        "similarity": {
+            "A37QTJ8CKS7V32": {
+                "LifetimeApprovalRate": "100% (1/1)",
+                "WorkTimeInSeconds": "1447",
+                "similarity_target": "4",
+                "similarity_wst": "3",
+                "similarity_nst": "4",
+                "similarity_nps": "3",
+                "similarity_naive": "4"
+            },
+            "A1RIC8D69A18NM": {
+                "LifetimeApprovalRate": "100% (2/2)",
+                "WorkTimeInSeconds": "39",
+                "similarity_target": "4",
+                "similarity_wst": "3",
+                "similarity_nst": "5",
+                "similarity_nps": "3",
+                "similarity_naive": "4"
+            },
+            "A2QTL039A5VV3I": {
+                "LifetimeApprovalRate": "100% (5/5)",
+                "WorkTimeInSeconds": "26",
+                "similarity_target": "5",
+                "similarity_wst": "1",
+                "similarity_nst": "5",
+                "similarity_nps": "5",
+                "similarity_naive": "5"
+            }
+        },
+        "fluency": {
+            "AS5OG2PNDHRVQ": {
+                "LifetimeApprovalRate": "100% (2/2)",
+                "WorkTimeInSeconds": "191",
+                "fluency_target": "5",
+                "fluency_wst": "4",
+                "fluency_nst": "4",
+                "fluency_nps": "3",
+                "fluency_naive": "4"
+            },
+            "A1QUQ0TV9KVD4C": {
+                "LifetimeApprovalRate": "100% (1/1)",
+                "WorkTimeInSeconds": "18",
+                "fluency_target": "3",
+                "fluency_wst": "2",
+                "fluency_nst": "4",
+                "fluency_nps": "5",
+                "fluency_naive": "3"
+            },
+            "AWJ3MAVSHICCR": {
+                "LifetimeApprovalRate": "100% (1/1)",
+                "WorkTimeInSeconds": "97",
+                "fluency_target": "4",
+                "fluency_wst": "3",
+                "fluency_nst": "3",
+                "fluency_nps": "4",
+                "fluency_naive": "4"
+            }
+        },
+        "context": {
+            "AS5OG2PNDHRVQ": {
+                "LifetimeApprovalRate": "100% (4/4)",
+                "WorkTimeInSeconds": "279",
+                "context_target": "4",
+                "context_wst": "3",
+                "context_nst": "2",
+                "context_nps": "4",
+                "context_naive": "4"
+            },
+            "A3T1M3NZ5UIA56": {
+                "LifetimeApprovalRate": "100% (1/1)",
+                "WorkTimeInSeconds": "18",
+                "context_target": "4",
+                "context_wst": "3",
+                "context_nst": "3",
+                "context_nps": "3",
+                "context_naive": "3"
+            },
+            "A1TLPOT809ERIH": {
+                "LifetimeApprovalRate": "100% (1/1)",
+                "WorkTimeInSeconds": "833",
+                "context_target": "3",
+                "context_wst": "4",
+                "context_nst": "1",
+                "context_nps": "3",
+                "context_naive": "4"
+            }
+        }
+    },
+    "dailydialog_tr_3807_7": {
+        "target_emo": "happiness",
+        "context": {
+            "A15NBTTAV5PA2B": {
+                "LifetimeApprovalRate": "0% (0/0)",
+                "WorkTimeInSeconds": "853",
+                "context_target": "4",
+                "context_wst": "3",
+                "context_nst": "3",
+                "context_nps": "3",
+                "context_naive": "4"
+            },
+            "A11BHGAKU0RIH8": {
+                "LifetimeApprovalRate": "0% (0/0)",
+                "WorkTimeInSeconds": "116",
+                "context_target": "3",
+                "context_wst": "4",
+                "context_nst": "3",
+                "context_nps": "4",
+                "context_naive": "3"
+            },
+            "A1WDKGHZ4J0H67": {
+                "LifetimeApprovalRate": "0% (0/0)",
+                "WorkTimeInSeconds": "94",
+                "context_target": "5",
+                "context_wst": "5",
+                "context_nst": "4",
+                "context_nps": "2",
+                "context_naive": "5"
+            }
+        },
+        "emotion": {
+            "A2BFVGTLU6KDPB": {
+                "LifetimeApprovalRate": "0% (0/0)",
+                "WorkTimeInSeconds": "45",
+                "emotion_target": "3",
+                "emotion_wst": "3",
+                "emotion_nst": "4",
+                "emotion_nps": "4",
+                "emotion_naive": "4"
+            },
+            "A1JNI82IUJCP93": {
+                "LifetimeApprovalRate": "0% (0/0)",
+                "WorkTimeInSeconds": "286",
+                "emotion_target": "5",
+                "emotion_wst": "5",
+                "emotion_nst": "5",
+                "emotion_nps": "2",
+                "emotion_naive": "5"
+            },
+            "A2S4CVETZQ2H4F": {
+                "LifetimeApprovalRate": "0% (0/0)",
+                "WorkTimeInSeconds": "47",
+                "emotion_target": "4",
+                "emotion_wst": "4",
+                "emotion_nst": "4",
+                "emotion_nps": "2",
+                "emotion_naive": "4"
+            }
+        },
+        "fluency": {
+            "A3MV2FPJ3OYFK1": {
+                "LifetimeApprovalRate": "0% (0/0)",
+                "WorkTimeInSeconds": "243",
+                "fluency_target": "4",
+                "fluency_wst": "5",
+                "fluency_nst": "3",
+                "fluency_nps": "3",
+                "fluency_naive": "4"
+            },
+            "A1PKGN0ODXJZBJ": {
+                "LifetimeApprovalRate": "0% (0/0)",
+                "WorkTimeInSeconds": "85",
+                "fluency_target": "4",
+                "fluency_wst": "2",
+                "fluency_nst": "2",
+                "fluency_nps": "5",
+                "fluency_naive": "4"
+            },
+            "A2PQSLX8AGO3J2": {
+                "LifetimeApprovalRate": "0% (0/0)",
+                "WorkTimeInSeconds": "1573",
+                "fluency_target": "3",
+                "fluency_wst": "3",
+                "fluency_nst": "3",
+                "fluency_nps": "4",
+                "fluency_naive": "4"
+            }
+        },
+        "similarity": {
+            "A2ML7ATI15HJO7": {
+                "LifetimeApprovalRate": "0% (0/0)",
+                "WorkTimeInSeconds": "412",
+                "similarity_target": "2",
+                "similarity_wst": "2",
+                "similarity_nst": "2",
+                "similarity_nps": "5",
+                "similarity_naive": "4"
+            },
+            "A1G187YBG0DVMQ": {
+                "LifetimeApprovalRate": "100% (1/1)",
+                "WorkTimeInSeconds": "1207",
+                "similarity_target": "5",
+                "similarity_wst": "3",
+                "similarity_nst": "3",
+                "similarity_nps": "4",
+                "similarity_naive": "5"
+            },
+            "A4D99Y82KOLC8": {
+                "LifetimeApprovalRate": "0% (0/0)",
+                "WorkTimeInSeconds": "2505",
+                "similarity_target": "5",
+                "similarity_wst": "5",
+                "similarity_nst": "4",
+                "similarity_nps": "3",
+                "similarity_naive": "3"
+            }
+        }
+    }
+}
