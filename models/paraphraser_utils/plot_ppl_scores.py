@@ -3,7 +3,7 @@ import json
 import numpy as np
 from tqdm import tqdm
 import matplotlib.pyplot as plt
-from paraphraser_utils.scoring import PerplexityScorer
+from models.paraphraser_utils.scoring import PerplexityScorer
 
 
 def get_num_bins(all_model_scores):
@@ -68,7 +68,7 @@ def main():
 
 
 if __name__ == "__main__":
-    dir_path = '../outputs'
+    dir_path = '../../outputs'
     files = ['naive_phrases_test_emo_wbf.json',
              'bart_with_style_loss_test_emo_wbf.json',
              'pegasus_with_style_loss_test_emo_wbf.json']

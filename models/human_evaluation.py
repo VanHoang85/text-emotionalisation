@@ -218,5 +218,5 @@ def main():
 
 
 if __name__ == '__main__':
-    dir_path = './human_eval_files'
+    dir_path = '../human_eval_files'
     main()

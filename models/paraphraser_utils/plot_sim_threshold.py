@@ -30,7 +30,7 @@ def plot():
 
 
 if __name__ == "__main__":
-    in_dir = os.path.join('../data', 'style')
+    in_dir = os.path.join('../../data', 'style')
     splits = ['train.json', 'validation.json', 'test.json']
     model = SentenceTransformer('all-MiniLM-L6-v2').to(device)
 

@@ -7,9 +7,9 @@ _DESCRIPTION = """\
 This new dataset is designed to for the task of style style transfer.
 """
 
-GENERIC_DATA_DIR = os.path.join(os.path.join(os.getcwd(), "data"), "generic")
-CLASSIFIER_DATA_DIR = os.path.join(os.path.join(os.getcwd(), "data"), "classifier")
-EMOTION_DATA_DIR = os.path.join(os.path.join(os.getcwd(), "data"), "style")
+GENERIC_DATA_DIR = os.path.join(os.path.join(os.getcwd(), "../data"), "generic")
+CLASSIFIER_DATA_DIR = os.path.join(os.path.join(os.getcwd(), "../data"), "classifier")
+EMOTION_DATA_DIR = os.path.join(os.path.join(os.getcwd(), "../data"), "style")
 
 
 class StyleParaphrase(datasets.GeneratorBasedBuilder):

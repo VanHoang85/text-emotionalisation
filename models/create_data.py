@@ -285,12 +285,12 @@ def split_file(data, out_dir):
 
 
 def read_generic_for_silver_data():
-    path_to_gold_file = './data/style/train.json'
+    path_to_gold_file = '../data/style/train.json'
     path_to_gold_neu_para_file = 'outputs/pegasus_para_train_neutralizer.json'
     path_to_gold_emo_para_file = 'outputs/pegasus_para_train_emo_stylizer.json'
     path_to_raw_silver_file = './data/style/generic_diff_emos_wn_final_filtered.json'
 
-    pattern_matcher = PatternMatcher('./lexicons')
+    pattern_matcher = PatternMatcher('../lexicons')
 
     count_gold, count_silver = Counter(), Counter()
     silver_data, gold_para_data = {}, {}
@@ -403,7 +403,7 @@ def read_generic_for_silver_data():
 
 def create_new_testset():
     path_to_neutral_file = 'datasets/annotated/RECCON/extra/dailydialog_neutral.json'
-    path_to_out_file = './data/style/new_test.json'
+    path_to_out_file = '../data/style/new_test.json'
     count = Counter()
     testset = {}
 
@@ -443,7 +443,7 @@ def create_new_testset():
 
 def create_human_test():
     path_to_pred_file = './outputs/pegasus_new_test_all_emos.json'
-    path_to_out_file = 'human_eval_files/human_evaluation.json'
+    path_to_out_file = '../human_eval_files/human_evaluation.json'
     counter = Counter()
     outs = {}
 

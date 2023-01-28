@@ -6,7 +6,7 @@ from pattern_matcher import PatternMatcher
 import sys
 sys.path.append('..')
 from lexicons import patterns
-from paraphraser_utils.scoring import StyleScorer
+from models.paraphraser_utils.scoring import StyleScorer
 
 
 class EmoWordMatcher:

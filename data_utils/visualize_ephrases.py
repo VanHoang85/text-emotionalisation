@@ -6,7 +6,6 @@ from tqdm import tqdm
 from collections import Counter
 from get_edit_operations import get_all
 from pattern_matcher import PatternMatcher
-from sentence_transformers import SentenceTransformer
 from sklearn.cluster import AgglomerativeClustering
 from sklearn.manifold import TSNE
 from sklearn.decomposition import PCA
@@ -15,7 +14,7 @@ import seaborn as sns
 
 import sys
 sys.path.append('..')
-from paraphraser_utils.scoring import DiversityScorer
+from models.paraphraser_utils.scoring import DiversityScorer
 
 
 def filter_e_phrases(phrases: list) -> list:
