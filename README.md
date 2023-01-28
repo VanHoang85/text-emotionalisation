@@ -1,2 +1,2 @@
-# affectiveNLG
+# Text Emotionalisation
 Master Thesis project
