@@ -142,10 +142,24 @@ def parse_args():
         default=1e-5,
         help="Initial learning rate (after the potential warmup period) to use.",
     )
-    parser.add_argument("--weight_decay", type=float, default=0.0, help="Weight decay to use.")
-    parser.add_argument("--num_train_epochs", type=int, default=10, help="Total number of training epochs to perform.")
-    parser.add_argument("--max_no_improvements", type=int, default=3,
-                        help="Max number of training epochs to do early stopping.")
+    parser.add_argument(
+        "--weight_decay",
+        type=float,
+        default=0.0,
+        help="Weight decay to use."
+    )
+    parser.add_argument(
+        "--num_train_epochs",
+        type=int,
+        default=10,
+        help="Total number of training epochs to perform."
+    )
+    parser.add_argument(
+        "--max_no_improvements",
+        type=int,
+        default=3,
+        help="Max number of training epochs to do early stopping."
+    )
     parser.add_argument(
         "--max_train_steps",
         type=int,
@@ -173,7 +187,10 @@ def parse_args():
         choices=["adamw", "adafactor"],
     )
     parser.add_argument(
-        "--num_warmup_steps", type=int, default=0, help="Number of steps for the warmup in the lr scheduler."
+        "--num_warmup_steps",
+        type=int,
+        default=0,
+        help="Number of steps for the warmup in the lr scheduler."
     )
     parser.add_argument(
         "--use_bertscore",
@@ -185,10 +202,30 @@ def parse_args():
         action="store_true",
         help="If passed, will use a bert score as an additional metrics for evaluation.",
     )
-    parser.add_argument("--output_path", type=str, default=None, help="Where to store the final model.")
-    parser.add_argument("--output_dir", type=str, default=None, help="Where to store the final model.")
-    parser.add_argument("--cache_dir", type=str, default=None, help="Where to store the caches.")
-    parser.add_argument("--seed", type=int, default=None, help="A seed for reproducible training.")
+    parser.add_argument(
+        "--output_path",
+        type=str,
+        default=None,
+        help="Where to store the final model."
+    )
+    parser.add_argument(
+        "--output_dir",
+        type=str,
+        default=None,
+        help="Where to store the final model."
+    )
+    parser.add_argument(
+        "--cache_dir",
+        type=str,
+        default=None,
+        help="Where to store the caches."
+    )
+    parser.add_argument(
+        "--seed",
+        type=int,
+        default=None,
+        help="A seed for reproducible training."
+    )
     parser.add_argument(
         "--num_beams",
         type=int,

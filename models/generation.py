@@ -365,10 +365,8 @@ if __name__ == '__main__':
                         required=True,
                         help="Path to pretrained model or model identifier from huggingface.co/models.")
     parser.add_argument("--path_to_classifier_dir", type=str,
-                        default="/speech/dbwork/mul/spielwiese3/dehoang/outputs/classifier",
                         help="Path to the trained style (emotion) classifier.")
     parser.add_argument("--path_to_cola_classifier", type=str,
-                        default="/speech/dbwork/mul/spielwiese3/dehoang/outputs/cola_classifier",
                         help="Path to the trained cola (grammar acceptability) classifier.")
     parser.add_argument("--batch_size", type=int, default=1)
     parser.add_argument("--max_seq_length", type=int, default=60)
@@ -403,8 +401,8 @@ if __name__ == '__main__':
     parser.add_argument("--min_ppl_score", type=float, default=0.5)
     parser.add_argument("--min_grm_score", type=float, default=0.5)
     parser.add_argument("--max_pred_return", type=int, default=5)
-    parser.add_argument("--cache_dir", type=str, default='/speech/dbwork/mul/spielwiese3/dehoang/caches')
-    parser.add_argument("--output_dir", type=str, default='./outputs')
+    parser.add_argument("--cache_dir", type=str)
+    parser.add_argument("--output_dir", type=str, default='../outputs')
     parser.add_argument("--output_file", type=str, default=None)
     parser.add_argument("--input_file", type=str, default=None)
     args = parser.parse_args()
