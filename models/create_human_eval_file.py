@@ -5,8 +5,8 @@ import json
 import random
 import itertools as it
 from collections import Counter
-from human_eval_files.mapping import hit2utt, utt2emo
-from human_eval_files.templates import templates
+from data.human_eval_files.mapping import hit2utt, utt2emo
+from data.human_eval_files.templates import templates
 
 
 def read_file(path_to_file):
@@ -118,7 +118,7 @@ def get_overlap(path_to_file):
 
 
 def amt_templates():
-    path_to_file = "../human_eval_files/human_eval_candidates.json"
+    path_to_file = "../data/human_eval_files/human_eval_candidates.json"
     counter = Counter()
     used_ids = []
     mapping = {"anger": "angry", "happiness": "happy", "sadness": "sad"}
@@ -136,7 +136,7 @@ def amt_templates():
         used_ids.append(id_)
 
         for aspect, temp in temps.items():
-            dir_out = os.path.join("../human_eval_files/human_eval_templates", emotion)
+            dir_out = os.path.join("../data/human_eval_files/human_eval_templates", emotion)
             if not os.path.exists(dir_out):
                 os.mkdir(dir_out)
 
@@ -149,7 +149,7 @@ def amt_templates():
 
 
 def read_amt_results():
-    path_to_dir = "../human_eval_files/amt_files"
+    path_to_dir = "../data/human_eval_files/amt_files"
     outs = {}
 
     for amt_file in os.listdir(path_to_dir):
@@ -182,7 +182,7 @@ def read_amt_results():
                     f"{aspect}_naive": row[f"Answer.{aspect}-naive"]
                 }
                 outs[utt_id][aspect][worker_id] = result
-    with open("../human_eval_files/amt_results.json", "w", encoding="utf-8") as jfile:
+    with open("../data/human_eval_files/amt_results.json", "w", encoding="utf-8") as jfile:
         json.dump(outs, jfile, indent=4)
 
 
@@ -206,8 +206,8 @@ def get_human_scores(all_scores: dict, system: str, aspect: str):
 
 
 def merge_auto_human_results():
-    automatic_results = read_file("../human_eval_files/human_eval_candidates.json")
-    human_results = read_file("../human_eval_files/amt_results.json")
+    automatic_results = read_file("../data/human_eval_files/human_eval_candidates.json")
+    human_results = read_file("../data/human_eval_files/amt_results.json")
     outs = {}
 
     for id_ in human_results.keys():
@@ -247,7 +247,7 @@ def merge_auto_human_results():
             }
         outs.update({id_: out})
 
-    with open("../human_eval_files/merge_automatic_human_scores.json", "w", encoding="utf-8") as jfile:
+    with open("../data/human_eval_files/merge_automatic_human_scores.json", "w", encoding="utf-8") as jfile:
         json.dump(outs, jfile, indent=4)
 
 

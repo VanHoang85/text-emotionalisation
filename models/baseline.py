@@ -1,5 +1,5 @@
 import random
-from lexicons import patterns
+from models.lexicons import patterns
 
 
 class NaiveStyleTransfer:

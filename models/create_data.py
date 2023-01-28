@@ -6,7 +6,7 @@ import pickle
 import argparse
 from tqdm import tqdm
 from collections import Counter
-from data_utils.pattern_matcher import PatternMatcher
+from models.data_utils.pattern_matcher import PatternMatcher
 from sklearn.model_selection import train_test_split
 
 
@@ -290,7 +290,7 @@ def read_generic_for_silver_data():
     path_to_gold_emo_para_file = 'outputs/pegasus_para_train_emo_stylizer.json'
     path_to_raw_silver_file = './data/style/generic_diff_emos_wn_final_filtered.json'
 
-    pattern_matcher = PatternMatcher('../lexicons')
+    pattern_matcher = PatternMatcher('lexicons')
 
     count_gold, count_silver = Counter(), Counter()
     silver_data, gold_para_data = {}, {}
@@ -443,7 +443,7 @@ def create_new_testset():
 
 def create_human_test():
     path_to_pred_file = './outputs/pegasus_new_test_all_emos.json'
-    path_to_out_file = '../human_eval_files/human_evaluation.json'
+    path_to_out_file = '../data/human_eval_files/human_evaluation.json'
     counter = Counter()
     outs = {}
 

@@ -10,7 +10,7 @@ from datasets import load_metric
 from collections import Counter
 import matplotlib.pyplot as plt
 from paraphraser_utils.scoring import DiversityScorer
-from data_utils.get_edit_operations import get_all
+from models.data_utils.get_edit_operations import get_all
 
 
 def micro_evaluation():
@@ -165,7 +165,7 @@ def plot_perplexity(all_ppl_scores):
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(description="Arguments for evaluation")
-    parser.add_argument("--output_dir", type=str, default='./outputs')
+    parser.add_argument("--output_dir", type=str, default='../outputs')
     parser.add_argument("--prediction_file", type=str, default=None)
     parser.add_argument("--micro_type", type=str, default='binary', choices=['binary', 'sum'])
     parser.add_argument("--min_grm_score", type=float, default=0.5)
