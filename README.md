@@ -75,7 +75,7 @@ which you can change with the argument ``--output_dir``.
 import torch
 from transformers import PegasusForConditionalGeneration, PegasusTokenizer, PegasusConfig
 
-model_name = "path_to_your_models"
+model_name = "path_to_your_emotionaliser"
 device = 'cuda' if torch.cuda.is_available() else 'cpu'
 
 config = PegasusConfig.from_pretrained(model_name)
